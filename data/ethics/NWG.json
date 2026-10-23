@@ -1,0 +1,72 @@
+{
+  "ticker": "NWG",
+  "generatedAt": "2026-10-23T13:24:48.398Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2012,
+          "summary": "NatWest was fined £264.8 million after pleading guilty to money-laundering control failures involving Fowler Oldfield between 2012 and 2016.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.fca.org.uk/news/press-releases/natwest-fined-264.8million-anti-money-laundering-failures",
+              "title": "NatWest fined £264.8 million for anti-money laundering failures | FCA",
+              "publishedAt": "2021-12-13T00:00:00.000Z",
+              "quote": "National Westminster Bank Plc (NatWest) was today fined £264,772,619.95 following convictions for three offences of failing to comply with money laundering regulations."
+            },
+            {
+              "url": "https://www.fca.org.uk/news/press-releases/natwest-fined-264.8million-anti-money-laundering-failures",
+              "title": "NatWest fined £264.8 million for anti-money laundering failures | FCA",
+              "publishedAt": "2021-12-13T00:00:00.000Z",
+              "quote": "The charges covered NatWest’s failure to properly monitor the activity of a commercial customer, Fowler Oldfield, a jewellery business based in Bradford, between 8 November 2012 to 23 June 2016."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/business-59629711",
+              "title": "NatWest fined £265m after bin bags of cash laundered - BBC News",
+              "publishedAt": "2021-12-13T00:00:00.000Z",
+              "quote": "NatWest said it deeply regrets failing to monitor the customer properly."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "NatWest acknowledged confidentiality-related failings in the Farage debanking scandal, with separate civil proceedings and a possible private criminal prosecution reported in February 2025.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.independent.co.uk/news/business/natwest-nigel-farage-dame-alison-rose-b2698236.html",
+              "title": "Nigel Farage considers private criminal proceedings against NatWest Group over debanking scandal | The Independent",
+              "publishedAt": "2025-02-14T00:00:00.000Z",
+              "quote": "The debanking scandal resulted in Dame Alison Rose’s departure as chief executive, with the bank acknowledging failings on their part, largely tied to the treatment of confidential information."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/NatWest_Group",
+              "title": "NatWest Group",
+              "quote": "CEO Dame Alison Rose resigned after admitting to being the source of the inaccurate BBC report and for suggesting that his accounts had been closed only for commercial rather than any political reasons, and for this being a breach of client confidentiality."
+            },
+            {
+              "url": "https://www.independent.co.uk/news/business/natwest-nigel-farage-dame-alison-rose-b2698236.html",
+              "title": "Nigel Farage considers private criminal proceedings against NatWest Group over debanking scandal | The Independent",
+              "publishedAt": "2025-02-14T00:00:00.000Z",
+              "quote": "He told Sky News that Grosvenor Law, acting for him in separate civil proceedings against the bank, are instructing Mr Daw KC to explore a private criminal prosecution."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

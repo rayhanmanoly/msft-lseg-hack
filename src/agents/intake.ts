@@ -2,7 +2,7 @@ import { convertToModelMessages, generateText, Output, type UIMessage } from 'ai
 import { z } from 'zod';
 import { chatModel } from '@/lib/llm';
 import { ACTIVITY_TAGS, CAUSES, SECTORS, clientProfileSchema } from '@/lib/schemas';
-import { updateSession } from '@/lib/session';
+import { getSession, updateSession } from '@/lib/session';
 
 const causeList = CAUSES.map((c) => `- ${c.id}: ${c.label} (${c.description})`).join('\n');
 
@@ -18,7 +18,7 @@ Rules for the conversation:
   "Is a defence firm that also makes medical equipment acceptable?". Ask whether a cause is a must-avoid or something to actively back.
 - Point out trade-offs when relevant, e.g. excluding a whole sector narrows the choice and can raise risk.
 - After about 5 to 8 exchanges, summarise the profile back in a few short bullets and ask the client to confirm or change anything.
-- If the conversation already contains a profile summary, the client is revising it: ask what to change, apply it, re-summarise the full updated profile, and only return "profile" after they confirm the updated summary.
+- If a saved profile is given below, the client is revising it. When they state a clear change, apply it and return the full updated "profile" in that same turn, with a short reply saying what changed and that their results will be recalculated. Keep everything they did not mention exactly as saved. Only ask a question first if the change is ambiguous or conflicts with something else.
 - Every turn, also return "understood": at most 8 short phrases in plain words listing what you know so far, e.g. "Money for: a cancer research charity", "Risk: moderate (3 of 5)", "Refuses: tobacco, weapons", "Backs: climate, strongly". Update it as the client changes their mind. Use an empty list before the client has told you anything.
 - Every turn, answer with "reply" (your message to the client) and "profile". Keep "profile" null until the client has clearly confirmed your summary.
   On the confirming turn, fill "profile" completely and tell them in "reply" that the next step is the company screen.
@@ -43,6 +43,14 @@ const turnSchema = z.object({
   profile: clientProfileSchema.nullable(),
 });
 
+/** The instructions, plus the saved profile when the client is revising one, so nothing they did not mention is lost. */
+async function systemPrompt(sessionId: string): Promise<string> {
+  const saved = (await getSession(sessionId))?.profile;
+  return saved
+    ? `${INSTRUCTIONS}\n\nSaved profile (JSON), the client is revising this:\n${JSON.stringify(saved)}`
+    : INSTRUCTIONS;
+}
+
 /**
  * Agent (a): one interview turn. When the client has confirmed, writes session.profile and moves the
  * session to the screen stage. Returns the reply to show and what was understood.
@@ -55,7 +63,7 @@ export async function runIntakeTurn(
 ): Promise<{ reply: string; understood: string[] }> {
   const { output } = await generateText({
     model: chatModel(),
-    system: INSTRUCTIONS,
+    system: await systemPrompt(sessionId),
     messages: await convertToModelMessages(messages),
     output: Output.object({ schema: turnSchema }),
     // Strict mode requires every field to be required; the profile has optional ones. zod still validates.

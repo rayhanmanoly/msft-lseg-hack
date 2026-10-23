@@ -1,0 +1,197 @@
+{
+  "ticker": "VOD",
+  "generatedAt": "2026-10-23T13:29:58.117Z",
+  "coverage": "full",
+  "causes": {
+    "tax_transparency": {
+      "incidents": [
+        {
+          "year": 2010,
+          "summary": "Vodafone agreed to pay £1.25 billion following a tax dispute with HMRC concerning its acquisition of Mannesmann through a Luxembourg subsidiary.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Vodafone",
+              "title": "Vodafone",
+              "quote": "It was reported that Vodafone routed the acquisition of Mannesmann through a Luxembourg subsidiary, set up to avoid paying tax on the deal, and continued to place its profits in Luxembourg."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Vodafone",
+              "title": "Vodafone",
+              "quote": "it was eventually agreed that Vodafone would pay £1.25 billion related to the acquisition."
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2011,
+          "summary": "Private Eye and The Bureau of Investigative Journalism alleged that Vodafone used Swiss branches with little business activity for tax avoidance, which Vodafone disputed as irrelevant to its current global financing arrangements.",
+          "relativeScale": 4,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Vodafone",
+              "title": "Vodafone",
+              "quote": "In 2011, Private Eye magazine and The Bureau of Investigative Journalism alleged that Vodafone's Swiss branches were run by a single part-time bookkeeper."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Vodafone",
+              "title": "Vodafone",
+              "quote": "The report claimed hardly any business was done from there, indicating that the main purpose of the Zug office was tax avoidance."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Vodafone",
+              "title": "Vodafone",
+              "quote": "In its response to these allegations, Vodafone has said the Swiss branch has not been involved in Vodafone's global financing for a number of years."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "human_rights": {
+      "incidents": [
+        {
+          "year": 2011,
+          "summary": "Vodafone suspended communications services during Egypt's anti-government protests and allowed government SMS broadcasts, saying it was legally obliged to comply.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Vodafone",
+              "title": "Vodafone",
+              "quote": "On 28 January 2011, Vodafone complied with Egyptian government instructions to suspend Internet service \"in selected areas\" during a period of anti-Mubarak protests."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Vodafone",
+              "title": "Vodafone",
+              "quote": "Vodafone later issued a statement asserting that they had no choice but to allow the messages to be broadcast, and that they had complained to the Egyptian authorities about the practice."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Vodafone",
+              "title": "Vodafone",
+              "quote": "Vodafone Group CEO Vittorio Colao said the company was obliged by law to comply with the instructions of the Egyptian government."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2007,
+          "summary": "Vodafone and three other UK mobile networks faced a collective lawsuit alleging continued charges for fully paid-off devices after minimum contracts expired, with the networks seeking dismissal in March 2025.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/quote/stock/VODAFONE-GROUP-PLC-15867071/news/UK-mobile-companies-fight-4-3-billion-lawsuit-for-allegedly-overcharging-customers-49482399/",
+              "title": "UK mobile companies fight $4.3 billion lawsuit for allegedly overcharging customers",
+              "publishedAt": "2025-03-31T00:00:00.000Z",
+              "quote": "The networks are alleged to have charged customers who remained with the network after their minimum contract expired a \"loyal penalty\", by continuing to charge for mobile devices which had already been paid for in full."
+            },
+            {
+              "url": "https://www.marketscreener.com/quote/stock/VODAFONE-GROUP-PLC-15867071/news/UK-mobile-companies-fight-4-3-billion-lawsuit-for-allegedly-overcharging-customers-49482399/",
+              "title": "UK mobile companies fight $4.3 billion lawsuit for allegedly overcharging customers",
+              "publishedAt": "2025-03-31T00:00:00.000Z",
+              "quote": "Britain's biggest mobile network providers including Vodafone and BT's EE on Monday urged a London tribunal to throw out a mass lawsuit valued at over 3.2 billion pounds ($4.3 billion) for allegedly overcharging customers."
+            },
+            {
+              "url": "https://www.marketscreener.com/quote/stock/VODAFONE-GROUP-PLC-15867071/news/UK-mobile-companies-fight-4-3-billion-lawsuit-for-allegedly-overcharging-customers-49482399/",
+              "title": "UK mobile companies fight $4.3 billion lawsuit for allegedly overcharging customers",
+              "publishedAt": "2025-03-31T00:00:00.000Z",
+              "quote": "They also argue that large parts of the case, which seeks to recover losses dating back to 2007, were brought too late and should be thrown out."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2020,
+          "summary": "Vodafone settled a franchisee claim without admitting liability in July 2026 following allegations of commission cuts and excessive fines, while a related Guardian investigation reported an allegation that company pressure contributed to a former franchisee's suicide.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.mobileeurope.co.uk/vodafone-store-franchisees-launch-120m-claim-in-high-court/",
+              "title": "Updated: Vodafone store franchisees launch £120+m claim in High Court - Mobile Europe",
+              "publishedAt": "2024-12-10T00:00:00.000Z",
+              "quote": "The cuts to commissions were made as the UK emerged from COVID lockdown in summer 2020."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Vodafone",
+              "title": "Vodafone",
+              "quote": "In December 2025, The Guardian released an investigation which revealed claims that Adrian Howe, a former Vodafone employee who had agreed to start a franchise in 2018, had taken his own life after pressure from the company."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Vodafone",
+              "title": "Vodafone",
+              "quote": "In July 2026, Vodafone settled a High Court claim brought by 62 former franchises, who alleged that the company had unjustly enriched itself at their expense. The claimants had alleged losses of up to £85 million. Vodafone settled without admitting liability."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2016,
+          "summary": "Ofcom fined Vodafone £4.6 million for serious breaches of consumer protection rules.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Vodafone",
+              "title": "Vodafone",
+              "quote": "In October 2016, Vodafone was fined a record £4.6m by Ofcom for \"serious\" breaches of consumer protection rules."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "Germany's data protection regulator fined Vodafone €45 million for inadequate oversight of partner agencies involved in fraudulent contracts and authentication weaknesses permitting unauthorized access to eSIM profiles, with the fines paid and remedial changes reported.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://cyberinsider.com/germany-fines-vodafone-e45-million-over-severe-data-protection-failures/",
+              "title": "Germany Fines Vodafone €45 Million Over Severe Data Protection ...",
+              "quote": "Germany’s Federal Commissioner for Data Protection and Freedom of Information (BfDI) has imposed fines totaling €45 million against Vodafone GmbH due to significant lapses in data protection and information security that facilitated fraud and unauthorized access to customer data."
+            },
+            {
+              "url": "https://cyberinsider.com/germany-fines-vodafone-e45-million-over-severe-data-protection-failures/",
+              "title": "Germany Fines Vodafone €45 Million Over Severe Data Protection ...",
+              "quote": "The flawed system allowed unauthorized parties to retrieve sensitive eSIM profiles, opening the door to identity misuse and account hijacking."
+            },
+            {
+              "url": "https://cyberinsider.com/germany-fines-vodafone-e45-million-over-severe-data-protection-failures/",
+              "title": "Germany Fines Vodafone €45 Million Over Severe Data Protection ...",
+              "quote": "It overhauled its partner agency management processes, terminated relationships with implicated entities, and upgraded its digital infrastructure."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Vodafone published a Climate Transition Plan setting out actions through 2027 and its approach to climate-related risks and resilience."
+      ]
+    }
+  }
+}

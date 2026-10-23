@@ -1,0 +1,244 @@
+{
+  "ticker": "HSBA",
+  "generatedAt": "2026-10-23T13:20:06.247Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2012,
+          "summary": "HSBC was penalised $1.9 billion for US money-laundering and sanctions violations, and the Federal Reserve terminated its related enforcement action in 2022.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/HSBC",
+              "title": "HSBC",
+              "quote": "In December 2012, HSBC was penalised $1.9 billion (US), the largest fine under the Bank Secrecy Act, for violating four U.S. laws designed to protect the U.S. financial system."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/HSBC",
+              "title": "HSBC",
+              "quote": "HSBC acknowledged that for years it had ignored warning signs that drug cartels in Mexico were using its branches to launder millions of dollars"
+            },
+            {
+              "url": "https://www.reuters.com/business/finance/us-fed-terminates-enforcement-action-against-hsbc-2022-09-02/",
+              "title": "Fed ends decade-long enforcement action against HSBC",
+              "publishedAt": "2022-09-02T00:00:00.000Z",
+              "quote": "The U.S. Federal Reserve has terminated a decade-long enforcement action against HSBC Holdings PLC"
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2014,
+          "summary": "The US CFTC fined HSBC $275 million for participating in the Forex scandal.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/HSBC",
+              "title": "HSBC",
+              "quote": "The bank was fined US$275m by the US CFTC in 2014 for taking part in the Forex scandal."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2010,
+          "summary": "The FCA fined HSBC £63.9468 million for transaction-monitoring weaknesses lasting from March 2010 to March 2018, with remediation supervised by the regulator.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.fca.org.uk/news/press-releases/fca-fines-hsbc-bank-plc-deficient-transaction-monitoring-controls",
+              "title": "FCA fines HSBC Bank plc £63.9 million for deficient transaction ...",
+              "quote": "The FCA has fined HSBC Bank plc (HSBC) £63,946,800 for failings in its anti-money laundering processes."
+            },
+            {
+              "url": "https://www.fca.org.uk/news/press-releases/fca-fines-hsbc-bank-plc-deficient-transaction-monitoring-controls",
+              "title": "FCA fines HSBC Bank plc £63.9 million for deficient transaction ...",
+              "quote": "However, the FCA found that three key parts of HSBC’s transaction monitoring systems showed serious weaknesses over a period of eight years from 31 March 2010 to 31 March 2018."
+            },
+            {
+              "url": "https://www.fca.org.uk/news/press-releases/fca-fines-hsbc-bank-plc-deficient-transaction-monitoring-controls",
+              "title": "FCA fines HSBC Bank plc £63.9 million for deficient transaction ...",
+              "quote": "HSBC has undertaken a large-scale remediation programme into its anti-money laundering processes, which was supervised by the FCA."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "tax_transparency": {
+      "incidents": [
+        {
+          "year": 2014,
+          "summary": "HSBC agreed in 2019 to pay $336 million to settle Belgian allegations of tax fraud and money laundering involving clients’ offshore accounts.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/HSBC",
+              "title": "HSBC",
+              "quote": "In November 2014, HSBC was accused of tax fraud and money laundering by Belgian Prosecutors for helping hundreds of clients move money into offshore tax havens."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/HSBC",
+              "title": "HSBC",
+              "quote": "In August 2019, HSBC agreed to pay $336 million to settle the case."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2026,
+          "summary": "HSBC reached a court-approved settlement of about €300 million to end French criminal and civil dividend-tax proceedings without admitting guilt.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.bloomberg.com/news/articles/2026-01-08/hsbc-agrees-to-pay-300-million-to-end-french-tax-dividend-probes",
+              "title": "HSBC Agrees to Pay €300 Million to End French Tax Dividend Probes - Bloomberg",
+              "publishedAt": "2026-01-08T00:00:00.000Z",
+              "quote": "HSBC Holdings Plc agreed to pay about €300 million ($350 million) to settle a twin criminal and civil case in France into its alleged role in a dividend-tax scandal that’s embroiled some of the biggest banks in the country."
+            },
+            {
+              "url": "https://www.bloomberg.com/news/articles/2026-01-08/hsbc-agrees-to-pay-300-million-to-end-french-tax-dividend-probes",
+              "title": "HSBC Agrees to Pay €300 Million to End French Tax Dividend Probes - Bloomberg",
+              "publishedAt": "2026-01-08T00:00:00.000Z",
+              "quote": "The Thursday settlement deal was outlined and later approved in court by Paris Judge Peimane Ghaleh-Marzban."
+            },
+            {
+              "url": "https://www.bloomberg.com/news/articles/2026-01-08/hsbc-agrees-to-pay-300-million-to-end-french-tax-dividend-probes",
+              "title": "HSBC Agrees to Pay €300 Million to End French Tax Dividend Probes - Bloomberg",
+              "publishedAt": "2026-01-08T00:00:00.000Z",
+              "quote": "The accord ends an investigation by the Parquet National Financier against HSBC without the bank making any admission of guilt."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "HSBC Australia admitted systemic scam-protection failures and was ordered to pay a $35 million penalty, while its remediation programme had paid around $21.5 million in compensation.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-127mr-federal-court-orders-35-million-penalty-against-hsbc-for-scam-protection-failures",
+              "title": "Federal Court orders $35 million penalty against HSBC for scam ...",
+              "quote": "The Federal Court has ordered HSBC Bank Australia Limited (HSBC) to pay a $35 million penalty after the bank admitted to serious failures in protecting customers from scams."
+            },
+            {
+              "url": "https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-127mr-federal-court-orders-35-million-penalty-against-hsbc-for-scam-protection-failures",
+              "title": "Federal Court orders $35 million penalty against HSBC for scam ...",
+              "quote": "Her Honour held that HSBC’s failures in respect of the ePayments code were widespread and systemic."
+            },
+            {
+              "url": "https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-127mr-federal-court-orders-35-million-penalty-against-hsbc-for-scam-protection-failures",
+              "title": "Federal Court orders $35 million penalty against HSBC for scam ...",
+              "quote": "Following ASIC’s investigation, HSBC has established a large-scale remediation program that, to date, has paid around $21.5 million in compensation, with further payments to come before the end of July 2026."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "ActionAid and Profundo alleged that HSBC’s financing over three years contributed to climate disasters and supported projects associated with environmental and social harm.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://actionaid.org/news/2025/new-report-actionaid-exposes-devastating-human-cost-hsbcs-climate-damage",
+              "title": "New report by ActionAid exposes devastating human cost of HSBC’s climate damage | ActionAid International",
+              "publishedAt": "2025-07-01T00:00:00.000Z",
+              "quote": "A damning new report from ActionAid and research group Profundo reveals that HSBC’s financing of fossil fuels and industrial agriculture over three years exposed the planet to a shocking 357 million tonnes of carbon emissions"
+            },
+            {
+              "url": "https://actionaid.org/news/2025/new-report-actionaid-exposes-devastating-human-cost-hsbcs-climate-damage",
+              "title": "New report by ActionAid exposes devastating human cost of HSBC’s climate damage | ActionAid International",
+              "publishedAt": "2025-07-01T00:00:00.000Z",
+              "quote": "From water shortages in Bangladesh and deforestation in Brazil to the displacement and inadequate compensation of communities in Tanzania, HSBC-linked projects are hitting communities hard."
+            },
+            {
+              "url": "https://actionaid.org/news/2025/new-report-actionaid-exposes-devastating-human-cost-hsbcs-climate-damage",
+              "title": "New report by ActionAid exposes devastating human cost of HSBC’s climate damage | ActionAid International",
+              "publishedAt": "2025-07-01T00:00:00.000Z",
+              "quote": "Water sources, including a local river, have been contaminated, collapsing fish stocks and destroying farmland, according to community members."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2022,
+          "summary": "TBIJ alleged that HSBC counted financing supporting climate-damaging activities towards its sustainable-finance target.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.thebureauinvestigates.com/stories/2022-10-31/mines-pipelines-and-oil-rigs-what-hsbcs-sustainable-finance-really-pays-for",
+              "title": "Mines, pipelines and oil rigs: what HSBC’s ‘sustainable… | TBIJ",
+              "publishedAt": "2022-10-31T00:00:00.000Z",
+              "quote": "All these companies’ operations have not only been facilitated by HSBC – which claims it is “helping to lead the transition to a more sustainable world” – but have benefited from deals that the bank has labelled sustainable finance."
+            },
+            {
+              "url": "https://www.thebureauinvestigates.com/stories/2022-10-31/mines-pipelines-and-oil-rigs-what-hsbcs-sustainable-finance-really-pays-for",
+              "title": "Mines, pipelines and oil rigs: what HSBC’s ‘sustainable… | TBIJ",
+              "publishedAt": "2022-10-31T00:00:00.000Z",
+              "quote": "However, the Bureau can reveal that billions of dollars being counted towards this target are in fact helping to fuel the climate crisis."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2023,
+          "summary": "TBIJ reported apparent breaches of HSBC’s coal phase-out pledge through financing arranged in 2023 and 2024, prompting investor criticism.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.thebureauinvestigates.com/stories/2025-05-01/hsbc-investors-rage-after-bank-bulldozes-its-coal-policy-with-glencore-deal",
+              "title": "HSBC breaks climate pledge with billion-dollar Glencore deal | TBIJ",
+              "publishedAt": "2025-05-01T00:00:00.000Z",
+              "quote": "Yet the Bureau of Investigative Journalism (TBIJ) has found that in May 2023 the bank helped raise $1bn for Glencore, which had been ramping up coal production for the previous two years."
+            },
+            {
+              "url": "https://www.thebureauinvestigates.com/stories/2025-06-17/hsbc-breaks-pledge-to-phase-out-coal-for-second-year-running",
+              "title": "HSBC breaks pledge to phase out coal for second year running | TBIJ",
+              "publishedAt": "2025-06-17T00:00:00.000Z",
+              "quote": "The Bureau of Investigative Journalism (TBIJ) can reveal that the bank helped raise $2.4bn last year in deals that seem to violate its phase-out policy for coal, the world’s dirtiest fossil fuel."
+            },
+            {
+              "url": "https://www.thebureauinvestigates.com/stories/2025-06-17/hsbc-breaks-pledge-to-phase-out-coal-for-second-year-running",
+              "title": "HSBC breaks pledge to phase out coal for second year running | TBIJ",
+              "publishedAt": "2025-06-17T00:00:00.000Z",
+              "quote": "HSBC came under fire from investors last month for doing the same in 2023."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    }
+  }
+}

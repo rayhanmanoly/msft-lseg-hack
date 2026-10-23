@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import type { ClientProfile, Company, ScreenApproval, ScreenBucket, ScreenResult } from '@/lib/schemas';
+import { ChipList } from './ChipList';
 import { CompanyChip } from './CompanyChip';
 import { humanize } from './ProfileSummary';
 
@@ -82,8 +83,9 @@ export function ScreenStep({
             <span className={`badge ${b.action}`}>{b.action === 'keep' ? 'Continues' : 'Excluded'}</span>
           </div>
           <p className="muted">{b.rationale}</p>
-          <div className="chips">
-            {b.tickers.map((t) => (
+          <ChipList
+            items={b.tickers}
+            render={(t) => (
               <CompanyChip
                 key={t}
                 ticker={t}
@@ -93,8 +95,8 @@ export function ScreenStep({
                 why={whyLines(b, companies[t], profile, flipped.has(t))}
                 onClick={() => flip(t)}
               />
-            ))}
-          </div>
+            )}
+          />
         </div>
       ))}
 

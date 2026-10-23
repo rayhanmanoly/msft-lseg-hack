@@ -1,0 +1,227 @@
+{
+  "ticker": "RIO",
+  "generatedAt": "2026-10-23T13:26:39.877Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2018,
+          "summary": "Rio Tinto agreed to a $138.75 million settlement, subject to court approval, of investor allegations that it concealed problems with the Oyu Tolgoi underground expansion.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/sustainability/boards-policy-regulation/rio-tinto-reaches-13875-million-settlement-over-mongolian-mine-2025-06-18/",
+              "title": "Rio Tinto reaches $138.75 million settlement over Mongolian mine",
+              "publishedAt": "2025-06-18T00:00:00.000Z",
+              "quote": "agreed to pay $138.75 million to settle a lawsuit that accused the Anglo-Australian mining giant of defrauding investors by concealing problems with its $7 billion underground expansion of the Oyu Tolgoi copper and gold mine in Mongolia."
+            },
+            {
+              "url": "https://www.reuters.com/sustainability/boards-policy-regulation/rio-tinto-reaches-13875-million-settlement-over-mongolian-mine-2025-06-18/",
+              "title": "Rio Tinto reaches $138.75 million settlement over Mongolian mine",
+              "publishedAt": "2025-06-18T00:00:00.000Z",
+              "quote": "A preliminary settlement of the proposed class action was filed late on Wednesday with the U.S. District Court in Manhattan, and requires a judge's approval."
+            },
+            {
+              "url": "https://www.reuters.com/sustainability/boards-policy-regulation/rio-tinto-reaches-13875-million-settlement-over-mongolian-mine-2025-06-18/",
+              "title": "Rio Tinto reaches $138.75 million settlement over Mongolian mine",
+              "publishedAt": "2025-06-18T00:00:00.000Z",
+              "quote": "The lawsuit sought damages on behalf of shareholders of Montreal-based Turquoise Hill Resources between July 2018 and July 2019, when that company was majority-owned by Rio Tinto."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2011,
+          "summary": "Rio Tinto agreed to pay $28 million to settle an SEC lawsuit alleging fraud in its handling of a failed Mozambique coal investment.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/business/energy/rio-tinto-pay-28-mln-fine-us-sec-settlement-2023-11-17/",
+              "title": "Rio Tinto to pay $28 million fine to settle US SEC fraud case | Reuters",
+              "publishedAt": "2023-11-17T00:00:00.000Z",
+              "quote": "agreed to pay a $28 million fine to settle a U.S. Securities and Exchange Commission lawsuit that accused it of fraud in handling a failed investment in a Mozambique coal project."
+            },
+            {
+              "url": "https://www.bloomberg.com/news/articles/2026-01-10/sec-to-drop-long-running-fraud-case-against-ex-rio-tinto-cfo",
+              "title": "SEC to Drop Long-Running Fraud Case Against Ex-Rio Tinto CFO - Bloomberg",
+              "publishedAt": "2026-01-10T00:00:00.000Z",
+              "quote": "inflating the value of African coal assets the company acquired in a disastrous 2011 deal."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2011,
+          "summary": "Rio Tinto agreed to a $15 million SEC penalty to settle accusations concerning payments to a former Guinean president’s friend to retain Simandou mining rights.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.occrp.org/en/news/rio-tinto-mining-company-pays-15-million-to-settle-us-bribery-accusations",
+              "title": "Rio Tinto Mining Company Pays $15 Million to Settle US Bribery Accusations | OCCRP",
+              "publishedAt": "2023-03-10T00:00:00.000Z",
+              "quote": "The Anglo-Australian mining company Rio Tinto agreed to pay a US$15 million penalty to settle with the U.S. Securities and Exchange Commission (SEC) the accusation that it had paid $10.5 million to a friend of former Guinean President Alpha Condé to retain globally important iron ore rights."
+            },
+            {
+              "url": "https://www.occrp.org/en/news/rio-tinto-mining-company-pays-15-million-to-settle-us-bribery-accusations",
+              "title": "Rio Tinto Mining Company Pays $15 Million to Settle US Bribery Accusations | OCCRP",
+              "publishedAt": "2023-03-10T00:00:00.000Z",
+              "quote": "The company paid $7.5 million into de Combret’s Swiss bank account in July 2011, and a further $3 million in February 2016 as a reward for his influence in allowing the company to keep the licenses."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "Rio Tinto Fer et Titane pleaded guilty and was fined CAD 2 million for harmful discharges and a sampling failure at its Lac Tio mine during 2023.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.canada.ca/en/environment-climate-change/services/environmental-enforcement/notifications/rio-tinto-fer-et-titane-inc-ordered-pay-2-million.html",
+              "title": "Rio Tinto Fer et Titane inc. is ordered to pay $2 million for violating the Fisheries Act and the Metal and Diamond Mining Effluent Regulations - Canada.ca",
+              "publishedAt": "2025-01-14T00:00:00.000Z",
+              "quote": "On January 13, 2025, Rio Tinto Fer et Titane inc. was sentenced by the Court of Québec to pay fines totalling $2 million after pleading guilty to eight counts of violating the Fisheries Act and the Metal and Diamond Mining Effluent Regulations."
+            },
+            {
+              "url": "https://www.canada.ca/en/environment-climate-change/services/environmental-enforcement/notifications/rio-tinto-fer-et-titane-inc-ordered-pay-2-million.html",
+              "title": "Rio Tinto Fer et Titane inc. is ordered to pay $2 million for violating the Fisheries Act and the Metal and Diamond Mining Effluent Regulations - Canada.ca",
+              "publishedAt": "2025-01-14T00:00:00.000Z",
+              "quote": "The conviction stems from various deposits of deleterious substances that occurred between February and August 2023, as well as the failure to take a sample following an unauthorized deposit of a deleterious (harmful) substance in November 2023."
+            },
+            {
+              "url": "https://www.canada.ca/en/environment-climate-change/services/environmental-enforcement/notifications/rio-tinto-fer-et-titane-inc-ordered-pay-2-million.html",
+              "title": "Rio Tinto Fer et Titane inc. is ordered to pay $2 million for violating the Fisheries Act and the Metal and Diamond Mining Effluent Regulations - Canada.ca",
+              "publishedAt": "2025-01-14T00:00:00.000Z",
+              "quote": "Effluent with a low pH is harmful to fish. The investigation revealed that at the time of these offences, this effluent was not treated."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2024,
+          "summary": "A Radio-Canada investigation reported repeated failures by Rio Tinto’s Quebec aluminum operations to disclose pollution incidents to provincial authorities.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.cbc.ca/news/canada/montreal/rio-tinto-quebec-amazon-bauxite-aluminum-1.7153444",
+              "title": "Rio Tinto says it's a green mining giant. Investigation shows environmental gaps from Quebec to the Amazon | CBC News",
+              "publishedAt": "2024-03-24T00:00:00.000Z",
+              "quote": "At times, Rio Tinto has spilled dangerous chemicals at several of its Quebec sites without disclosing it to the provincial government — behaviour that contradicts the multinational's brand as an eco-friendly business."
+            },
+            {
+              "url": "https://www.cbc.ca/news/canada/montreal/rio-tinto-quebec-amazon-bauxite-aluminum-1.7153444",
+              "title": "Rio Tinto says it's a green mining giant. Investigation shows environmental gaps from Quebec to the Amazon | CBC News",
+              "publishedAt": "2024-03-24T00:00:00.000Z",
+              "quote": "Documents obtained by Radio-Canada's Enquête program through an access-to-information request reveal more than 100 environmental infractions doled out to Rio Tinto's aluminum division in Quebec over the past 15 years."
+            },
+            {
+              "url": "https://www.cbc.ca/news/canada/montreal/rio-tinto-quebec-amazon-bauxite-aluminum-1.7153444",
+              "title": "Rio Tinto says it's a green mining giant. Investigation shows environmental gaps from Quebec to the Amazon | CBC News",
+              "publishedAt": "2024-03-24T00:00:00.000Z",
+              "quote": "The company was fingered eight times for either neglecting or waiting to report problems related to pollution to Quebec's Environment Ministry."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2020,
+          "summary": "Rio Tinto Fer et Titane pleaded guilty and was fined CAD 600,000 for two harmful-substance spills that reached the St. Lawrence River in 2020.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.canada.ca/en/environment-climate-change/news/2023/06/rio-tinto-fer-et-titane-inc-ordered-to-pay-600000-for-violating-the-fisheries-act.html",
+              "title": "Rio Tinto Fer et Titane Inc. ordered to pay $600,000 for violating the Fisheries Act - Canada.ca",
+              "publishedAt": "2023-06-15T00:00:00.000Z",
+              "quote": "On June 15, 2023, Rio Tinto Fer et Titane Inc. was sentenced by the Court of Quebec, at the Sorel-Tracy courthouse, to pay two fines totalling $600,000 dollars, after pleading guilty to two counts of violating the Fisheries Act."
+            },
+            {
+              "url": "https://www.canada.ca/en/environment-climate-change/news/2023/06/rio-tinto-fer-et-titane-inc-ordered-to-pay-600000-for-violating-the-fisheries-act.html",
+              "title": "Rio Tinto Fer et Titane Inc. ordered to pay $600,000 for violating the Fisheries Act - Canada.ca",
+              "publishedAt": "2023-06-15T00:00:00.000Z",
+              "quote": "A total of 1,314 litres of sodium hydroxide were discharged into the complex’s sewer system, reaching the final discharge point, which flows into the St. Lawrence River."
+            },
+            {
+              "url": "https://www.canada.ca/en/environment-climate-change/news/2023/06/rio-tinto-fer-et-titane-inc-ordered-to-pay-600000-for-violating-the-fisheries-act.html",
+              "title": "Rio Tinto Fer et Titane Inc. ordered to pay $600,000 for violating the Fisheries Act - Canada.ca",
+              "publishedAt": "2023-06-15T00:00:00.000Z",
+              "quote": "A broken, spent acid pipe released 7,000 litres of hydrochloric acid into the complex’s storm-drainage system, which then emptied into the St. Lawrence River."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "supply_chain": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "Port drivers criticized Rio Tinto for continuing to use Cal Cartage Express despite labor and wage concerns, with a later report stating that the supplier lost the Rio Tinto account.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.business-humanrights.org/en/latest-news/usa-port-truck-drivers-disappointed-at-lack-of-action-by-rio-tinto-over-ongoing-labour-wage-concerns-in-its-logistics-supply-chain/",
+              "title": "USA: Port truck drivers 'disappointed' at lack of action by Rio Tinto over ongoing labour & wage concerns in its logistics supply chain - Business and Human Rights Centre",
+              "publishedAt": "2020-02-10T00:00:00.000Z",
+              "quote": "Rio Tinto launched a “third party” investigation in 2019 into the concerns raised by drivers; however Rio Tinto did not share the results of that investigation and continues to do business with Cal Cartage Express."
+            },
+            {
+              "url": "https://www.business-humanrights.org/en/latest-news/usa-port-truck-drivers-disappointed-at-lack-of-action-by-rio-tinto-over-ongoing-labour-wage-concerns-in-its-logistics-supply-chain/",
+              "title": "USA: Port truck drivers 'disappointed' at lack of action by Rio Tinto over ongoing labour & wage concerns in its logistics supply chain - Business and Human Rights Centre",
+              "publishedAt": "2020-02-10T00:00:00.000Z",
+              "quote": "NFI subsidiary Cal Cartage Express loses Rio Tinto account following driver strikes over misclassification as independent contractors"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "Unifor served Rio Tinto with a strike notice at Kitimat and Kemano amid allegations of unfair and unsafe contractor use and unresolved grievances.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.unifor.org/news/all-news/unifor-serves-rio-tinto-72-hour-strike-notice",
+              "title": "Unifor Serves Rio Tinto with 72 Hour Strike Notice | Unifor",
+              "publishedAt": "2021-07-21T00:00:00.000Z",
+              "quote": "KITIMAT–After achieving a historic 100% strike vote result and nearly seven weeks of unproductive negotiations with Rio Tinto, Unifor Local 2301 has served the company with a 72-hour strike notice."
+            },
+            {
+              "url": "https://www.unifor.org/news/all-news/unifor-serves-rio-tinto-72-hour-strike-notice",
+              "title": "Unifor Serves Rio Tinto with 72 Hour Strike Notice | Unifor",
+              "publishedAt": "2021-07-21T00:00:00.000Z",
+              "quote": "Negotiations are also focused on a backlog of more than 300 grievances, some dating back more than four years, created by the company’s unfair and unsafe use of contractors to perform union members’ work and its refusal to hire full-time workers leading to an overreliance on temporary employees."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    }
+  }
+}

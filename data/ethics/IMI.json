@@ -1,0 +1,20 @@
+{
+  "ticker": "IMI",
+  "generatedAt": "2026-10-23T13:20:24.271Z",
+  "coverage": "full",
+  "causes": {
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "A Ricardo life cycle assessment found IMI’s Retrofit3D additive-manufactured replacement disk stacks preferable across all environmental indicators analysed.",
+        "IMI’s new Lake Forest facility uses fully electric heating and appliances, with natural gas use limited to welding."
+      ]
+    },
+    "biodiversity": {
+      "incidents": [],
+      "positives": [
+        "The Lake Forest facility uses underground retention and seven modular wetlands to treat stormwater runoff before discharge."
+      ]
+    }
+  }
+}

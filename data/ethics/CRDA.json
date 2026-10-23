@@ -1,0 +1,13 @@
+{
+  "ticker": "CRDA",
+  "generatedAt": "2026-10-23T13:16:17.532Z",
+  "coverage": "full",
+  "causes": {
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Croda’s updated climate goals were validated by SBTi against its Net Zero Standard and Forest, Land & Agriculture Guidance."
+      ]
+    }
+  }
+}

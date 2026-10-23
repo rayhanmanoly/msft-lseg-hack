@@ -1,0 +1,77 @@
+{
+  "ticker": "STJ",
+  "generatedAt": "2026-10-23T13:28:54.021Z",
+  "coverage": "full",
+  "causes": {
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "St. James's Place agreed to set aside £426 million to refund overcharged clients, with an ombudsman compensation order in January 2025 and reported delays in paying some clients.",
+          "relativeScale": 5,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/St._James's_Place_plc",
+              "title": "St. James's Place plc",
+              "quote": "The chief executive, Mark FitzPatrick, apologised and agreed to set aside £426 million to refund the clients who had been overcharged."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/St._James's_Place_plc",
+              "title": "St. James's Place plc",
+              "quote": "In January 2025, in a test case, the financial ombudsman ordered the company to pay compensation."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/St._James's_Place_plc",
+              "title": "St. James's Place plc",
+              "quote": "In February 2025, The Times reported that some clients had been waiting for years for compensation that had been promised by the company but had not been received."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2017,
+          "summary": "A Which? investigation accused St. James's Place of misleading customers about charges and sent its findings to the Financial Conduct Authority.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/St._James's_Place_plc",
+              "title": "St. James's Place plc",
+              "quote": "In July 2017 an investigation by Which? accused St James's Place of misleading customers on charges."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/St._James's_Place_plc",
+              "title": "St. James's Place plc",
+              "quote": "The findings of the investigation were sent to the Financial Conduct Authority."
+            }
+          ],
+          "severity": 1
+        },
+        {
+          "year": 2019,
+          "summary": "Fourteen former footballers sued St. James's Place for £15 million over allegedly poor advice concerning tax-avoidance investment schemes, which the company said its partner was not authorised to recommend.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/St._James's_Place_plc",
+              "title": "St. James's Place plc",
+              "quote": "In November 2019 fourteen former footballers sued St James's Place for £15m, alleging that they had received poor advice concerning tax avoidance regarding film and overseas property investment schemes."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/St._James's_Place_plc",
+              "title": "St. James's Place plc",
+              "quote": "A spokesman for St James's Place said the partner was not authorised to direct investors to the plan, and that the proposal was not approved by St James's."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

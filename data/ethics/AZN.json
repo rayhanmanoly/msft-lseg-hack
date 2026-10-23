@@ -1,0 +1,156 @@
+{
+  "ticker": "AZN",
+  "generatedAt": "2026-10-23T13:13:44.461Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "Chinese prosecutors charged AstraZeneca’s China arm and former senior executives with illegal collection of personal information and illegal trading, with the executives also facing medical-insurance fraud charges.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.caixinglobal.com/2026-02-12/china-indicts-former-astrazeneca-executive-on-fraud-and-smuggling-charges-102413981.html",
+              "title": "China Indicts Former AstraZeneca Executive on Fraud and Smuggling Charges - Caixin Global",
+              "publishedAt": "2026-02-12T00:00:00.000Z",
+              "quote": "They charged AstraZeneca’s China arm, a former executive vice president — identified by sources as Wang — and a former senior employee with illegal collection of personal information and illegal trading."
+            },
+            {
+              "url": "https://www.caixinglobal.com/2026-02-12/china-indicts-former-astrazeneca-executive-on-fraud-and-smuggling-charges-102413981.html",
+              "title": "China Indicts Former AstraZeneca Executive on Fraud and Smuggling Charges - Caixin Global",
+              "publishedAt": "2026-02-12T00:00:00.000Z",
+              "quote": "Wang and the former senior employee face additional charges of medical-insurance fraud."
+            },
+            {
+              "url": "https://www.caixinglobal.com/2024-11-04/cover-story-the-insurance-fraud-that-boosted-sales-of-astrazeneca-chinas-cancer-drug-102252935.html",
+              "title": "Cover Story: How AstraZeneca’s China Fraud Was About More Than Greed - Caixin Global",
+              "publishedAt": "2024-11-04T00:00:00.000Z",
+              "quote": "The intense need to meet sales targets reportedly drove some company representatives to falsify genetic test results, allowing more patients access to Tagrisso despite being ineligible for insurance coverage"
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2024,
+          "summary": "A shareholder filed a proposed class action alleging that AstraZeneca inflated its US stock price by downplaying the risks of the Chinese investigation.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://news.bloomberglaw.com/litigation/astrazeneca-china-probe-draws-stockholder-lawsuit-after-selloff",
+              "title": "AstraZeneca China Probe Draws Stockholder Suit After Selloff (1)",
+              "publishedAt": "2024-12-24T00:00:00.000Z",
+              "quote": "is facing a proposed class action lawsuit saying the drugmaker artificially inflated its US stock price by downplaying the risk of a Chinese probe that’s reached the company’s top brass."
+            },
+            {
+              "url": "https://news.bloomberglaw.com/litigation/astrazeneca-china-probe-draws-stockholder-lawsuit-after-selloff",
+              "title": "AstraZeneca China Probe Draws Stockholder Suit After Selloff (1)",
+              "publishedAt": "2024-12-24T00:00:00.000Z",
+              "quote": "AstraZeneca shareholder Jeries Saleh filed the complaint Monday in the US District Court for the District of California."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2019,
+          "summary": "AstraZeneca agreed to a $50.9 million settlement of a class action alleging that it delayed generic Seroquel and caused drug purchasers to pay artificially higher prices.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/legal/government/astrazeneca-agrees-51-million-settlement-seroquel-antitrust-class-action-2025-05-30/",
+              "title": "AstraZeneca agrees to $51 million settlement in Seroquel antitrust class action",
+              "publishedAt": "2025-05-30T00:00:00.000Z",
+              "quote": "Drugmaker AstraZeneca has agreed to pay $50.9 million to settle a class action lawsuit in U.S. court accusing the company of scheming to delay a generic version of its schizophrenia drug Seroquel, causing companies to pay artificially higher prices."
+            },
+            {
+              "url": "https://www.reuters.com/legal/government/astrazeneca-agrees-51-million-settlement-seroquel-antitrust-class-action-2025-05-30/",
+              "title": "AstraZeneca agrees to $51 million settlement in Seroquel antitrust class action",
+              "publishedAt": "2025-05-30T00:00:00.000Z",
+              "quote": "The deal requires approval from U.S. District Judge Colm Connolly."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "fair_wages": {
+      "incidents": [
+        {
+          "year": 2015,
+          "summary": "AstraZeneca agreed to pay $560,000 in back pay and interest after a federal investigation found pay discrimination affecting 318 female and Hispanic employees.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.dol.gov/newsroom/releases/ofccp/ofccp20211004-0",
+              "title": "AstraZeneca agrees to pay $560K to resolve alleged race, gender-based pay discrimination at Wilmington, Delaware facility | U.S. Department of Labor",
+              "publishedAt": "2021-10-04T00:00:00.000Z",
+              "quote": "OFCCP found that the federal contractor paid a base salary less than similarly situated employees to 23 Hispanic female employees in primary care sales representative level 3 positions and 295 female employees in specialty care sales representative level 4 positions."
+            },
+            {
+              "url": "https://www.dol.gov/newsroom/releases/ofccp/ofccp20211004-0",
+              "title": "AstraZeneca agrees to pay $560K to resolve alleged race, gender-based pay discrimination at Wilmington, Delaware facility | U.S. Department of Labor",
+              "publishedAt": "2021-10-04T00:00:00.000Z",
+              "quote": "Under the agreement, AstraZeneca agreed to pay $560,000 in back pay and interest to the 318 employees."
+            },
+            {
+              "url": "https://www.dol.gov/newsroom/releases/ofccp/ofccp20211004-0",
+              "title": "AstraZeneca agrees to pay $560K to resolve alleged race, gender-based pay discrimination at Wilmington, Delaware facility | U.S. Department of Labor",
+              "publishedAt": "2021-10-04T00:00:00.000Z",
+              "quote": "They also agreed to discontinue any discriminatory pay practices immediately, identify an individual responsible for future monitoring and enforcement, train all of its personnel involved in determining base salaries, and submit progress reports with compensation data for at least two years."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2017,
+          "summary": "Three former AstraZeneca employees pursuing unequal-pay allegations received court permission to notify other female sales employees of a potential collective action.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.fiercepharma.com/marketing/female-sales-reps-advance-unequal-pay-case-against-astrazeneca",
+              "title": "Female sales reps advance unequal pay case against AstraZeneca | Fierce Pharma",
+              "publishedAt": "2024-05-16T00:00:00.000Z",
+              "quote": "Now, three women who worked at AstraZeneca from around 2000 to 2020 have taken an early step in a legal challenge against the drugmaker."
+            },
+            {
+              "url": "https://www.fiercepharma.com/marketing/female-sales-reps-advance-unequal-pay-case-against-astrazeneca",
+              "title": "Female sales reps advance unequal pay case against AstraZeneca | Fierce Pharma",
+              "publishedAt": "2024-05-16T00:00:00.000Z",
+              "quote": "The court allowed the plaintiffs to send notices to females employed by AstraZeneca in sales positions as of Dec. 30, 2018, the first step in a potential collective action."
+            },
+            {
+              "url": "https://www.fiercepharma.com/marketing/female-sales-reps-advance-unequal-pay-case-against-astrazeneca",
+              "title": "Female sales reps advance unequal pay case against AstraZeneca | Fierce Pharma",
+              "publishedAt": "2024-05-16T00:00:00.000Z",
+              "quote": "According to Ledinsky, her manager said in 2017 that AstraZeneca was paying her “significantly less than male sales representatives in the same or similar position.”"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "My Green Lab certified dozens of AstraZeneca laboratories worldwide for practices addressing energy, water, waste and hazardous chemicals."
+      ]
+    }
+  }
+}

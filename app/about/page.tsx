@@ -13,10 +13,10 @@ const QUESTIONS = [
 ];
 
 const STEPS = [
-  ['Understands your finances', "Available capital, investment horizon, liquidity requirements and risk tolerance."],
-  ['Lets you define your principles', 'Exclude industries such as weapons, tobacco, fossil fuels and gambling.'],
-  ['Looks beyond industry labels', 'AI analyses publicly available news and corporate controversies, identifying concerns on environmental practices, human rights, labour conditions, corruption and corporate governance.'],
-  ['Builds a balanced portfolio', 'Evaluates stocks, ETFs and bonds, constructing a diversified portfolio that seeks to balance financial performance, risk, liquidity and ethical alignment.'],
+  ['Understands your finances', 'Available capital, investment horizon, liquidity requirements and risk tolerance.', 'Live: Ethos asks in the chat'],
+  ['Lets you define your principles', 'Exclude industries such as weapons, tobacco, fossil fuels and gambling.', 'Live'],
+  ['Looks beyond industry labels', 'Ethos reads an evidence base built from public news and sources: dated incidents on environmental practices, human rights, labour conditions, corruption and corporate governance, with quotes and links.', 'Live for 110 UK companies, more coming'],
+  ['Builds a balanced portfolio', 'Evaluates stocks, ETFs and bonds, constructing a diversified portfolio that seeks to balance financial performance, risk, liquidity and ethical alignment.', 'In progress: weights are a placeholder, no price data yet'],
 ];
 
 const AUDIENCE = [
@@ -81,23 +81,27 @@ export default function About() {
       <section className="prose">
         <h2>Our solution</h2>
         <p>
-          Ethos bridges the gap between financial intelligence and ethical responsibility. It combines artificial
-          intelligence, financial market data, ethical screening, and quantitative portfolio optimisation to help
-          organisations make more informed investment decisions.
+          Ethos bridges the gap between financial intelligence and ethical responsibility. It is built to combine
+          artificial intelligence, financial market data, ethical screening, and quantitative portfolio optimisation to
+          help organisations make more informed investment decisions. The badges below show what works in the demo
+          today.
         </p>
         <ol className="how about-steps">
-          {STEPS.map(([title, text], i) => (
+          {STEPS.map(([title, text, status], i) => (
             <li key={title}>
               <span className="num">{i + 1}</span>
               <b>{title}</b>
               <span className="muted">{text}</span>
+              <span className={`status ${status.startsWith('Live') ? 'live' : 'soon'}`}>{status}</span>
             </li>
           ))}
         </ol>
         <div className="card soft callout">
           <b>Every recommendation is explained.</b> Ethos says why an investment was considered, what risks it carries,
           and how it aligns with the organisation&apos;s values. Ethical assessments are supported by sources, with
-          uncertain cases flagged for review.
+          uncertain cases flagged for review. <span className="status live">Live for the ethics check</span> Every exclusion
+          and close call shows dated incidents with quotes and links, and companies without enough evidence are marked
+          &quot;not rated&quot;. The financial reasoning is still a placeholder.
         </div>
       </section>
 

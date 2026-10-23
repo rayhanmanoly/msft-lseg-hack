@@ -1,0 +1,72 @@
+{
+  "ticker": "NXT",
+  "generatedAt": "2026-10-23T13:25:02.984Z",
+  "coverage": "full",
+  "causes": {
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "A union reported that Next's wholly owned subsidiary abruptly closed its Katunayake factory, leaving more than 1,400 workers without jobs through text-message dismissals.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.industriall-union.org/investor-webinar-highlights-mounting-labour-concerns-at-next-plc/",
+              "title": "Investor webinar highlights mounting labour concerns at Next plc - industriall-union",
+              "publishedAt": "2025-12-10T00:00:00.000Z",
+              "quote": "Anton Marcus, general secretary of the Free Trade Zones & General Services Employees Union (FTZGSEU), described the abrupt May closure of a factory run by its wholly owned subsidiary, Next Manufacturing Ltd (NML), in the Katunayake Free Trade Zone,"
+            },
+            {
+              "url": "https://www.industriall-union.org/investor-webinar-highlights-mounting-labour-concerns-at-next-plc/",
+              "title": "Investor webinar highlights mounting labour concerns at Next plc - industriall-union",
+              "publishedAt": "2025-12-10T00:00:00.000Z",
+              "quote": "where more than 1,400 workers lost their jobs via text message and were locked out of the factory."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "fair_wages": {
+      "incidents": [
+        {
+          "year": 2014,
+          "summary": "The Living Wage Foundation campaigned for Next to pay at least £7.65, and the retailer was subsequently criticised for failing to pay a living wage.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Next_plc",
+              "title": "Next plc",
+              "quote": "In May 2014, the Living Wage Foundation bought Next shares and attended the annual general meeting in an attempt to persuade the company to pay at least £7.65 and become one of the UK's 700 living wage employers."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Next_plc",
+              "title": "Next plc",
+              "quote": "In October 2014, the company was one of several retailers criticised by journalist Janice Turner in The Times for failing to pay what she described as a living wage."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "supply_chain": {
+      "incidents": [],
+      "positives": [
+        "Next temporarily suspended sales of Boohoo and PrettyLittleThing products amid labour-exploitation concerns and began its own investigation.",
+        "Next joined the U.S. Cotton Trust Protocol, which provides verified sustainability data for cotton sourcing."
+      ]
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Next's target to reduce emissions by 55% by 2030 from a 2016–17 baseline was approved by SBTi."
+      ]
+    }
+  }
+}

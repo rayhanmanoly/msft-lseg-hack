@@ -19,6 +19,7 @@ export const CAUSES = [
   { id: 'tax_transparency', label: 'Tax transparency', description: 'Aggressive tax avoidance, offshore structures, lack of tax disclosure.' },
   { id: 'product_safety', label: 'Product safety & health', description: 'Unsafe products, recalls, misleading marketing, public health harm.' },
   { id: 'community_impact', label: 'Community impact', description: 'Local community harm or investment, displacement, social license to operate.' },
+  { id: 'customer_practices', label: 'Customer practices', description: 'Mis-selling, unfair fees, misleading marketing, poor treatment of customers, complaints and redress.' },
   { id: 'executive_pay', label: 'Executive pay', description: 'Excessive executive remuneration relative to performance or workforce pay.' },
 ] as const;
 

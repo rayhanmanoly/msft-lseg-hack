@@ -1,0 +1,106 @@
+{
+  "ticker": "RTO",
+  "generatedAt": "2026-10-23T13:25:35.528Z",
+  "coverage": "full",
+  "causes": {
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "Rentokil subsidiary Terminix agreed to pay $3.15 million to settle allegations of unlawful pesticide and hazardous-waste disposal and violations of customer privacy laws in California.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.cbsnews.com/sanfrancisco/news/terminix-california-lawsuit-environmental-violations-pesticides-privacy-laws-settlement/",
+              "title": "Terminix pest company to pay $3.15 million to settle California lawsuit alleging environmental violations - CBS San Francisco",
+              "publishedAt": "2026-09-08T00:00:00.000Z",
+              "quote": "Pest control company Terminix has agreed to pay $3.15 million to settle a lawsuit brought by 29 California counties alleging the company unlawfully disposed of pesticides and violated customer privacy laws."
+            },
+            {
+              "url": "https://www.cbsnews.com/sanfrancisco/news/terminix-california-lawsuit-environmental-violations-pesticides-privacy-laws-settlement/",
+              "title": "Terminix pest company to pay $3.15 million to settle California lawsuit alleging environmental violations - CBS San Francisco",
+              "publishedAt": "2026-09-08T00:00:00.000Z",
+              "quote": "According to the lawsuit, from 2021 through 2024, district attorney investigators across the state conducted undercover waste inspections and found items such as pesticides, batteries, e-waste, and cleaning solutions in outgoing waste bins."
+            },
+            {
+              "url": "https://www.cbsnews.com/sanfrancisco/news/terminix-california-lawsuit-environmental-violations-pesticides-privacy-laws-settlement/",
+              "title": "Terminix pest company to pay $3.15 million to settle California lawsuit alleging environmental violations - CBS San Francisco",
+              "publishedAt": "2026-09-08T00:00:00.000Z",
+              "quote": "The settlement noted that when notified by the district attorneys of the unlawful disposals, Terminix cooperated and quickly responded to prevent further violations of disposal and privacy laws."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "A securities class action alleged that Rentokil's offering materials misrepresented the benefits of its Terminix merger, with a May 2025 investor notice reporting an investigation into potential securities fraud.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-1022004",
+              "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Rentokil Initial plc - RTO",
+              "publishedAt": "2025-05-01T00:00:00.000Z",
+              "quote": "On October 12, 2022, Rentokil acquired Terminix Global Holdings, Inc. (\"Terminix\") via a corporate merger (the \"Merger\")."
+            },
+            {
+              "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-1022004",
+              "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Rentokil Initial plc - RTO",
+              "publishedAt": "2025-05-01T00:00:00.000Z",
+              "quote": "A class action complaint has been filed alleging that the Offering Materials misrepresented the purported benefits of the Merger and that the value of Rentokil ADSs fell sharply as Rentokil struggled to integrate Terminix following the Merger."
+            },
+            {
+              "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-1022004",
+              "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Rentokil Initial plc - RTO",
+              "publishedAt": "2025-05-01T00:00:00.000Z",
+              "quote": "The investigation concerns whether Rentokil and certain of its officers and/or directors have engaged in securities fraud or other unlawful business practices."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "diversity_inclusion": {
+      "incidents": [
+        {
+          "year": 2019,
+          "summary": "Rentokil Initial UK lost its 2024 appeal against a tribunal ruling that it failed to make a reasonable adjustment for an employee with multiple sclerosis dismissed in 2019.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.personneltoday.com/hr/rentokil-initial-loses-appeal-in-reasonable-adjustments-case/",
+              "title": "Rentokil Initial loses appeal in reasonable adjustments case - Personnel Today",
+              "publishedAt": "2024-03-15T00:00:00.000Z",
+              "quote": "Pest control firm Rentokil Initial UK has lost an appeal against the ruling that it failed to make a reasonable adjustment for an employee with multiple sclerosis."
+            },
+            {
+              "url": "https://www.personneltoday.com/hr/rentokil-initial-loses-appeal-in-reasonable-adjustments-case/",
+              "title": "Rentokil Initial loses appeal in reasonable adjustments case - Personnel Today",
+              "publishedAt": "2024-03-15T00:00:00.000Z",
+              "quote": "A capability assessment for his pest control role was held in March 2019, in which it was concluded no adjustments could be made for him and there were no other suitable alternative positions."
+            },
+            {
+              "url": "https://www.personneltoday.com/hr/rentokil-initial-loses-appeal-in-reasonable-adjustments-case/",
+              "title": "Rentokil Initial loses appeal in reasonable adjustments case - Personnel Today",
+              "publishedAt": "2024-03-15T00:00:00.000Z",
+              "quote": "The employment tribunal found that offering a trial period and retraining for the admin role would have been considered a reasonable adjustment."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

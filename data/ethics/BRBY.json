@@ -1,0 +1,46 @@
+{
+  "ticker": "BRBY",
+  "generatedAt": "2026-10-23T13:15:03.255Z",
+  "coverage": "full",
+  "causes": {
+    "climate_emissions": {
+      "incidents": [
+        {
+          "year": 2018,
+          "summary": "Burberry disclosed destroying £28.6 million of finished goods in the financial year ending March 2018, following approximately £90 million of destruction over five years, and subsequently announced an end to the practice.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://europeanbusinessmagazine.com/why-burberry-burned-28-million-of-its-own-stock-on-purpose/",
+              "title": "Why Burberry Burned £28 Million of Its Own Stock On Purpose",
+              "publishedAt": "2026-05-02T00:00:00.000Z",
+              "quote": "Burberry Group plc disclosed in a single line of its annual report that £28.6 million of finished goods had been physically destroyed in twelve months, including £10.4 million of beauty inventory."
+            },
+            {
+              "url": "https://europeanbusinessmagazine.com/why-burberry-burned-28-million-of-its-own-stock-on-purpose/",
+              "title": "Why Burberry Burned £28 Million of Its Own Stock On Purpose",
+              "publishedAt": "2026-05-02T00:00:00.000Z",
+              "quote": "Cumulative destruction over the previous five years totalled approximately £90 million."
+            },
+            {
+              "url": "https://europeanbusinessmagazine.com/why-burberry-burned-28-million-of-its-own-stock-on-purpose/",
+              "title": "Why Burberry Burned £28 Million of Its Own Stock On Purpose",
+              "publishedAt": "2026-05-02T00:00:00.000Z",
+              "quote": "By September, Burberry had announced the practice was over."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "fair_wages": {
+      "incidents": [],
+      "positives": [
+        "Burberry committed to paying all staff globally during coronavirus-related closures without using Britain's government support scheme."
+      ]
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "ticker": "ITRK",
+  "generatedAt": "2026-10-23T13:21:03.283Z",
+  "coverage": "full",
+  "causes": {
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "Intertek faces claims that its auditors failed to protect migrant garment workers who disclosed exploitation, exposing them to retaliation and job losses; the company denies the allegations.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://labourbehindthelabel.org/social-auditing-is-failing-workers/",
+              "title": "Intertek failed the VK Garment workers - Labour Behind the Label",
+              "publishedAt": "2024-05-24T00:00:00.000Z",
+              "quote": "What Intertek did betrayed the workers’ confidence and exposed them to intimidation, job losses and destitution."
+            },
+            {
+              "url": "https://labourbehindthelabel.org/social-auditing-is-failing-workers/",
+              "title": "Intertek failed the VK Garment workers - Labour Behind the Label",
+              "publishedAt": "2024-05-24T00:00:00.000Z",
+              "quote": "The 130 VK Garment workers are bringing legal action against Intertek."
+            },
+            {
+              "url": "https://www.ioshmagazine.com/2024/08/22/migrant-factory-workers-pursue-claims-forced-labour-and-debt-bondage-against-tesco-and",
+              "title": "Migrant factory workers pursue claims of forced labour against Tesco and Intertek | IOSH magazine",
+              "publishedAt": "2024-08-22T00:00:00.000Z",
+              "quote": "Both defendants, however, denied the allegations in December 2022 and have refused to settle the workers’ claim."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2014,
+          "summary": "An Intertek surveyor pleaded guilty to accepting bribes to misreport inspected cargo in the Shell gasoil theft case and received a four-month prison sentence and a USD15,000 penalty.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.manifoldtimes.com/news/shell-mgo-bunker-heist-ex-intertek-surveyor-sentenced-to-four-months-jail-for-corruption/",
+              "title": "Shell MGO bunker heist: Ex-Intertek Surveyor sentenced to four months’ jail for corruption | Manifold Times",
+              "publishedAt": "2022-11-18T00:00:00.000Z",
+              "quote": "A Surveyor who formerly worked for Intertek Testing Services Pte Ltd was sentenced to four months’ jail at the State Courts of Singapore on Tuesday (15 November) over his involvement in the Shell MGO bunker heist, according to several media reports."
+            },
+            {
+              "url": "https://www.manifoldtimes.com/news/shell-mgo-bunker-heist-ex-intertek-surveyor-sentenced-to-four-months-jail-for-corruption/",
+              "title": "Shell MGO bunker heist: Ex-Intertek Surveyor sentenced to four months’ jail for corruption | Manifold Times",
+              "publishedAt": "2022-11-18T00:00:00.000Z",
+              "quote": "Jasbir Singh s/o Paramjit Singh, who was working for Intertek as a surveyor from 2013 to 2015, was also ordered to pay a USD15,000 (SGD 20,514) penalty for his offences – equivalent to the bribes he received."
+            },
+            {
+              "url": "https://www.manifoldtimes.com/news/shell-mgo-bunker-heist-ex-intertek-surveyor-sentenced-to-four-months-jail-for-corruption/",
+              "title": "Shell MGO bunker heist: Ex-Intertek Surveyor sentenced to four months’ jail for corruption | Manifold Times",
+              "publishedAt": "2022-11-18T00:00:00.000Z",
+              "quote": "Between 2014 to 2015, Singh corruptly accepted gratification of a total of USD15,000 (SGD 20,514) over three incidents from Juandi bin Pungot to not accurately report the amount of cargo loaded onto vessels which Intertek was engaged to inspect."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "Oxebridge filed a formal complaint over continuing audit-scheduling failures at Intertek’s acquired SAI Global certification business, reporting that Intertek had announced its exit from Australia.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.oxebridge.com/emma/intertek-appears-to-have-fired-prior-sai-execs-as-oxebridge-files-formal-complaint/",
+              "title": "Intertek Appears to Have Fired Prior SAI Execs as Oxebridge Files Formal Complaint - Oxebridge Quality Resources",
+              "publishedAt": "2023-05-08T00:00:00.000Z",
+              "quote": "In addition, Oxebridge has filed a major complaint with Intertek on behalf of stakeholders, as the problems appear to continue."
+            },
+            {
+              "url": "https://www.oxebridge.com/emma/intertek-appears-to-have-fired-prior-sai-execs-as-oxebridge-files-formal-complaint/",
+              "title": "Intertek Appears to Have Fired Prior SAI Execs as Oxebridge Files Formal Complaint - Oxebridge Quality Resources",
+              "publishedAt": "2023-05-08T00:00:00.000Z",
+              "quote": "Since at least 2017, SAI Global faced repeated complaints and customer reports that it was not performing audits per required schedules."
+            },
+            {
+              "url": "https://www.oxebridge.com/emma/intertek-appears-to-have-fired-prior-sai-execs-as-oxebridge-files-formal-complaint/",
+              "title": "Intertek Appears to Have Fired Prior SAI Execs as Oxebridge Files Formal Complaint - Oxebridge Quality Resources",
+              "publishedAt": "2023-05-08T00:00:00.000Z",
+              "quote": "In 2021, Intertek purchased SAI Global’s ISO certification business, but the problems continued. In Australia, the problems grew so much that Intertek announced it was exiting the continent."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    }
+  }
+}

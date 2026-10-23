@@ -24,7 +24,7 @@ Buckets `{ id, label, rationale, action: keep|exclude, tickers[] }` + `summary`.
 ## EthicsRecord (`ethics.ts`, `data/ethics/{ticker}.json`)
 `causes[causeId] = { incidents[], positives[] }`. Incident: `year, summary, severity 1-5, relativeScale 1-5 (vs company size), confirmed (false = allegation), remediation 0-1, sourceUrls[]`. The cache stores **factors**, never a verdict.
 
-Rubric (`src/lib/rubric.ts`, not yet written): incident score = `severity x relativeScale x (confirmed ? 1 : 0.3) x (1 - remediation) x recencyDecay`; summed per cause and scaled by client cause weight. Above threshold -> excluded; a band just below -> borderline. Thresholds tuned by eye on real cache data.
+Rubric (`src/lib/rubric.ts`, constants in `RUBRIC`): incident score = `severity x relativeScale x (confirmed ? 1 : 0.3) x (1 - remediation) x recencyDecay` (12-year half-life). Per cause the worst incident counts in full and the others at half, scaled by `weight / 3`. A confirmed incident of severity 4 or 5 keeps the cause at least a close call when the client's weight is 3 or more. At 8 or more the company is excluded; from 4 it is borderline. `VetDecision.score` is this number, so the UI shows it as a share of the exclusion line (`percentOfLine`, 100 = excluded, 50 = close-call level).
 
 ## VetResult / VetConfirmation / VettedCompany (`vet.ts`)
 `passed[]` tickers; `borderline[]` and `excluded[]` are `{ ticker, causeId, reason, score }`; `summary`. Confirmation = `{ forceInclude[], forceExclude[] }`. `VettedCompany` = `Company + ethicalNotes[] + borderlineReason?`, the finance input.

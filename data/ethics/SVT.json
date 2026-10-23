@@ -1,0 +1,166 @@
+{
+  "ticker": "SVT",
+  "generatedAt": "2026-10-23T13:27:42.221Z",
+  "coverage": "full",
+  "causes": {
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "Ofwat found that Severn Trent breached its wastewater obligations but imposed no fine after the company took corrective action and invested £98 million.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/czj8l83zzgxo",
+              "title": "Severn Trent avoids fine for 'serious' wastewater failures - BBC News",
+              "publishedAt": "2026-07-08T00:00:00.000Z",
+              "quote": "Severn Trent Water breached its wastewater obligations but avoided a fine after taking \"genuine accountability\" to fix the problems, the industry regulator has said."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/czj8l83zzgxo",
+              "title": "Severn Trent avoids fine for 'serious' wastewater failures - BBC News",
+              "publishedAt": "2026-07-08T00:00:00.000Z",
+              "quote": "Ofwat said the utility, which supplies water to more than eight million people across England and Wales, breached those duties by failing to effectively provide drainage and manage the contents of its sewers."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/czj8l83zzgxo",
+              "title": "Severn Trent avoids fine for 'serious' wastewater failures - BBC News",
+              "publishedAt": "2026-07-08T00:00:00.000Z",
+              "quote": "Ofwat said the firm now had the right processes in place and had invested £98m of shareholder funds into improving its infrastructure."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2019,
+          "summary": "Severn Trent pleaded guilty to illegal sewage discharges at Strongford and was fined £2.072 million plus costs and a surcharge.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/news/severn-trent-water-fined-2-million-for-reckless-pollution",
+              "title": "Severn Trent Water fined £2 million for ‘reckless’ pollution - GOV.UK",
+              "publishedAt": "2024-02-20T00:00:00.000Z",
+              "quote": "Severn Trent Water has been ordered to pay a fine of £2,072,000 for allowing huge amounts of raw sewage to discharge into the River Trent from Strongford Wastewater Treatment Works (WTW) near Stoke-on-Trent, Staffordshire, between November 2019 and February 2020."
+            },
+            {
+              "url": "https://www.gov.uk/government/news/severn-trent-water-fined-2-million-for-reckless-pollution",
+              "title": "Severn Trent Water fined £2 million for ‘reckless’ pollution - GOV.UK",
+              "publishedAt": "2024-02-20T00:00:00.000Z",
+              "quote": "The company had pleaded guilty at a previous hearing to two charges of illegally discharging raw sewage. The judge fined the company £1,072,000 and £1,000,000 plus costs of £16,476.67 and a victim’s surcharge of £181."
+            },
+            {
+              "url": "https://www.gov.uk/government/news/severn-trent-water-fined-2-million-for-reckless-pollution",
+              "title": "Severn Trent Water fined £2 million for ‘reckless’ pollution - GOV.UK",
+              "publishedAt": "2024-02-20T00:00:00.000Z",
+              "quote": "The court heard that over the course of the incident approximately 470 million litres of raw sewage was discharged, approximately 260 million of this illegally as it was in contravention of the conditions of the Environmental Permit."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2018,
+          "summary": "Severn Trent was fined £1.5 million for illegal sewage discharges from four Worcestershire treatment works between February and August 2018.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/business/environment/uk-fines-water-co-severn-trent-15-mln-pounds-sewage-discharges-2021-12-08/",
+              "title": "UK fines water firm Severn Trent $2 mln for illegal sewage discharges",
+              "publishedAt": "2021-12-08T00:00:00.000Z",
+              "quote": "Water company Severn Trent(SVT.L), opens new tab has been fined 1.5 million pounds ($2 million) for illegal sewage discharges, Britain's Environment Agency said on Wednesday"
+            },
+            {
+              "url": "https://www.reuters.com/business/environment/uk-fines-water-co-severn-trent-15-mln-pounds-sewage-discharges-2021-12-08/",
+              "title": "UK fines water firm Severn Trent $2 mln for illegal sewage discharges",
+              "publishedAt": "2021-12-08T00:00:00.000Z",
+              "quote": "Severn Trent, one of the largest listed water firms in Britain, has been fined for discharges from four sewage treatment works in Worcestershire between February and August 2018, the Environment Agency said."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": [
+        "The BBC reported that Severn Trent had received the Environment Agency's top four-star environmental performance rating for five consecutive years.",
+        "Infrastructure improvements were reported to have reduced spills per storm overflow by 41% in 2025 compared with 2024."
+      ]
+    },
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2008,
+          "summary": "Severn Trent received £35.8 million and £2 million fines for false regulatory information, poor customer service and misleading leakage reporting.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Severn_Trent",
+              "title": "Severn Trent",
+              "quote": "In July 2008, OFWAT fined Severn Trent Water £35.8 million for deliberately providing false information to Ofwat and for delivering poor service to its customers."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Severn_Trent",
+              "title": "Severn Trent",
+              "quote": "In July 2008, the company was fined £2m (reduced from a previous judgement of £4m) for poor information reporting and covering up misleading leakage data."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2017,
+          "summary": "BBC Panorama alleged that an accounting arrangement begun in 2017 inflated Severn Trent Water's accounts through a £1.68 billion investment valuation, which the company denied was misleading.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cd75nqwdpj7o",
+              "title": "Major water company uses accounting trick to inflate balance sheet by £1.68bn - BBC News",
+              "publishedAt": "2024-12-09T00:00:00.000Z",
+              "quote": "Severn Trent Water claims that an investment is worth £1.68bn in its accounts, when in reality it has no value to the overall business."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cd75nqwdpj7o",
+              "title": "Major water company uses accounting trick to inflate balance sheet by £1.68bn - BBC News",
+              "publishedAt": "2024-12-09T00:00:00.000Z",
+              "quote": "Severn Trent denies the accounts are misleading and says Panorama's allegations are \"completely inaccurate\"."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cd75nqwdpj7o",
+              "title": "Major water company uses accounting trick to inflate balance sheet by £1.68bn - BBC News",
+              "publishedAt": "2024-12-09T00:00:00.000Z",
+              "quote": "The complex accounting trick started in March 2017 when a shell company, with no money or assets, called Severn Trent Trimpley was set up as part of the group."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2016,
+          "summary": "High chlorine levels prompted a do-not-use notice for Severn Trent customers in Derbyshire, leaving thousands of households without a clean, reliable water supply.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Severn_Trent",
+              "title": "Severn Trent",
+              "quote": "On 11 March 2016, Severn Trent customers in Derbyshire were issued a \"do not use\" notice due to high levels of chlorine detected in the water supply, leaving thousands of households without a clean, reliable water supply."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    }
+  }
+}

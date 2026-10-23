@@ -1,0 +1,153 @@
+{
+  "ticker": "BA",
+  "generatedAt": "2026-10-23T13:14:07.580Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2010,
+          "summary": "BAE Systems agreed to £287 million in US and UK criminal penalties and was convicted in the US of felony conspiracy to defraud the government.",
+          "relativeScale": 5,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/BAE_Systems",
+              "title": "BAE Systems",
+              "quote": "On 5 February 2010, BAE Systems agreed to pay criminal fines of £257 million (US$400 million) to the US and £30 million to the UK."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/BAE_Systems",
+              "title": "BAE Systems",
+              "quote": "The $400 million fine was a result of a plea bargain with the US Department of Justice (DOJ) whereby BAE Systems was convicted of felony conspiracy to defraud the United States government."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/BAE_Systems",
+              "title": "BAE Systems",
+              "quote": "The report, Ethical business conduct in BAE Systems plc – the way forward, made 23 recommendations, measures which the company committed to implement."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2026,
+          "summary": "BAE Systems' US subsidiary agreed to a $36 million settlement over 104 violations of US arms export restrictions between 2019 and 2025.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.wsj.com/politics/policy/the-morning-risk-report-bae-systems-fined-36-million-for-illegal-exports-972b80dc",
+              "title": "The Morning Risk Report: BAE Systems Fined $36 Million for Illegal Exports - WSJ",
+              "publishedAt": "2026-08-14T00:00:00.000Z",
+              "quote": "Good morning. BAE Systems is set to pay $36 million for violating U.S. export restrictions on military technology."
+            },
+            {
+              "url": "https://www.wsj.com/politics/policy/the-morning-risk-report-bae-systems-fined-36-million-for-illegal-exports-972b80dc",
+              "title": "The Morning Risk Report: BAE Systems Fined $36 Million for Illegal Exports - WSJ",
+              "publishedAt": "2026-08-14T00:00:00.000Z",
+              "quote": "A U.S. subsidiary of the U.K.-based defense manufacturer was charged with violating U.S. arms trafficking regulations 104 times between 2019 and 2025, according to the settlement."
+            },
+            {
+              "url": "https://www.theguardian.com/business/2026/aug/13/bae-systems-inc-to-pay-36m-penalty-104-violations-us-arms-export-regulations",
+              "title": "BAE Systems to pay $36m penalty after 104 violations of US arms export rules | BAE Systems | The Guardian",
+              "publishedAt": "2026-08-13T00:00:00.000Z",
+              "quote": "BAE voluntarily disclosed all but one of the alleged violations by its US arm."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2018,
+          "summary": "The Australian National Audit Office found that BAE overstated the development level of its Hunter-class frigate design, contributing to underestimated cost inflation and schedule slippage.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://declassifiedaus.org/2023/07/03/sinking-billions-undergunned-and-overpriced/",
+              "title": "SINKING BILLIONS – UNDERGUNNED AND OVERPRICED - Declassified Australia",
+              "publishedAt": "2023-07-03T00:00:00.000Z",
+              "quote": "The Australian National Audit Office (ANAO) reported in May its findings on the multi-billion dollar contract Australia signed in December 2018 with BAE Systems to build nine Hunter-class frigates."
+            },
+            {
+              "url": "https://declassifiedaus.org/2023/07/03/sinking-billions-undergunned-and-overpriced/",
+              "title": "SINKING BILLIONS – UNDERGUNNED AND OVERPRICED - Declassified Australia",
+              "publishedAt": "2023-07-03T00:00:00.000Z",
+              "quote": "ANAO found that BAE had ‘over-stated’ – bureaucrat language for lied – the level of development of the frigate’s design, which meant cost inflation and schedule slippage were severely under-estimated."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2026,
+          "summary": "EnComm Aviation sued BAE Systems for £120 million over its withdrawal of support for aircraft used to deliver humanitarian aid.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.theguardian.com/global-development/2026/may/01/bae-lawsuit-scrap-support-aid-aircraft-encomm-aviation",
+              "title": "BAE faces £120m lawsuit over decision to scrap support for aid aircraft | Global development | The Guardian",
+              "publishedAt": "2026-05-01T00:00:00.000Z",
+              "quote": "Britain’s biggest weapons manufacturer, BAE Systems, is facing a £120m lawsuit after scrapping support for aircraft used to deliver aid to some of the world’s neediest countries."
+            },
+            {
+              "url": "https://www.theguardian.com/global-development/2026/may/01/bae-lawsuit-scrap-support-aid-aircraft-encomm-aviation",
+              "title": "BAE faces £120m lawsuit over decision to scrap support for aid aircraft | Global development | The Guardian",
+              "publishedAt": "2026-05-01T00:00:00.000Z",
+              "quote": "The Kenya-based operator is suing BAE for effectively grounding its fleet."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "Open burning of hazardous production waste at the BAE-operated Radford plant drew community concern, while a replacement incinerator was delayed until summer 2026.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://radfordnewsjournal.com/incinerator-project-continues-at-raap/",
+              "title": "Incinerator Project Continues at RAAP – News Journal",
+              "publishedAt": "2025-06-03T00:00:00.000Z",
+              "quote": "Officials from the plant and the government contractor which runs the local facility, BAE Systems, updated the public this past week during an online community meeting."
+            },
+            {
+              "url": "https://radfordnewsjournal.com/incinerator-project-continues-at-raap/",
+              "title": "Incinerator Project Continues at RAAP – News Journal",
+              "publishedAt": "2025-06-03T00:00:00.000Z",
+              "quote": "The propellant production results in waste containing various hazardous chemicals, such as barium, chromium, and mercury. The practice has been to simply burn the waste at the OBG."
+            },
+            {
+              "url": "https://radfordnewsjournal.com/incinerator-project-continues-at-raap/",
+              "title": "Incinerator Project Continues at RAAP – News Journal",
+              "publishedAt": "2025-06-03T00:00:00.000Z",
+              "quote": "Initially, the project had been expected to be completed by this year, but now is scheduled for a summer of 2026 date."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "University of Sheffield researchers collaborated with BAE Systems and AMRC North West to establish a life-cycle environmental assessment framework for fast jets, focusing on Scope 3 emissions."
+      ]
+    }
+  }
+}

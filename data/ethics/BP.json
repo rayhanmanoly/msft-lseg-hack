@@ -1,0 +1,232 @@
+{
+  "ticker": "BP",
+  "generatedAt": "2026-10-23T13:15:04.649Z",
+  "coverage": "full",
+  "causes": {
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2010,
+          "summary": "BP’s Deepwater Horizon spill continued to affect the Gulf Coast in 2025, with restoration incomplete and cleanup workers’ health claims unresolved.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://apnews.com/article/deepwater-horizon-oil-spill-bp-offshore-01247f5b76c028b09c4ef80d9f982a50",
+              "title": "Deepwater Horizon oil spill anniversary: Status of BP lawsuits and coastal restoration in 2025 | AP News",
+              "publishedAt": "2025-04-20T00:00:00.000Z",
+              "quote": "Fifteen years after the Deepwater Horizon oil spill, the environmental impact is still felt along the Gulf Coast."
+            },
+            {
+              "url": "https://apnews.com/article/deepwater-horizon-oil-spill-bp-offshore-01247f5b76c028b09c4ef80d9f982a50",
+              "title": "Deepwater Horizon oil spill anniversary: Status of BP lawsuits and coastal restoration in 2025 | AP News",
+              "publishedAt": "2025-04-20T00:00:00.000Z",
+              "quote": "Settlement money is also nearing an end, leaving states like Louisiana searching for alternative funding sources for their coastal restoration projects."
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2026,
+          "summary": "BP subsidiary Pedro Afonso Bioenergia was accused of damaging waterways and clearing approximately 5,000 hectares of Cerrado vegetation for an irrigation project.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.business-humanrights.org/en/latest-news/brazil-construction-works-carried-out-by-the-ethanol-plant-of-bps-subsidiary-may-have-caused-deforestation-altered-waterways-and-violated-indigenous-rights/",
+              "title": "Brazil: Construction works carried out by the ethanol plant of BP's subsidiary may have caused deforestation, altered waterways and violated indigenous rights - Business and Human Rights Centre",
+              "publishedAt": "2026-07-10T00:00:00.000Z",
+              "quote": "The installation of a water pipeline, intended to irrigate sugarcane plantations and supply water to Pedro Afonso Bioenergia’s, BP's subsidiary biofuel plant allegedly altered the natural flow of local waterways, destroyed springs, and affected fish breeding areas in the Tocantins River."
+            },
+            {
+              "url": "https://www.business-humanrights.org/en/latest-news/brazil-construction-works-carried-out-by-the-ethanol-plant-of-bps-subsidiary-may-have-caused-deforestation-altered-waterways-and-violated-indigenous-rights/",
+              "title": "Brazil: Construction works carried out by the ethanol plant of BP's subsidiary may have caused deforestation, altered waterways and violated indigenous rights - Business and Human Rights Centre",
+              "publishedAt": "2026-07-10T00:00:00.000Z",
+              "quote": "The company is also accused of clearing approximately 5,000 hectares of the Cerrado biome to establish crop rotation areas intended for irrigation."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 1993,
+          "summary": "BP Exploration Alaska pleaded guilty in 1999 over hazardous-waste dumping during 1993–1995 and paid $22 million in penalties and environmental-management measures.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/BP",
+              "title": "BP",
+              "quote": "In September 1999, one of BP's US subsidiaries, BP Exploration Alaska (BPXA), pleaded guilty to criminal charges stemming from its illegally dumping of hazardous wastes on the Alaska North Slope, paying fines and penalties totalling $22 million."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/BP",
+              "title": "BP",
+              "quote": "The charges stemmed from the 1993 to 1995 dumping of hazardous wastes on Endicott Island, Alaska by BP's contractor Doyon Drilling."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/BP",
+              "title": "BP",
+              "quote": "BPXA failed to report the illegal injections when it learned of the conduct, in violation of the Comprehensive Environmental Response, Compensation and Liability Act."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "community_impact": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "BP subsidiaries settled alleged clean-air and hazardous-substance reporting violations at the Toledo refinery, agreeing to government payments, lead abatement and compliance controls.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.13abc.com/content/news/BP-settles-Toledo-Refinery-lead-lawsuit-for-26-million-569134751.html",
+              "title": "BP settles Toledo Refinery lead lawsuit for $2.6 million",
+              "publishedAt": "2020-03-26T00:00:00.000Z",
+              "quote": "A federal judge has approved a settlement requiring BP Products North America Inc. and BP-Husky Refining LLC to pay $2.6 million to the U.S. government and Ohio for alleged violations of clean air laws."
+            },
+            {
+              "url": "https://www.13abc.com/content/news/BP-settles-Toledo-Refinery-lead-lawsuit-for-26-million-569134751.html",
+              "title": "BP settles Toledo Refinery lead lawsuit for $2.6 million",
+              "publishedAt": "2020-03-26T00:00:00.000Z",
+              "quote": "Under the agreement, the companies will pay a $200,000 penalty to Ohio and will complete a $1.2 million lead abatement project within 18 miles of the Toledo Refinery."
+            },
+            {
+              "url": "https://www.13abc.com/content/news/BP-settles-Toledo-Refinery-lead-lawsuit-for-26-million-569134751.html",
+              "title": "BP settles Toledo Refinery lead lawsuit for $2.6 million",
+              "publishedAt": "2020-03-26T00:00:00.000Z",
+              "quote": "The agreement requires the companies to implement proper controls to ensure compliance with clean air laws moving forward."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2021,
+          "summary": "BP agreed to pay a $512,450 penalty and reduce soot emissions at its Whiting refinery in Indiana.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://apnews.com/article/business-indiana-environment-north-america-lake-michigan-3a8fade9048f1a4865f4894f300aa450",
+              "title": "BP agrees to $500K penalty, soot limits at Indiana refinery | AP News",
+              "publishedAt": "2021-12-02T00:00:00.000Z",
+              "quote": "Oil giant BP agreed Thursday, Dec. 2, 2021, to pay a $512,450 penalty and reduce soot emissions from its Whiting refinery in Indiana"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "A US House committee investigation accused BP of greenwashing its climate pledges while continuing long-term fossil-fuel investment and obstructing the investigation.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/BP",
+              "title": "BP",
+              "quote": "accused BP along with ExxonMobil, Chevron, and Shell of greenwashing their Paris Agreement carbon neutrality pledges while continuing long-term investment in fossil fuel production and sales"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/BP",
+              "title": "BP",
+              "quote": "of intimidating journalists reporting about the companies' climate actions and of obstructing the Committee's investigation."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2022,
+          "summary": "BBC and SourceMaterial investigations reported that BP omitted or understated gas-flaring emissions, including at the BP-co-managed Rumaila oil field in Iraq.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.bbc.com/news/science-environment-63560279",
+              "title": "Air pollution: Uncovering the dirty secret behind BP’s bumper profits",
+              "publishedAt": "2022-11-12T00:00:00.000Z",
+              "quote": "When the BBC discovered BP was not declaring the field's gas flaring, Ali helped us to reveal the truth about the poisonous air the local community has to breathe."
+            },
+            {
+              "url": "https://www.source-material.org/burning-skies-bp-shell-exxon-gas-flaring-nigeria/",
+              "title": "Burning Skies – SourceMaterial",
+              "publishedAt": "2024-09-27T00:00:00.000Z",
+              "quote": "The analysis suggests that the biggest flaring polluters like BP and ExxonMobil have in some cases vastly understated their emissions."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "Bank of China sued BP in Singapore seeking repayment of $125.7 million over allegedly fictitious oil trades with Hin Leong, which BP denied.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://theindependent.sg/bp-singapore-ok-lim-family-face-313-million-lawsuit",
+              "title": "BP Singapore, OK Lim & family face $313 million lawsuit | The Independent Singapore",
+              "publishedAt": "2020-12-14T00:00:00.000Z",
+              "quote": "Bank of China is asking BP for a repayment of $125.7 million (S$168 million)."
+            },
+            {
+              "url": "https://theindependent.sg/bp-singapore-ok-lim-family-face-313-million-lawsuit",
+              "title": "BP Singapore, OK Lim & family face $313 million lawsuit | The Independent Singapore",
+              "publishedAt": "2020-12-14T00:00:00.000Z",
+              "quote": "Documents provided by the Supreme Court of Singapore showed that this amount had been withdrawn based on sales of gasoil cargoes to Hin Leong which had never actually taken place, but were merely a part of a “fictitious purchase scheme conspiracy” to maintain Hin Leong’s liquidity."
+            },
+            {
+              "url": "https://theindependent.sg/bp-singapore-ok-lim-family-face-313-million-lawsuit",
+              "title": "BP Singapore, OK Lim & family face $313 million lawsuit | The Independent Singapore",
+              "publishedAt": "2020-12-14T00:00:00.000Z",
+              "quote": "However, BP denied the Chinese bank’s allegations and said that it will defend its position."
+            }
+          ],
+          "severity": 1
+        },
+        {
+          "year": 2023,
+          "summary": "BP dismissed former CEO Bernard Looney for serious misconduct and cut over $40 million in remuneration after concluding that he knowingly misled the board about relationships with colleagues.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/business/energy/bp-says-former-ceo-looney-not-get-further-pay-2023-12-13/",
+              "title": "BP claws back $40 mln from former CEO Looney | Reuters",
+              "publishedAt": "2023-12-13T00:00:00.000Z",
+              "quote": "cut over $40 million in remuneration from former CEO Bernard Looney after the British oil giant concluded he had knowingly misled the board over personal relationships with colleagues."
+            },
+            {
+              "url": "https://www.reuters.com/business/energy/bp-says-former-ceo-looney-not-get-further-pay-2023-12-13/",
+              "title": "BP claws back $40 mln from former CEO Looney | Reuters",
+              "publishedAt": "2023-12-13T00:00:00.000Z",
+              "quote": "BP's board dismissed Looney without notice effective Dec. 13 for serious misconduct"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

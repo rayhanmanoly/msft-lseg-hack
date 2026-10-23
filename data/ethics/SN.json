@@ -1,0 +1,160 @@
+{
+  "ticker": "SN",
+  "generatedAt": "2026-10-23T13:28:22.424Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2012,
+          "summary": "Smith & Nephew agreed to pay $22.2 million to settle FCPA offenses involving its subsidiaries and admitted bribing government-employed doctors in Greece over the preceding decade.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Smith_%26_Nephew",
+              "title": "Smith & Nephew",
+              "quote": "In February 2012, Smith & Nephew plc agreed to pay US$22.2 million to settle multiple US Foreign Corrupt Practices Act (FCPA) offenses committed by its US and German subsidiaries."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Smith_%26_Nephew",
+              "title": "Smith & Nephew",
+              "quote": "The company admitted to having bribed government-employed doctors in Greece to use its medical equipment over the past decade."
+            },
+            {
+              "url": "https://complianceconcourse.willkie.com/articles/news-alerts-2021-03-march-20210301-medical-device-maker-discloses/",
+              "title": "Medical device maker discloses investigation by the SEC and Indian authorities | Willkie Compliance Concourse",
+              "publishedAt": "2021-03-01T00:00:00.000Z",
+              "quote": "Under the terms of the DPA, the Company agreed to pay a criminal penalty of $16.8 million, make significant improvements to its compliance program, and hire a compliance monitor for 18 months."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2007,
+          "summary": "Smith & Nephew entered a settlement alongside three other device manufacturers, agreeing to industry reforms and corporate monitoring to avoid criminal conspiracy charges.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Smith_%26_Nephew",
+              "title": "Smith & Nephew",
+              "quote": "In September 2007, Biomet Inc., DePuy Orthopaedics Inc. (part of Johnson & Johnson), Smith & Nephew PLC and Zimmer Holdings Inc. entered into settlement agreements, under which they agreed to pay $300 million in total, adopt industry overhauls and undertake corporate monitoring to avoid criminal charges of conspiracy."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "fair_wages": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "Smith & Nephew agreed in 2026 to pay $350,000 to settle a worker class action challenging retirement-plan managed account fees and its handling of forfeited employee funds.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://news.bloomberglaw.com/employee-benefits/smith-nephew-settles-401k-fee-forfeiture-suit-for-350-000",
+              "title": "Smith & Nephew Settles 401(k) Fee, Forfeiture Suit for $350,000",
+              "publishedAt": "2026-02-17T00:00:00.000Z",
+              "quote": "agreed to pay $350,000 to settle a proposed class action challenging its 401(k) plan’s managed account fees and how it handles the money forfeited by departing employees."
+            },
+            {
+              "url": "https://news.bloomberglaw.com/employee-benefits/smith-nephew-settles-401k-fee-forfeiture-suit-for-350-000",
+              "title": "Smith & Nephew Settles 401(k) Fee, Forfeiture Suit for $350,000",
+              "publishedAt": "2026-02-17T00:00:00.000Z",
+              "quote": "It also requires the company to look for a new managed account provider by the end of 2027, according to a Feb. 13 motion seeking preliminary settlement approval"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "Smith & Nephew Medical was convicted and fined £230,000 plus £111,000 in costs after an inadequately planned unloading operation caused a falling crate to inflict life-changing injuries on a delivery worker.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.hsmsearch.com/news/falling-crate-seriously-injures-worker/",
+              "title": "Falling crate seriously injures worker | Health & Safety Matters",
+              "publishedAt": "2026-09-29T00:00:00.000Z",
+              "quote": "Smith & Nephew Medical Ltd was sentenced on 14 September 2026 after Mr Dubey, an employee of Nippon Express (UK) Ltd, was seriously injured when a crate weighing approximately 1.2 tonnes fell from a forklift truck."
+            },
+            {
+              "url": "https://www.hsmsearch.com/news/falling-crate-seriously-injures-worker/",
+              "title": "Falling crate seriously injures worker | Health & Safety Matters",
+              "publishedAt": "2026-09-29T00:00:00.000Z",
+              "quote": "As a result, Mr Dubey was positioned unsafely and the load was lifted in an unsafe manner, causing the crate to fall from the forklift truck and land on him, resulting in life-changing injuries."
+            },
+            {
+              "url": "https://www.hsmsearch.com/news/falling-crate-seriously-injures-worker/",
+              "title": "Falling crate seriously injures worker | Health & Safety Matters",
+              "publishedAt": "2026-09-29T00:00:00.000Z",
+              "quote": "Smith & Nephew Medical Ltd, of Hull, was found guilty of breaching Section 3(1) of the Health and Safety at Work etc. Act 1974. The company was fined £230,000 and ordered to pay £111,000 in costs."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": [
+        "Smith & Nephew issued staff proximity-alert devices to support distancing and prevent coronavirus transmission."
+      ]
+    },
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "Smith & Nephew initiated a recall of two K-Wire batches after a complaint identified wires whose size differed from the package label, with the FDA identifying packaging change control as the cause.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?id=209612",
+              "title": "Class 2 Device Recall  KWIRE",
+              "publishedAt": "2024-07-09T00:00:00.000Z",
+              "quote": "Smith & Nephew, Inc., has initiated a field action to voluntarily remove two batches of K-Wires due to a packaging error."
+            },
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?id=209612",
+              "title": "Class 2 Device Recall  KWIRE",
+              "publishedAt": "2024-07-09T00:00:00.000Z",
+              "quote": "A complaint was received indicating that a package contained K-WIRE .062X9 2PT DM wires instead of K-WIRE .045X9 2PT DM as described on the product label."
+            },
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?id=209612",
+              "title": "Class 2 Device Recall  KWIRE",
+              "publishedAt": "2024-07-09T00:00:00.000Z",
+              "quote": "FDA Determined Cause 2 | Packaging change control"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "The Penang manufacturing facility attained LEED Silver certification in 2023."
+      ]
+    },
+    "biodiversity": {
+      "incidents": [],
+      "positives": [
+        "The Penang facility achieved zero waste-to-landfill, the first facility in the group to do so."
+      ]
+    }
+  }
+}

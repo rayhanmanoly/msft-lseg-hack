@@ -1,0 +1,100 @@
+{
+  "ticker": "EDV",
+  "generatedAt": "2026-10-23T13:17:46.727Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "Endeavour's investigation found that its former CEO diverted or disguised payments totalling US$20.9 million, and he subsequently paid the company a US$1.35 million settlement.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.investegate.co.uk/announcement/gnw/endeavour-mining--edv/endeavour-announces-completion-of-investigati-/8108482",
+              "title": "Endeavour Announces Completion of Investigation and Key Findings | Company Announcement | Investegate",
+              "publishedAt": "2024-03-27T00:00:00.000Z",
+              "quote": "diverted a US$5.9 million payment to a third-party company, and concealed his actions with repeated false representations to management, the Board and auditors;"
+            },
+            {
+              "url": "https://www.investegate.co.uk/announcement/gnw/endeavour-mining--edv/endeavour-announces-completion-of-investigati-/8108482",
+              "title": "Endeavour Announces Completion of Investigation and Key Findings | Company Announcement | Investegate",
+              "publishedAt": "2024-03-27T00:00:00.000Z",
+              "quote": "caused Endeavour to make two payments totalling US$15.0 million to the same third-party company, deliberately disguising them as advance payments to a contractor through repeated false representations to management."
+            },
+            {
+              "url": "https://www.mining.com/web/endeavours-ex-ceo-paid-miner-1-35-million-settlement-after-firing/",
+              "title": "Endeavour’s ex-CEO paid miner $1.35 million settlement after firing - MINING.COM",
+              "publishedAt": "2024-08-05T00:00:00.000Z",
+              "quote": "Endeavour Mining Plc said its former chief executive officer paid the firm $1.35 million in a settlement, months after the gold miner fired him for alleged serious misconduct."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "A cyanide-containing spill at Endeavour's Ity mine was linked to 185 patients receiving treatment, with the pollution subsequently reported as localised and cleared.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.mining.com/web/ivory-coast-says-endeavour-leak-sickened-people-killed-fish/",
+              "title": "Ivory Coast says Endeavour leak sickened people, killed fish - MINING.COM",
+              "publishedAt": "2024-07-03T00:00:00.000Z",
+              "quote": "The London-based miner had said a valve ruptured on June 23, releasing 3,000 liters of mud containing cyanide into a canal within the perimeter of its Ity mine."
+            },
+            {
+              "url": "https://humaniterre.net/en/pollution-ivory-coast-185-people-poisoned-after-mining-pollution-in-a-river/",
+              "title": "POLLUTION - Ivory Coast: 185 people poisoned after mining pollution in a river. - Humaniterre",
+              "publishedAt": "2024-07-07T00:00:00.000Z",
+              "quote": "“185 patients were slightly intoxicated”, reporting “bloating and vomiting” at the Ouyatouo village health center where they were treated, explained Zouan-Hounien prefect Moussa Dao."
+            },
+            {
+              "url": "https://www.fratmat.info/article/241074/economie/incident-a-la-mine-dity-une-pollution-localisee-et-rapidement-maitrisee",
+              "title": "Incident à la Mine d'Ity : Une pollution localisée et rapidement maîtrisée | FratMat",
+              "publishedAt": "2024-08-06T00:00:00.000Z",
+              "quote": "\"Il y a eu manifestement de la pollution, mais une pollution très localisée. Aujourd’hui, il n'y a plus de pollution dans la zone,\" a déclaré Yapo Bernard lors d'une allocution radio le 10 juillet 2024."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "fair_wages": {
+      "incidents": [
+        {
+          "year": 2017,
+          "summary": "Endeavour agreed to retroactive overtime compensation covering periods dating back to 2017 to resolve a five-day strike at its Sabodala mine, pending a longer-term solution.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.mining.com/web/endeavour-agrees-to-pay-staff-for-overtime-work-to-end-strike/",
+              "title": "Endeavour agrees to pay staff for overtime work to end strike - MINING.COM",
+              "publishedAt": "2024-08-14T00:00:00.000Z",
+              "quote": "Endeavour Mining Plc agreed to pay staff at its Sabodala mine in Senegal for overtime work to end a five-day strike until a more permanent solution is found."
+            },
+            {
+              "url": "https://www.mining.com/web/endeavour-agrees-to-pay-staff-for-overtime-work-to-end-strike/",
+              "title": "Endeavour agrees to pay staff for overtime work to end strike - MINING.COM",
+              "publishedAt": "2024-08-14T00:00:00.000Z",
+              "quote": "The agreement includes overtime compensation for all staff from July 1, 2021 and the payment of overtime compensation over 14 days per year between 2017 to 2022, according to the document."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ticker": "SMT",
+  "generatedAt": "2026-10-23T13:26:36.110Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "Scottish Mortgage faced a former director’s regulatory complaint alleging misleading disclosure of his departure after a boardroom dispute, while the trust maintained that it complied with its governance and disclosure obligations.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.cityam.com/scottish-mortgage-rebuts-former-directors-barbs-as-boardroom-bust-up-continues/",
+              "title": "Scottish Mortgage rebuts ex boss's barbs amid boardroom bust-up",
+              "publishedAt": "2023-05-30T00:00:00.000Z",
+              "quote": "The Scottish Mortgage Investment Trust has rebutted fresh claims from its former director Amar Bhide after he filed a complaint with regulators claiming that the firm misled investors over his exit."
+            },
+            {
+              "url": "https://www.cityam.com/scottish-mortgage-rebuts-former-directors-barbs-as-boardroom-bust-up-continues/",
+              "title": "Scottish Mortgage rebuts ex boss's barbs amid boardroom bust-up",
+              "publishedAt": "2023-05-30T00:00:00.000Z",
+              "quote": "The firm has hit back at the suggestions and said today that “the board is entirely happy that they are in compliance with all their governance and disclosure obligations,” incoming chairman Justin Dowley said."
+            },
+            {
+              "url": "https://www.theguardian.com/business/2023/mar/21/scottish-mortgage-investment-trust-chair-quits-governance-row",
+              "title": "Scottish Mortgage chair quits after governance row",
+              "publishedAt": "2023-03-21T00:00:00.000Z",
+              "quote": "Fiona McBain, who has chaired Scottish Mortgage Investment Trust since 2017 and sat on its board for 14 years, will leave after the trust’s annual meeting in June."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

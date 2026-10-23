@@ -1,0 +1,147 @@
+{
+  "ticker": "HLN",
+  "generatedAt": "2026-10-23T13:19:05.410Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "The Belgian Competition Authority sanctioned Haleon alongside two other pharmaceutical companies in a settlement concerning anticompetitive arrangements for placing over-the-counter medicines in pharmacies.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.concurrences.com/en/bulletin/news-issues/april-2025/the-belgian-competition-authority-sanctions-3-pharma-firms-for-coordinating",
+              "title": "The Belgian Competition Authority sanctions 3 pharma firms for coordinating shelf placement of non-prescription medicines in national pharmacies (Johnson & Johnson / Boehringer Ingelheim / Haleon) - Concurrences",
+              "publishedAt": "2025-08-07T00:00:00.000Z",
+              "quote": "The Belgian Competition Authority issues a landmark decision in a cartel case involving anticompetitive arrangements for the placement of over-the-counter medicines (Johnson & Johnson / Boehringer Ingelheim / Haleon)"
+            },
+            {
+              "url": "https://www.concurrences.com/en/bulletin/news-issues/april-2025/the-belgian-competition-authority-sanctions-3-pharma-firms-for-coordinating",
+              "title": "The Belgian Competition Authority sanctions 3 pharma firms for coordinating shelf placement of non-prescription medicines in national pharmacies (Johnson & Johnson / Boehringer Ingelheim / Haleon) - Concurrences",
+              "publishedAt": "2025-08-07T00:00:00.000Z",
+              "quote": "On 24 April 2025, the Belgian Competition Authority (“BCA”) announced, via a press release, that it had imposed fines totalling EUR 11.2 million on pharmaceutical companies Johnson & Johnson, Boehringer Ingelheim and Haleon."
+            },
+            {
+              "url": "https://www.concurrences.com/en/bulletin/news-issues/april-2025/the-belgian-competition-authority-sanctions-3-pharma-firms-for-coordinating",
+              "title": "The Belgian Competition Authority sanctions 3 pharma firms for coordinating shelf placement of non-prescription medicines in national pharmacies (Johnson & Johnson / Boehringer Ingelheim / Haleon) - Concurrences",
+              "publishedAt": "2025-08-07T00:00:00.000Z",
+              "quote": "The sanctions were issues following a settlement in a case"
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "Haleon agreed to a $4.5 million settlement of allegations that Robitussin's non-drowsy claims were misleading and agreed to remove those claims from covered products' labels and advertising.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/robitussin-maker-settles-lawsuit-us-over-non-drowsy-claim-2024-07-22/",
+              "title": "Robitussin maker settles lawsuit in US over 'non-drowsy' claim",
+              "publishedAt": "2024-07-22T00:00:00.000Z",
+              "quote": "The maker of Robitussin settled a consumer lawsuit that claimed its \"non-drowsy\" cough and flu medicine causes drowsiness, agreeing to pay $4.5 million and remove the \"non-drowsy\" claim from its packaging and marketing."
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/settlement-administrator-angeion-group-announces-proposed-settlement-in-calchi-v-glaxosmithkline-consumer-healthcare-holdings-us-llc-class-action-302370317.html",
+              "title": "Settlement Administrator Angeion Group Announces Proposed Settlement In Calchi v. GlaxoSmithKline Consumer Healthcare Holdings (US) LLC Class Action",
+              "publishedAt": "2025-02-11T00:00:00.000Z",
+              "quote": "Monetary Relief: Haleon has agreed to pay $4.5 million to a Settlement Fund"
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/settlement-administrator-angeion-group-announces-proposed-settlement-in-calchi-v-glaxosmithkline-consumer-healthcare-holdings-us-llc-class-action-302370317.html",
+              "title": "Settlement Administrator Angeion Group Announces Proposed Settlement In Calchi v. GlaxoSmithKline Consumer Healthcare Holdings (US) LLC Class Action",
+              "publishedAt": "2025-02-11T00:00:00.000Z",
+              "quote": "Haleon has also agreed to cease marketing and distributing the Covered Products with labels bearing the \"Non-Drowsy\" statement"
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "Most of a proposed class action alleging that Haleon used online trackers despite visitors rejecting them survived its dismissal request.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://news.bloomberglaw.com/privacy-and-data-security/haleon-is-stuck-with-proposed-false-cookie-banner-class-lawsuit",
+              "title": "Haleon Is Stuck With Proposed False Cookie Banner Class Lawsuit",
+              "publishedAt": "2025-09-02T00:00:00.000Z",
+              "quote": "Haleon US Inc. failed to convince a federal court to dismiss most of a lawsuit over its alleged use of online trackers even when website visitors tried to disable them."
+            },
+            {
+              "url": "https://news.bloomberglaw.com/privacy-and-data-security/haleon-is-stuck-with-proposed-false-cookie-banner-class-lawsuit",
+              "title": "Haleon Is Stuck With Proposed False Cookie Banner Class Lawsuit",
+              "publishedAt": "2025-09-02T00:00:00.000Z",
+              "quote": "Plaintiff Jonathan Gabrielli said he indicated through a pop-up cookie banner that he’d reject online trackers, but the website failed to disable the third-party software."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "An investigation linked Haleon's packaging supplier Asia Symbol to plantations that cleared nearly 30,000 hectares of forest, and Haleon said it was cutting ties with the supplier.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.afp.com/en/agency/inside-afp/inside-afp/indonesia-orangutan-forest-cleared-carbon-neutral-packaging-firm",
+              "title": "Indonesia orangutan forest cleared for 'carbon-neutral' packaging firm | AFP.com",
+              "publishedAt": "2026-04-22T00:00:00.000Z",
+              "quote": "But the investigation found that its Asia Symbol affiliate received pulp from a mill fed by plantations that cleared nearly 30,000 hectares of forest between 2016 and 2024 -- an area almost three times the size of Paris."
+            },
+            {
+              "url": "https://www.afp.com/en/agency/inside-afp/inside-afp/indonesia-orangutan-forest-cleared-carbon-neutral-packaging-firm",
+              "title": "Indonesia orangutan forest cleared for 'carbon-neutral' packaging firm | AFP.com",
+              "publishedAt": "2026-04-22T00:00:00.000Z",
+              "quote": "Asia Symbol makes \"carbon-neutral\" packaging there that Haleon used for ibuprofen"
+            },
+            {
+              "url": "https://www.afp.com/en/agency/inside-afp/inside-afp/indonesia-orangutan-forest-cleared-carbon-neutral-packaging-firm",
+              "title": "Indonesia orangutan forest cleared for 'carbon-neutral' packaging firm | AFP.com",
+              "publishedAt": "2026-04-22T00:00:00.000Z",
+              "quote": "Haleon said it was cutting ties with Asia Symbol after the investigation, which used satellite data, audit documents, trade records and ship-tracking to trace wood grown on cleared rainforest in Borneo to Asia Symbol's supply chain."
+            }
+          ],
+          "severity": 4
+        }
+      ],
+      "positives": [
+        "Haleon's Montreal manufacturing facility achieved Alliance for Water Stewardship certification in late 2024, becoming Canada's first certified site."
+      ]
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Haleon incorporated carbon pricing into more than £350 million of supplier tenders, reportedly helping drive a 219,000-ton carbon reduction."
+      ]
+    },
+    "fair_wages": {
+      "incidents": [],
+      "positives": [
+        "Haleon agreed a union-negotiated pay deal providing Dungarvan workers with increases in 2024 and 2025 and tax-free vouchers."
+      ]
+    }
+  }
+}

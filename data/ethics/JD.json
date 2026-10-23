@@ -1,0 +1,142 @@
+{
+  "ticker": "JD",
+  "generatedAt": "2026-10-23T13:21:49.893Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "JD Sports and Footasylum were fined £4.7 million for sharing commercially sensitive information during the CMA investigation, and JD subsequently sold Footasylum following the blocked takeover.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.bbc.co.uk/news/business-62375570",
+              "title": "JD Sports loses millions in forced Footasylum sale - BBC News",
+              "publishedAt": "2022-08-01T00:00:00.000Z",
+              "quote": "Earlier this year JD Sports and Footasylum were fined almost £4.7m by the CMA for sharing commercially sensitive information during its investigation."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/business-62375570",
+              "title": "JD Sports loses millions in forced Footasylum sale - BBC News",
+              "publishedAt": "2022-08-01T00:00:00.000Z",
+              "quote": "The CMA found that during two meetings on 5 July and 4 August 2021 the two bosses had exchanged commercially sensitive information and then failed to alert the regulator."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/business-62375570",
+              "title": "JD Sports loses millions in forced Footasylum sale - BBC News",
+              "publishedAt": "2022-08-01T00:00:00.000Z",
+              "quote": "JD Sports has offloaded Footasylum for £37.5m, far less than the £90m price it paid in 2019."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2018,
+          "summary": "JD Sports was fined £1.485 million after admitting to collusion over Rangers merchandise prices between September 2018 and July 2019.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.retail-week.com/sports-and-leisure/jd-sports-fined-14m-over-rangers-fc-price-fixing-controversy/7042430.article",
+              "title": "JD Sports fined £1.4m over Rangers FC price-fixing controversy | News | Retail Week",
+              "publishedAt": "2022-09-27T00:00:00.000Z",
+              "quote": "Following an investigation into the incident, the CMA concluded that JD Sports, along with Elite Sports and Rangers Football Club, broke competition law by fixing the prices of replica shirts and other products between September 2018 and July 2019."
+            },
+            {
+              "url": "https://www.retail-week.com/sports-and-leisure/jd-sports-fined-14m-over-rangers-fc-price-fixing-controversy/7042430.article",
+              "title": "JD Sports fined £1.4m over Rangers FC price-fixing controversy | News | Retail Week",
+              "publishedAt": "2022-09-27T00:00:00.000Z",
+              "quote": "JD Sports has been fined £1.485m, while Elite Sports has been fined £459,000 and Rangers £225,000."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-63045991",
+              "title": "Two Rangers replica kit retailers fined nearly £2m for collusion - BBC News",
+              "publishedAt": "2022-09-27T00:00:00.000Z",
+              "quote": "The three organisations fined admitted their roles in exchange for reduced fines."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2018,
+          "summary": "The CMA found that JD Sports and Leicester City broke competition law through clothing-sales collusion spanning 2018–2021, with JD avoiding a fine after reporting the activity.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.gov.uk/cma-cases/suspected-anti-competitive-behaviour-in-relation-to-the-sale-of-leicester-city-fc-branded-products-and-merchandise",
+              "title": "Anti-competitive behaviour in relation to the sale of Leicester City FC-branded products and merchandise - GOV.UK",
+              "publishedAt": "2021-09-30T00:00:00.000Z",
+              "quote": "On 31 July 2023, the CMA issued a decision finding that JD Sports Fashion Plc and Leicester City Football Club Limited broke competition law by colluding to restrict competition in the sales of Leicester City-branded clothing, including replica kit, in the UK."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/uk-england-leicestershire-66110620",
+              "title": "Leicester City facing £880k fine for fixing replica kit prices - BBC News",
+              "publishedAt": "2023-07-05T00:00:00.000Z",
+              "quote": "It said both broke competition law between 2018 and 2021 with an illegal deal on clothing sales."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/uk-england-leicestershire-66110620",
+              "title": "Leicester City facing £880k fine for fixing replica kit prices - BBC News",
+              "publishedAt": "2023-07-05T00:00:00.000Z",
+              "quote": "JD Sports will avoid a fine after reporting the illegal activity."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "An undercover investigation reported gruelling 12-hour shifts and threats of dismissal under a three-strikes disciplinary regime at JD Sports, prompting a company inquiry.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://leesorrellmedia.com/jd-sports-exposed/",
+              "title": "Zero Hours Britain - Undercover at JD Sports - Lee Sorrell Media",
+              "publishedAt": "2020-03-02T00:00:00.000Z",
+              "quote": "Shocking footage highlighted how workers endured gruelling 12-hour shifts and were threatened with a “three strikes” disciplinary regime which meant they faced the sack for breaches such as sitting down, missing production targets and eating chewing gum."
+            },
+            {
+              "url": "https://leesorrellmedia.com/jd-sports-exposed/",
+              "title": "Zero Hours Britain - Undercover at JD Sports - Lee Sorrell Media",
+              "publishedAt": "2020-03-02T00:00:00.000Z",
+              "quote": "JD Sports announced an inquiry into its working practices following the investigation after initially denying our claims."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "JD Sports received a place on CDP's Climate A List for 2024.",
+        "Its Scope One, Two and Three emissions targets received SBTi approval and are aligned with a 1.5°C pathway.",
+        "Its operationally controlled UK and Republic of Ireland stores and sites were reported to use 100% renewable energy."
+      ]
+    },
+    "biodiversity": {
+      "incidents": [],
+      "positives": [
+        "JD Sports improved its CDP Water Security grade to A- in 2022."
+      ]
+    }
+  }
+}

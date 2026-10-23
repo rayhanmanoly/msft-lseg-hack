@@ -1,0 +1,59 @@
+{
+  "ticker": "RR",
+  "generatedAt": "2026-10-23T13:26:08.937Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2017,
+          "summary": "Rolls-Royce agreed to pay £671 million to resolve export-contract bribery allegations, and shareholders were considering a related compensation lawsuit in 2023.",
+          "relativeScale": 5,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Rolls-Royce_Holdings",
+              "title": "Rolls-Royce Holdings",
+              "quote": "In January 2017 Rolls-Royce came to an agreement with the SFO to pay £671 million under a deferred prosecution agreement to avoid prosecution for bribery to obtain export contracts."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Rolls-Royce_Holdings",
+              "title": "Rolls-Royce Holdings",
+              "quote": "\"persistent and spanned from 1989 until 2013\""
+            },
+            {
+              "url": "https://www.lse.co.uk/news/press-rolls-royce-investors-eye-corruption-scandal-compensation-89yqy5sdwpvti6f.html",
+              "title": "PRESS: Rolls-Royce investors eye corruption scandal compensation | Financial News",
+              "publishedAt": "2023-10-22T00:00:00.000Z",
+              "quote": "(Alliance News) - Rolls-Royce Holdings PLC may face a class action lawsuit worth GBP350 million from shareholders related to a corruption scandal from back in 2017, the Telegraph reported on Sunday."
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2023,
+          "summary": "India filed a graft case against Rolls-Royce and BAE Systems.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/business/aerospace-defense/indias-investigation-agency-files-graft-case-against-bae-systems-rolls-royce-2023-05-29/",
+              "title": "India files graft case against BAE Systems, Rolls-Royce | Reuters",
+              "quote": "India files graft case against BAE Systems, Rolls-Royce"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Rolls-Royce links managers’ compensation to performance on sustainability metrics."
+      ]
+    }
+  }
+}

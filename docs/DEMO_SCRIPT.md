@@ -31,14 +31,15 @@ One sentence to open: **"Most people want their money to follow their values but
 
 ## Say these limits yourself before a judge finds them
 
-- **Status: mock data.** Right now the screen, ethics, portfolio and report use fictional companies and fixed results. The AI chat is real. Do not claim the portfolio numbers are real.
+- **Status with `REAL_DATA=1`:** the screen and ethics check run on 332 real UK companies, and the ethics check uses cited evidence (quotes and links) for the 110 companies researched so far. Companies without evidence are shown as "not rated", never clean. The portfolio weights are a placeholder (no price data yet) and the report text is generated from the results. Do not quote returns or call the weights an investment model.
+- Without `REAL_DATA=1` everything after the chat uses fictional sample companies.
 - Educational project, not financial advice (it is on every screen).
 - The chat is the only live AI step today. Say what is built and what is next, not more.
 
 ## Likely questions
 
 - **"Does the AI decide who is excluded?"** No. The AI extracts facts and writes explanations. A fixed rubric decides, so results are repeatable and can be audited.
-- **"What data do you use?"** Prices and inflation from Yahoo Finance and FRED, company filings from SEC EDGAR, and news for the ethics record. Update this to what is actually wired in.
+- **"What data do you use?"** A universe of 332 UK-listed companies (FTSE 100, FTSE 250 and part of SmallCap) and an evidence cache built from news and Wikipedia with verified quotes and links. We have no price data yet, so the portfolio weights are a placeholder.
 - **"What if the AI gets it wrong?"** Two human checkpoints. The client approves the screen and confirms the ethics check, and every override is listed in the report.
 - **"Why not just use ChatGPT?"** A chatbot gives an answer once. This keeps a structured profile, applies rules the same way every time, and shows the trail.
 

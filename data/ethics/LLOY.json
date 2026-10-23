@@ -1,0 +1,163 @@
+{
+  "ticker": "LLOY",
+  "generatedAt": "2026-10-23T13:23:23.885Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2010,
+          "summary": "Lloyds Banking Group settled with the US government for $350 million over transactions that circumvented US restrictions by concealing the source of funds.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Lloyds_Banking_Group",
+              "title": "Lloyds Banking Group",
+              "quote": "They did this by stripping information out of wire transfers, thereby concealing the source of funds."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Lloyds_Banking_Group",
+              "title": "Lloyds Banking Group",
+              "quote": "Lloyds Banking Group settled with the US government for US$350 million."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2021,
+          "summary": "Lloyds and Bank of Scotland face two lawsuits connected to Arena Television's collapse, alleging inadequate scrutiny of suspicious transactions.",
+          "relativeScale": 4,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.insurancebusinessmag.com/uk/news/legal-insights/what-the-1-2-billion-arena-tv-fraud-case-means-for-fi-and-dando-insurers-585591.aspx",
+              "title": "What the £1.2 billion Arena TV fraud case means for FI and D&O insurers | Insurance Business",
+              "publishedAt": "2026-08-11T00:00:00.000Z",
+              "quote": "Liquidators allege the bank processed years of suspicious transactions without asking enough questions - questions that, had they been asked, might have unravelled the fraud far sooner."
+            },
+            {
+              "url": "https://www.insurancebusinessmag.com/uk/news/legal-insights/what-the-1-2-billion-arena-tv-fraud-case-means-for-fi-and-dando-insurers-585591.aspx",
+              "title": "What the £1.2 billion Arena TV fraud case means for FI and D&O insurers | Insurance Business",
+              "publishedAt": "2026-08-11T00:00:00.000Z",
+              "quote": "One, brought against both Lloyds and Bank of Scotland by Arena's own liquidators, seeks around £280 million."
+            },
+            {
+              "url": "https://www.insurancebusinessmag.com/uk/news/legal-insights/what-the-1-2-billion-arena-tv-fraud-case-means-for-fi-and-dando-insurers-585591.aspx",
+              "title": "What the £1.2 billion Arena TV fraud case means for FI and D&O insurers | Insurance Business",
+              "publishedAt": "2026-08-11T00:00:00.000Z",
+              "quote": "A second and much larger claim, brought by Sentinel's administrators against Lloyds alone, is seeking the return of more than £1 billion."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2023,
+          "summary": "Lloyds received a £160,000 sanctions penalty after Halifax opened an account for a designated person and processed payments before freezing the account.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.thisismoney.co.uk/money/markets/article-15499587/Lloyds-fined-breaching-Russian-sanctions-opening-account-ally-Putin.html",
+              "title": "Lloyds fined for breaching Russian sanctions after opening an account for an ally of Putin | This is Money",
+              "publishedAt": "2026-01-26T00:00:00.000Z",
+              "quote": "The High Street lender was hit with a penalty of £160,000 after its Halifax arm allowed Dmitry Ovsyannikov to become a customer in 2023 – even though he was a ‘designated person’."
+            },
+            {
+              "url": "https://www.thisismoney.co.uk/money/markets/article-15499587/Lloyds-fined-breaching-Russian-sanctions-opening-account-ally-Putin.html",
+              "title": "Lloyds fined for breaching Russian sanctions after opening an account for an ally of Putin | This is Money",
+              "publishedAt": "2026-01-26T00:00:00.000Z",
+              "quote": "Ovsyannikov, whose father was born in Bradford, opened the Halifax account on February 6, 2023, and the bank processed 24 payments totalling £77,383 between February 8 and February 24."
+            },
+            {
+              "url": "https://www.thisismoney.co.uk/money/markets/article-15499587/Lloyds-fined-breaching-Russian-sanctions-opening-account-ally-Putin.html",
+              "title": "Lloyds fined for breaching Russian sanctions after opening an account for an ally of Putin | This is Money",
+              "publishedAt": "2026-01-26T00:00:00.000Z",
+              "quote": "But a fuller review did identify him as a designated person, and the account was frozen and the authorities were informed."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "A 2025 report states that historical payment protection insurance mis-selling cost Lloyds £22 billion.",
+          "relativeScale": 5,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.thisismoney.co.uk/money/markets/article-15219121/Lloyds-profits-plunge-lender-ramps-cash-set-aside-car-finance-scandal.html",
+              "title": "Lloyds mulls legal action over £11bn car finance scandal payout proposals | This is Money",
+              "publishedAt": "2025-10-23T00:00:00.000Z",
+              "quote": "The scandal has been dubbed ‘PPI on wheels’ as it echoes mis-sold payment protection insurance which cost Lloyds £22billion over a decade ago."
+            }
+          ],
+          "severity": 5
+        },
+        {
+          "year": 2007,
+          "summary": "Lloyds faces motor-finance mis-selling litigation involving 30,000 customers and has said it will not challenge the UK's compensation scheme.",
+          "relativeScale": 4,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.theguardian.com/business/2026/mar/27/lloyds-bank-66m-court-car-loan-law-fca",
+              "title": "Lloyds bank faces £66m court battle with car loan customers | Lloyds Banking Group | The Guardian",
+              "publishedAt": "2026-03-27T00:00:00.000Z",
+              "quote": "Lloyds Banking Group is facing a court battle with 30,000 aggrieved car loan customers who are to abandon the City regulator’s official redress scheme amid fears it will shortchange consumers and favour lenders."
+            },
+            {
+              "url": "https://www.thisismoney.co.uk/money/markets/article-15219121/Lloyds-profits-plunge-lender-ramps-cash-set-aside-car-finance-scandal.html",
+              "title": "Lloyds mulls legal action over £11bn car finance scandal payout proposals | This is Money",
+              "publishedAt": "2025-10-23T00:00:00.000Z",
+              "quote": "Britain’s biggest lender has set aside almost £2billion to cover potential payouts to millions of drivers who bought cars on finance with hidden commission payments between 2007 and 2024."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Lloyds_Banking_Group",
+              "title": "Lloyds Banking Group",
+              "quote": "In April 2026, the Financial Times published that Lloyds will not launch a legal challenge against the UK's compensation scheme to consumers who were mis-sold the car finance agreements."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "The information watchdog questioned Lloyds over a potential privacy breach involving access to 30,000 staff bank accounts during pay talks, and Lloyds subsequently began investigating.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://theguardian.com/business/2026/jan/13/lloyds-banking-group-staff-data-pay-talks-ico-accounts",
+              "title": "Lloyds questioned by watchdog over use of staff banking data in pay talks | Lloyds Banking Group | The Guardian",
+              "publishedAt": "2026-01-13T00:00:00.000Z",
+              "quote": "The information watchdog is questioning Lloyds Banking Group over a potential breach of privacy rules after it accessed data from 30,000 staff bank accounts during union pay talks last year."
+            },
+            {
+              "url": "https://www.theguardian.com/business/2026/feb/16/lloyds-staff-banking-data-pay-talks-charlie-nunn",
+              "title": "Lloyds investigating after using staff’s bank account data in pay talks | Lloyds Banking Group | The Guardian",
+              "publishedAt": "2026-02-16T00:00:00.000Z",
+              "quote": "Lloyds investigating after using staff’s bank account data in pay talks"
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    }
+  }
+}

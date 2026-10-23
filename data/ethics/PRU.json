@@ -1,0 +1,73 @@
+{
+  "ticker": "PRU",
+  "generatedAt": "2026-10-23T13:26:02.593Z",
+  "coverage": "full",
+  "causes": {
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "Prudential confirmed that two Malaysian businesses suffered a MOVEit-related data breach and notified customers of potential phishing risks.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.businesstoday.com.my/2023/06/16/after-data-breach-prudential-malaysia-warns-of-potential-risks/",
+              "title": "After Data Breach Prudential Malaysia Warns Of Potential Risks",
+              "publishedAt": "2023-06-16T00:00:00.000Z",
+              "quote": "Prudential plc which confirmed recently that its businesses in Malaysia, Prudential Assurance Malaysia Berhad, and Prudential BSN Takaful Berhad were among those whose data were breached has now warned of potential risks."
+            },
+            {
+              "url": "https://www.businesstoday.com.my/2023/06/16/after-data-breach-prudential-malaysia-warns-of-potential-risks/",
+              "title": "After Data Breach Prudential Malaysia Warns Of Potential Risks",
+              "publishedAt": "2023-06-16T00:00:00.000Z",
+              "quote": "Personal information that could have been leaked includes name, national identification/passport number, and contact details."
+            },
+            {
+              "url": "https://www.businesstoday.com.my/2023/06/16/after-data-breach-prudential-malaysia-warns-of-potential-risks/",
+              "title": "After Data Breach Prudential Malaysia Warns Of Potential Risks",
+              "publishedAt": "2023-06-16T00:00:00.000Z",
+              "quote": "The company said as soon as it became aware of the breach, it took action to isolate the affected server while the incident response team launched a thorough investigation."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "Prudential's CFO resigned amid a recruitment-related code-of-conduct probe, and Rosen Law Firm subsequently prepared a prospective class action seeking investor losses.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/rosen-a-leading-national-firm-encourages-prudential-plc-investors-to-inquire-about-securities-class-action-investigation--puk-pukpf-301853310.html",
+              "title": "ROSEN, A LEADING NATIONAL FIRM, Encourages Prudential plc Investors to Inquire About Securities Class Action Investigation - PUK, PUKPF",
+              "publishedAt": "2023-06-17T00:00:00.000Z",
+              "quote": "On May 31, 2023, Prudential disclosed that its Chief Financial Officer James Turner had resigned amid a probe into a \"code of conduct issue\" relating to a recent recruitment."
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/rosen-a-leading-national-firm-encourages-prudential-plc-investors-to-inquire-about-securities-class-action-investigation--puk-pukpf-301853310.html",
+              "title": "ROSEN, A LEADING NATIONAL FIRM, Encourages Prudential plc Investors to Inquire About Securities Class Action Investigation - PUK, PUKPF",
+              "publishedAt": "2023-06-17T00:00:00.000Z",
+              "quote": "The Rosen Law Firm is preparing a class action seeking recovery of investor losses."
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/rosen-a-leading-national-firm-encourages-prudential-plc-investors-to-inquire-about-securities-class-action-investigation--puk-pukpf-301853310.html",
+              "title": "ROSEN, A LEADING NATIONAL FIRM, Encourages Prudential plc Investors to Inquire About Securities Class Action Investigation - PUK, PUKPF",
+              "publishedAt": "2023-06-17T00:00:00.000Z",
+              "quote": "On this news, the price of Prudential's American Depositary Receipts (\"ADR\") fell $1.71 per ADR, or 6.08%, to close at $26.43 per ADR on May 31, 2023."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "ticker": "LGEN",
+  "generatedAt": "2026-10-23T13:22:42.780Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "Legal & General and Pimco were sued by the owner of Brussels’ Finance Tower amid allegations that they placed undue pressure on property valuers.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.bloomberg.com/news/articles/2026-05-15/pimco-l-g-sued-over-1-2-billion-brussels-skyscraper-valuation",
+              "title": "Pimco, L&G Sued Over €1.2 Billion Brussels Skyscraper Valuation - Bloomberg",
+              "publishedAt": "2026-05-15T00:00:00.000Z",
+              "quote": "Pimco and Legal & General Group Plc have been accused of placing “undue pressure” on property valuers in a bitter scrap over the future of a famous Brussels skyscraper whose owner has collapsed into insolvency."
+            },
+            {
+              "url": "https://www.bloomberg.com/news/articles/2026-05-15/pimco-l-g-sued-over-1-2-billion-brussels-skyscraper-valuation",
+              "title": "Pimco, L&G Sued Over €1.2 Billion Brussels Skyscraper Valuation - Bloomberg",
+              "publishedAt": "2026-05-15T00:00:00.000Z",
+              "quote": "The owner of The Finance Tower, the 142 meter (466 feet) high building located in downtown Brussels, filed a lawsuit in the English High Court in a bid to to stall an attempt by its lenders to freeze rental income, according to documents lodged in London and New York courts."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "diversity_inclusion": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "XTX Markets sued Legal & General Investment Management and Aviva Investors, alleging that they refused its investment because of its Russian owner.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.investmentweek.co.uk/news/4124085/aviva-investors-lgim-sued-alleged-russian-discrimination",
+              "title": "Aviva Investors and LGIM sued over alleged Russian discrimination",
+              "publishedAt": "2023-09-05T00:00:00.000Z",
+              "quote": "Financial trading group XTX Markets has issued a lawsuit against Aviva Investors and Legal & General Investment Management over allegations they refused to allow the group to invest in their funds due to its Russian owner."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "LGIM divested from Glencore and TJX under its climate engagement programme."
+      ]
+    }
+  }
+}

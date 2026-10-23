@@ -1,0 +1,19 @@
+{
+  "ticker": "FOUR",
+  "generatedAt": "2026-10-23T13:30:10.857Z",
+  "coverage": "full",
+  "causes": {
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "4imprint was recertified as CarbonNeutral by Climate Impact Partners and installed a solar array at its Oshkosh distribution center."
+      ]
+    },
+    "labour_rights": {
+      "incidents": [],
+      "positives": [
+        "The Oshkosh distribution center expansion included an on-site health clinic and additional employee facilities."
+      ]
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "ticker": "BTRW",
+  "generatedAt": "2026-10-23T13:14:23.421Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2015,
+          "summary": "Barratt Redrow and other housebuilders accepted commitments including a combined £100 million affordable-housing contribution following competition concerns, and subsequently faced a class action alleging price-inflating collusion extending back to 2015.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.theguardian.com/business/2026/jun/30/uk-housebuilders-face-class-action-suit-over-alleged-collusion-to-inflate-prices",
+              "title": "UK housebuilders face class action suit over alleged collusion to inflate prices | Construction industry | The Guardian",
+              "publishedAt": "2026-06-30T00:00:00.000Z",
+              "quote": "Britain’s biggest housebuilders, including Barratt Redrow and Taylor Wimpey, face a multibillion-pound class action lawsuit over claims that they colluded over higher prices for homebuyers."
+            },
+            {
+              "url": "https://www.estatesgazette.co.uk/legal/class-action-lawyers-target-uk-housebuilders/",
+              "title": "Class action lawyers target UK housebuilders | Estates Gazette",
+              "publishedAt": "2026-07-01T00:00:00.000Z",
+              "quote": "The companies accepted binding commitments in October last year to address the regulator’s concerns, including a pledge not to share commercially sensitive information in future and a £100m contribution to affordable housing."
+            },
+            {
+              "url": "https://www.estatesgazette.co.uk/legal/class-action-lawyers-target-uk-housebuilders/",
+              "title": "Class action lawyers target UK housebuilders | Estates Gazette",
+              "publishedAt": "2026-07-01T00:00:00.000Z",
+              "quote": "Hausfeld said this claim goes further than the CMA’s findings, alleging the information sharing extended back to October 2015."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "Concrete-frame defects were discovered at Citiscape and other Barratt developments, with the group's reported total bill for building-safety defects reaching £1,073.8 million in September 2025.",
+          "relativeScale": 5,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Barratt_Redrow",
+              "title": "Barratt Redrow",
+              "quote": "In 2020, during remedial work to replace flammable cladding at the Citiscape high-rise in Croydon, defects were found in the reinforced concrete frame of the building."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Barratt_Redrow",
+              "title": "Barratt Redrow",
+              "quote": "Citiscape residents were rehoused in September 2019, and in May 2021, Barratt reacquired the 95 flats at Citiscape from their leaseholders"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Barratt_Redrow",
+              "title": "Barratt Redrow",
+              "quote": "In September 2025, the group's total bill to fix building safety defects was £1,073.8m, a figure which was virtually unchanged a year later."
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2023,
+          "summary": "Barratt submitted plans to demolish 83 new homes at its Darwin Green estate in Cambridge because they had faulty foundations.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Barratt_Redrow",
+              "title": "Barratt Redrow",
+              "quote": "In September 2023, Barratt submitted plans to demolish 83 new homes on its Darwin Green estate in Cambridge which had been built with faulty foundations."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "Barratt Redrow subsidiary BDW Trading admitted responsibility for silt pollution of two Yate watercourses and agreed a £201,500 environmental payment after spending more than £180,000 on remediation, training and improved practices.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/news/builder-pays-201500-to-charities-after-silting-watercourses",
+              "title": "Builder pays £201,500 to charities after silting watercourses - GOV.UK",
+              "publishedAt": "2026-09-03T00:00:00.000Z",
+              "quote": "BDW Trading, part of the Barratt Redrow group, polluted the Ladden Brook and Tanhouse stream in Yate over six days in July 2022."
+            },
+            {
+              "url": "https://www.watermagazine.co.uk/2026/09/04/housebuilder-pays-201500-after-silt-pollutes-watercourses/",
+              "title": "Housebuilder pays £201,500 after silt pollutes watercourses - Water Magazine",
+              "publishedAt": "2026-09-04T00:00:00.000Z",
+              "quote": "BDW Trading, part of Barratt Redrow, has agreed a £201,500 environmental payment after silt from a Yate housing development polluted two watercourses."
+            },
+            {
+              "url": "https://www.watermagazine.co.uk/2026/09/04/housebuilder-pays-201500-after-silt-pollutes-watercourses/",
+              "title": "Housebuilder pays £201,500 after silt pollutes watercourses - Water Magazine",
+              "publishedAt": "2026-09-04T00:00:00.000Z",
+              "quote": "BDW Trading acknowledged responsibility and subsequently spent more than £180,000 on remediation, staff training and improved practices for managing surface water."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": [
+        "The completed £3.5 million Conningbrook Wetland at Redrow's Crown Hill View development delivers nutrient neutrality through an on-site mitigation scheme."
+      ]
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "ticker": "ULVR",
+  "generatedAt": "2026-10-23T13:29:57.734Z",
+  "coverage": "full",
+  "causes": {
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2011,
+          "summary": "The European Commission fined Unilever €104 million for participating in a European washing-powder price-fixing cartel.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Unilever",
+              "title": "Unilever",
+              "quote": "In April 2011, Unilever was fined €104 million by the European Commission for establishing a price-fixing cartel for washing powder in Europe, along with Procter & Gamble and Henkel."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2021,
+          "summary": "Turkey's Competition Authority fined Unilever's Turkish division approximately $61 million for abusing its dominant position in ice cream sales.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://u.aa.com.tr/en/economy/turkey-slaps-61m-penalty-on-unilever-for-market-abuse/2184421",
+              "title": "Turkey slaps $61M penalty on Unilever for market abuse",
+              "publishedAt": "2021-03-22T18:28:16.000Z",
+              "quote": "The Turkish division of Unilever is being fined some 480 million lira ($61 million) for abusing its commanding position in the ice cream sector, Turkish authorities announced Monday."
+            },
+            {
+              "url": "https://u.aa.com.tr/en/economy/turkey-slaps-61m-penalty-on-unilever-for-market-abuse/2184421",
+              "title": "Turkey slaps $61M penalty on Unilever for market abuse",
+              "publishedAt": "2021-03-22T18:28:16.000Z",
+              "quote": "Turkey’s Competition Authority said it had completed an investigation into allegations that the multinational violated competition law by creating de facto exclusivity by preventing the sale of rival products at sales points through various practices."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2016,
+          "summary": "France's competition authority fined Unilever for price-fixing on personal hygiene products.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Unilever",
+              "title": "Unilever",
+              "quote": "In 2016, Unilever and Procter & Gamble were both fined by Autorité de la concurrence in France for price-fixing on personal hygiene products."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2014,
+          "summary": "Greenpeace criticised Unilever for deforestation, including purchasing palm oil from suppliers damaging Indonesia's rainforests.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Unilever",
+              "title": "Unilever",
+              "quote": "In 2014, Unilever was criticised by Greenpeace for causing deforestation."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Unilever",
+              "title": "Unilever",
+              "quote": "In 2008, Greenpeace UK criticised the company for buying palm oil from suppliers that were damaging Indonesia's rainforests."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Unilever",
+              "title": "Unilever",
+              "quote": "Unilever, as a founding member of the Roundtable on Sustainable Palm Oil (RSPO), responded by publicising its plan to obtain all of its palm oil from sources that are certified as sustainable by 2015."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2001,
+          "summary": "Unilever admitted mercury discharges into Kodaikanal's environment and reached an undisclosed settlement in 2016 with 591 former factory workers who alleged toxic exposure.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Unilever",
+              "title": "Unilever",
+              "quote": "By the company's own admissions, more than 2 tonnes of mercury were discharged into Kodaikanal's environment."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Unilever",
+              "title": "Unilever",
+              "quote": "A 2011 Government of India study on workers' health concluded that many workers suffered from illnesses caused by workplace exposure to mercury."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Unilever",
+              "title": "Unilever",
+              "quote": "In March 2016, Unilever reached an out of court settlement (for an undisclosed amount) with 591 ex-workers of the unit who had sued the company for knowingly exposing them to the toxic element."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2022,
+          "summary": "Reuters reported that Unilever lobbied India and the Philippines against bans on single-use cosmetics sachets, which lawmakers subsequently dropped.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Unilever",
+              "title": "Unilever",
+              "quote": "In June 2022, a Reuters report revealed that Unilever had lobbied the governments of India and the Philippines to stop legislation which would ban the sale of cosmetics in single-use plastic sachets, despite vowing in 2020 to stop using them."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Unilever",
+              "title": "Unilever",
+              "quote": "The bans were then dropped by lawmakers."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2019,
+          "summary": "Security forces hired by Unilever reportedly attacked peacefully picketing workers at its Durban facility, seriously injuring four.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Unilever",
+              "title": "Unilever",
+              "quote": "In 2019, security forces hired by Unilever attacked workers that were peacefully picketing at a Unilever facility in Durban in South Africa."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Unilever",
+              "title": "Unilever",
+              "quote": "Workers were shot at with rubber bullets and paint balls and pepper sprayed while attempting to walk to their cars parked on the premises."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Unilever",
+              "title": "Unilever",
+              "quote": "Four workers were seriously injured."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2025,
+          "summary": "Workers in Ivory Coast alleged that Unilever violated their union rights during a share sale, while Reuters reported that it refused salary protections.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/business/world-at-work/ivory-coast-workers-say-unilever-is-violating-their-union-rights-amid-share-sale-2025-06-13/",
+              "title": "Exclusive: Ivory Coast workers say Unilever is violating their union rights amid share sale, documents show",
+              "publishedAt": "2025-06-13T00:00:00.000Z",
+              "quote": "EXCLUSIVE: Ivory Coast workers say Unilever is violating their union rights amid share sale, documents show | Reuters"
+            },
+            {
+              "url": "https://www.reuters.com/business/world-at-work/ivory-coast-workers-say-unilever-is-violating-their-union-rights-amid-share-sale-2025-06-13/",
+              "title": "Exclusive: Ivory Coast workers say Unilever is violating their union rights amid share sale, documents show",
+              "publishedAt": "2025-06-13T00:00:00.000Z",
+              "quote": "Unilever refuses salary protections for local workers - documents"
+            },
+            {
+              "url": "https://www.reuters.com/business/world-at-work/ivory-coast-workers-say-unilever-is-violating-their-union-rights-amid-share-sale-2025-06-13/",
+              "title": "Exclusive: Ivory Coast workers say Unilever is violating their union rights amid share sale, documents show",
+              "publishedAt": "2025-06-13T00:00:00.000Z",
+              "quote": "Unilever says severance pay is not \"relevant\" because deal is a share sale"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "supply_chain": {
+      "incidents": [],
+      "positives": [
+        "Unilever uses Rainforest Alliance certification for its tea products."
+      ]
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "ESG Dive reported that Unilever had met its 2025 target to reduce scope 1 and scope 2 emissions by 70% in 2023."
+      ]
+    }
+  }
+}

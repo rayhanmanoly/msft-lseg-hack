@@ -1,0 +1,73 @@
+{
+  "ticker": "ITH",
+  "generatedAt": "2026-10-23T13:22:44.582Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2015,
+          "summary": "An investor class action alleging misrepresentations about Ithaca’s offshore operations was settled for CAD 9 million, with court approval in August 2025 and no admission of liability.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://bergermontague.com/news/notice-of-settlement-approval/",
+              "title": "NOTICE OF SETTLEMENT APPROVAL ITHACA ENERGY INC. now known as ITHACA ENERGY LIMITED - Berger Montague",
+              "publishedAt": "2025-12-11T00:00:00.000Z",
+              "quote": "The Plaintiff in the Action alleges that the Defendants made misrepresentations during the Class Period related to Ithaca’s offshore oil and gas business and operations concerning:"
+            },
+            {
+              "url": "https://bergermontague.com/news/notice-of-settlement-approval/",
+              "title": "NOTICE OF SETTLEMENT APPROVAL ITHACA ENERGY INC. now known as ITHACA ENERGY LIMITED - Berger Montague",
+              "publishedAt": "2025-12-11T00:00:00.000Z",
+              "quote": "The settlement of the Action, without an admission of liability on the part of the Defendant, was approved by The Honourable Justice Neufeld on August 7, 2025."
+            },
+            {
+              "url": "https://bergermontague.com/news/notice-of-settlement-approval/",
+              "title": "NOTICE OF SETTLEMENT APPROVAL ITHACA ENERGY INC. now known as ITHACA ENERGY LIMITED - Berger Montague",
+              "publishedAt": "2025-12-11T00:00:00.000Z",
+              "quote": "Ithaca’s insurers will pay CAD $9 million (the “Settlement Amount”), in full and final settlement of all claims against Ithaca in the Action."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "Ithaca pleaded guilty and received a £300,000 fine after three offshore workers’ lift descended into accumulated wastewater in December 2020; nobody was injured and the subsequent improvement notice was closed.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.pressandjournal.co.uk/fp/news/crime-courts/6776360/lift-submerged-offshore-workers-nearly-shoulder-height/",
+              "title": "Oil rig firm fined after lift flooded with nearly 5ft of water",
+              "publishedAt": "2025-06-16T00:00:00.000Z",
+              "quote": "Offshore workers were lowered into the pool as their lift descended a North Sea platform, leading to a £300,000 fine for Aberdeen energy firm Ithaca Energy."
+            },
+            {
+              "url": "https://www.pressandjournal.co.uk/fp/news/crime-courts/6776360/lift-submerged-offshore-workers-nearly-shoulder-height/",
+              "title": "Oil rig firm fined after lift flooded with nearly 5ft of water",
+              "publishedAt": "2025-06-16T00:00:00.000Z",
+              "quote": "Ithaca Energy later pled guilty to one charge of exposing them to risks to their health and safety during a hearing at Aberdeen Sheriff Court last week."
+            },
+            {
+              "url": "https://www.pressandjournal.co.uk/fp/news/crime-courts/6776360/lift-submerged-offshore-workers-nearly-shoulder-height/",
+              "title": "Oil rig firm fined after lift flooded with nearly 5ft of water",
+              "publishedAt": "2025-06-16T00:00:00.000Z",
+              "quote": "HSE officials issued Ithaca Energy with an improvement notice eight days after the incident and the notice was marked ‘closed’ on March 30 2021, after Ithaca met all the necessary requirements."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ticker": "BLND",
+  "generatedAt": "2026-10-23T13:14:37.837Z",
+  "coverage": "full",
+  "causes": {
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2018,
+          "summary": "British Land's four-week facial-recognition trial at Meadowhall involved police participation and prompted a regulator to call for government intervention.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.bbc.co.uk/news/technology-51268093",
+              "title": "Meadowhall facial recognition scheme troubles watchdog - BBC News",
+              "publishedAt": "2020-01-28T00:00:00.000Z",
+              "quote": "Police involvement in a private landlord's facial recognition trial has led a regulator to call for government intervention."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/technology-51268093",
+              "title": "Meadowhall facial recognition scheme troubles watchdog - BBC News",
+              "publishedAt": "2020-01-28T00:00:00.000Z",
+              "quote": "Meadowhall owner British Land said the 2018 test only lasted four weeks."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/technology-51268093",
+              "title": "Meadowhall facial recognition scheme troubles watchdog - BBC News",
+              "publishedAt": "2020-01-28T00:00:00.000Z",
+              "quote": "It added that it had \"no plans\" to use facial recognition at its sites, and that all personal data gathered during the trial was \"immediately deleted\"."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "supply_chain": {
+      "incidents": [],
+      "positives": [
+        "British Land and Sir Robert McAlpine used Achilles' service to assess supply-chain labour practices through information from tradespeople working on their sites."
+      ]
+    }
+  }
+}

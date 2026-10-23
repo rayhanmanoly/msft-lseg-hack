@@ -1,0 +1,185 @@
+{
+  "ticker": "SHEL",
+  "generatedAt": "2026-10-23T13:28:08.389Z",
+  "coverage": "full",
+  "causes": {
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2011,
+          "summary": "Niger Delta communities are pursuing UK legal claims over pollution from alleged leaks between 2011 and 2013, with subsequently disclosed documents indicating Shell continued operating a pipeline despite known pollution risks.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.bbc.com/news/articles/cdrp8v7407ro",
+              "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
+              "publishedAt": "2026-06-03T00:00:00.000Z",
+              "quote": "British multinational Shell continued operating a major oil pipeline in Nigeria for years even though it knew it was causing widespread pollution - despite a warning from its own staff that it was outside its own technical standards, internal documents obtained by the BBC show."
+            },
+            {
+              "url": "https://www.bbc.com/news/articles/cdrp8v7407ro",
+              "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
+              "publishedAt": "2026-06-03T00:00:00.000Z",
+              "quote": "They want Shell to be liable for the pollution caused by more than 100 alleged leaks stemming from possible operational failures, theft and illegal refining of oil between 2011 and 2013 that have damaged their health, environment and livelihoods."
+            },
+            {
+              "url": "https://www.bbc.com/news/articles/cdrp8v7407ro",
+              "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
+              "publishedAt": "2026-06-03T00:00:00.000Z",
+              "quote": "In court papers the oil firm argues that most of the pollution has been caused by \"large-scale oil theft, sabotage\" and dozens of illegal refineries, and that its Nigerian subsidiary invested heavily over many years to reduce the risk of and response to spills."
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2008,
+          "summary": "A Dutch court ordered Shell's Nigerian subsidiary to compensate for pipeline spills in Oruma and Goi, while Shell disputed liability on grounds of sabotage.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Shell_plc",
+              "title": "Shell plc",
+              "quote": "On 29 January 2021, a Dutch court ordered Royal Dutch Shell plc's Nigerian unit to compensate for oil spills in two villages over 13 years ago."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Shell_plc",
+              "title": "Shell plc",
+              "quote": "Shell Nigeria is liable for damages from pipeline leaks in the villages of Oruma and Goi, the Hague Court of Appeals said in a ruling."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Shell_plc",
+              "title": "Shell plc",
+              "quote": "Shell said that it should not be liable, as the spills were the result of sabotage."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "Netherlands officials instructed Shell to stop a campaign claiming customers could make their fuel carbon neutral through offsets because the claim lacked evidence.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Shell_plc",
+              "title": "Shell plc",
+              "quote": "In 2021, Netherlands officials told Shell to stop running a campaign which claimed customers could turn their fuel \"carbon neutral\" by buying offsets, as it was concluded that this claim was devoid of evidence."
+            }
+          ],
+          "severity": 1
+        },
+        {
+          "year": 2022,
+          "summary": "A US House committee investigation accused Shell and other oil companies of greenwashing their Paris Agreement carbon-neutrality pledges while continuing long-term fossil-fuel investment.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Shell_plc",
+              "title": "Shell plc",
+              "quote": "accused Shell along with BP, Chevron Corporation, and ExxonMobil of greenwashing their Paris Agreement carbon neutrality pledges while continuing long-term investment in fossil fuel production and sales"
+            }
+          ],
+          "severity": 1
+        },
+        {
+          "year": 2008,
+          "summary": "The British advertising regulator ruled that Shell misled the public by describing its Alberta oil sands project as a sustainable energy source.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Shell_plc",
+              "title": "Shell plc",
+              "quote": "In 2008, the British ASA ruled that Shell had misled the public in an advertisement when it claimed that a $10 billion oil sands project in Alberta, Canada, was a \"sustainable energy source\"."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "community_impact": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "Texas sued Shell over alleged environmental-law violations while fighting a fire at its Deer Park chemical plant.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/legal/shell-pemex-face-fines-texas-chemical-plant-fire-may-2023-08-17/",
+              "title": "Shell, Pemex face fines for Texas chemical plant fire in May",
+              "publishedAt": "2023-08-17T00:00:00.000Z",
+              "quote": "The suit alleges the companies violated the Texas Clean Air Act, Texas Water Code and Texas Solid Waste Act in battling the blaze that raged in the Shell chemical plant in the Houston suburb of Deer Park."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2010,
+          "summary": "Shell confirmed the authenticity of leaked contact details belonging to 176,000 employees and contractors.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://royaldutchshellplc.com/2019/10/25/another-shell-data-protection-breach-shell-warns-of-shell-livewire-users-of-exposure-to-potential-fraud/",
+              "title": "Another Shell Data Protection Breach: Shell warns Shell LiveWIRE forum users of exposure to potential fraud – Royal Dutch Shell Plc  .com",
+              "publishedAt": "2019-10-25T00:00:00.000Z",
+              "quote": "Nine years ago Royal Dutch Shell Plc confirmed that a list of leaked contact details of 176,000 of its employees and contractors supplied to me by a human rights and environmental activist group was authentic."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2019,
+          "summary": "Shell disclosed that LiveWIRE UK forum registration data had been compromised and took the website offline while notifying the data-protection authority.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://royaldutchshellplc.com/2019/10/25/another-shell-data-protection-breach-shell-warns-of-shell-livewire-users-of-exposure-to-potential-fraud/",
+              "title": "Another Shell Data Protection Breach: Shell warns Shell LiveWIRE forum users of exposure to potential fraud – Royal Dutch Shell Plc  .com",
+              "publishedAt": "2019-10-25T00:00:00.000Z",
+              "quote": "The user registration data for the UK LiveWIRE online forum was compromised. This includes user names and passwords and (if provided) email address, date of birth and a link to your social media page."
+            },
+            {
+              "url": "https://royaldutchshellplc.com/2019/10/25/another-shell-data-protection-breach-shell-warns-of-shell-livewire-users-of-exposure-to-potential-fraud/",
+              "title": "Another Shell Data Protection Breach: Shell warns Shell LiveWIRE forum users of exposure to potential fraud – Royal Dutch Shell Plc  .com",
+              "publishedAt": "2019-10-25T00:00:00.000Z",
+              "quote": "As soon as we became aware of the incident, we took the entire UK LiveWIRE website, including the online forum, offline."
+            },
+            {
+              "url": "https://royaldutchshellplc.com/2019/10/25/another-shell-data-protection-breach-shell-warns-of-shell-livewire-users-of-exposure-to-potential-fraud/",
+              "title": "Another Shell Data Protection Breach: Shell warns Shell LiveWIRE forum users of exposure to potential fraud – Royal Dutch Shell Plc  .com",
+              "publishedAt": "2019-10-25T00:00:00.000Z",
+              "quote": "We immediately notified the relevant data protection authority of the issue and explain below what we recommend you should do now."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

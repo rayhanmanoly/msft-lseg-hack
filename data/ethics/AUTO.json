@@ -1,0 +1,40 @@
+{
+  "ticker": "AUTO",
+  "generatedAt": "2026-10-23T13:13:06.961Z",
+  "coverage": "full",
+  "causes": {
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "The UK's Competition & Markets Authority opened an investigation into Autotrader as part of its crackdown on fake and misleading online reviews.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.lse.co.uk/news/autotrader-among-firms-under-investigation-in-uk-over-online-reviews-juiwi6jcwew4d8x.html",
+              "title": "Autotrader among firms under investigation in UK over online reviews | Financial News",
+              "publishedAt": "2026-03-27T00:00:00.000Z",
+              "quote": "(Alliance News) - Food delivery company Just Eat, funeral firm Dignity and motor platform Autotrader Group PLC are among five firms under investigation by the UK's competition watchdog as part of its crackdown on fake and misleading online reviews."
+            },
+            {
+              "url": "https://www.lse.co.uk/news/autotrader-among-firms-under-investigation-in-uk-over-online-reviews-juiwi6jcwew4d8x.html",
+              "title": "Autotrader among firms under investigation in UK over online reviews | Financial News",
+              "publishedAt": "2026-03-27T00:00:00.000Z",
+              "quote": "The Competition & Markets Authority said it had launched probes against the companies – also including customer review and feedback firm Feefo and Pasta Evangelists – to see whether consumer laws have been broken."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Autotrader's near- and long-term emissions targets have been validated by the Science Based Targets initiative."
+      ]
+    }
+  }
+}

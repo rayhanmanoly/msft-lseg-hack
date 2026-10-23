@@ -1,6 +1,14 @@
 import { z } from 'zod';
 import { causeIdSchema } from './causes';
 
+/** A citation. `quote` is a verbatim substring of the fetched article, so it can be shown as evidence. */
+export const sourceSchema = z.object({
+  url: z.string(),
+  title: z.string(),
+  publishedAt: z.string().optional(),
+  quote: z.string(),
+});
+
 /** One ethical incident, as extracted offline by scripts/build-cache.ts. */
 export const incidentSchema = z.object({
   year: z.number().int(),
@@ -13,7 +21,10 @@ export const incidentSchema = z.object({
   confirmed: z.boolean(),
   /** 0 = ignored/covered up, 1 = fully remediated and reformed. */
   remediation: z.number().min(0).max(1),
-  sourceUrls: z.array(z.string()),
+  /** Cited evidence with quotes (real cache). */
+  sources: z.array(sourceSchema).default([]),
+  /** Bare URLs (older fixtures). */
+  sourceUrls: z.array(z.string()).default([]),
 });
 
 export const causeEvidenceSchema = z.object({
@@ -25,10 +36,13 @@ export const causeEvidenceSchema = z.object({
 export const ethicsRecordSchema = z.object({
   ticker: z.string(),
   generatedAt: z.string(),
+  /** How much evidence was found. `partial` and `none` are NOT a pass: show limited information. */
+  coverage: z.enum(['full', 'partial', 'none']).default('full'),
   causes: z.partialRecord(causeIdSchema, causeEvidenceSchema),
-  sources: z.array(z.string()),
+  sources: z.array(z.string()).default([]),
 });
 
+export type Source = z.infer<typeof sourceSchema>;
 export type Incident = z.infer<typeof incidentSchema>;
 export type CauseEvidence = z.infer<typeof causeEvidenceSchema>;
 export type EthicsRecord = z.infer<typeof ethicsRecordSchema>;

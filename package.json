@@ -9,6 +9,7 @@
     "typecheck": "tsc --noEmit",
     "check:endpoint": "tsx scripts/check-endpoint.ts",
     "check:fixtures": "tsx scripts/check-fixtures.ts",
+    "check:rubric": "tsx scripts/check-rubric.ts",
     "build:cache": "tsx scripts/build-cache.ts"
   },
   "dependencies": {

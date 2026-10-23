@@ -1,0 +1,122 @@
+{
+  "ticker": "NG",
+  "generatedAt": "2026-10-23T13:25:12.890Z",
+  "coverage": "full",
+  "causes": {
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2019,
+          "summary": "New York authorities ordered National Grid to restore gas service to 1,157 residential and business customers, and the company began taking reconnection steps while facing a threat to its gas franchise.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://pgjonline.com/news/2019/10-oct/national-grid-says-it-will-reconnect-gas-customers-after-ny-order",
+              "title": "National Grid Says it Will Reconnect Gas Customers After NY Order",
+              "publishedAt": "2025-10-01T00:00:00.000Z",
+              "quote": "National Grid Plc said on Monday it was taking steps to reconnect about 1,000 natural gas customers in New York City and Long Island following a state order after the utility previously refused to reinstate service, citing short supply."
+            },
+            {
+              "url": "https://pgjonline.com/news/2019/10-oct/national-grid-says-it-will-reconnect-gas-customers-after-ny-order",
+              "title": "National Grid Says it Will Reconnect Gas Customers After NY Order",
+              "publishedAt": "2025-10-01T00:00:00.000Z",
+              "quote": "The governor said the Public Service Commision (PSC) ordered the company to immediately connect gas service to 1,157 residential and business customers."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/National_Grid_plc",
+              "title": "National Grid plc",
+              "quote": "Cuomo threatened \"to revoke the company’s authority to operate its gas franchise in New York City and Long Island, for failing to provide customers with reliable service,\" according to Utility Dive."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2008,
+          "summary": "The Competition Appeal Tribunal upheld a £41.6 million fine in 2009 over National Grid's abuse of dominance in domestic gas metering.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.concurrences.com/en/bulletin/news-issues/february-2008/the-uk-gas-and-electricity-markets-authority-finds-an-abuse-of-dominance-in-the",
+              "title": "The UK Gas and Electricity Markets Authority finds an abuse of dominance in the gas metering services and imposes a fine for restrictive long-term agreements (National Grid) - Concurrences",
+              "publishedAt": "2026-03-19T00:00:00.000Z",
+              "quote": "The Gas and Electricity Markets Authority found that National Grid plc had abused its dominant position in the market for the provision and maintenance of domestic-sized gas meters in Great Britain, in breach of section 18 of the Competition Act 1998 and Article 82 of the EC Treaty."
+            },
+            {
+              "url": "https://www.concurrences.com/en/bulletin/news-issues/february-2008/the-uk-gas-and-electricity-markets-authority-finds-an-abuse-of-dominance-in-the",
+              "title": "The UK Gas and Electricity Markets Authority finds an abuse of dominance in the gas metering services and imposes a fine for restrictive long-term agreements (National Grid) - Concurrences",
+              "publishedAt": "2026-03-19T00:00:00.000Z",
+              "quote": "UK Competition Appeal Tribunal The UK Competition Appeal Tribunal upholds a £41.6M fine and confirms abuse of dominance in the domestic gas metering sector (National Grid / Gas and Electricity Markets Authority)"
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2016,
+          "summary": "National Grid agreed to pay £20 million after admitting licence breaches involving maintenance and repair failures at Harker substation between November 2016 and November 2021.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/news/national-grid-to-pay-gbp20-million-for-substation-licence-breach-ce7e5fdcdb88f42c",
+              "title": "National Grid to pay GBP20 million for substation licence breach | MarketScreener",
+              "publishedAt": "2026-03-11T00:00:00.000Z",
+              "quote": "(Alliance News) - National Grid PLC has agreed to pay out GBP20 million to Great Britain's energy watchdog after failing to properly repair and maintain a key substation in Cumbria."
+            },
+            {
+              "url": "https://www.marketscreener.com/news/national-grid-to-pay-gbp20-million-for-substation-licence-breach-ce7e5fdcdb88f42c",
+              "title": "National Grid to pay GBP20 million for substation licence breach | MarketScreener",
+              "publishedAt": "2026-03-11T00:00:00.000Z",
+              "quote": "Ofgem said National Grid Electricity Transmission [NGET] admitted breaching the terms of its licence at the Harker substation, near Carlisle in Cumbria, between November 2016 and November 2021."
+            },
+            {
+              "url": "https://www.marketscreener.com/news/national-grid-to-pay-gbp20-million-for-substation-licence-breach-ce7e5fdcdb88f42c",
+              "title": "National Grid to pay GBP20 million for substation licence breach | MarketScreener",
+              "publishedAt": "2026-03-11T00:00:00.000Z",
+              "quote": "NGET has since carried out repairs at Harker in 2022."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "A report cited in a shareholder law firm's announcement attributed the fire that shut Heathrow Airport to a National Grid substation fault that the company had known about since 2018 but had not fixed.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.businesswire.com/news/home/20250706394829/en/NGG-Investors-Have-Opportunity-to-Join-National-Grid-plc-Fraud-Investigation-with-the-Schall-Law-Firm",
+              "title": "NGG Investors Have Opportunity to Join National Grid plc Fraud Investigation with the Schall Law Firm",
+              "publishedAt": "2025-07-07T00:00:00.000Z",
+              "quote": "The UK’s National Energy System Operator (NESO) published its summary findings of its investigation into the fire that shut down Heathrow Airport on March 20, 2025."
+            },
+            {
+              "url": "https://www.businesswire.com/news/home/20250706394829/en/NGG-Investors-Have-Opportunity-to-Join-National-Grid-plc-Fraud-Investigation-with-the-Schall-Law-Firm",
+              "title": "NGG Investors Have Opportunity to Join National Grid plc Fraud Investigation with the Schall Law Firm",
+              "publishedAt": "2025-07-07T00:00:00.000Z",
+              "quote": "The NESO report states that a known fault in National Grid’s electrical substation was the cause of the fire, adding that the Company was aware of the fault since 2018 but failed to fix it."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "diversity_inclusion": {
+      "incidents": [],
+      "positives": [
+        "S&P Global Ratings assessed National Grid's board as diverse, with strong expertise and independence."
+      ]
+    }
+  }
+}

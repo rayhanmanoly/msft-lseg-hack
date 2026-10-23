@@ -1,0 +1,19 @@
+{
+  "ticker": "HWDN",
+  "generatedAt": "2026-10-23T13:19:14.523Z",
+  "coverage": "full",
+  "causes": {
+    "tax_transparency": {
+      "incidents": [],
+      "positives": [
+        "Howdens committed to repay £30 million in furlough support and business rates relief and pay deferred taxes before the end of 2020."
+      ]
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "The Carbon Trust verified that Howdens' Howden and Runcorn manufacturing sites met the PAS 2060 standard for carbon neutrality."
+      ]
+    }
+  }
+}

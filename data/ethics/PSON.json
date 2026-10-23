@@ -1,0 +1,131 @@
+{
+  "ticker": "PSON",
+  "generatedAt": "2026-10-23T13:25:01.327Z",
+  "coverage": "full",
+  "causes": {
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2018,
+          "summary": "Pearson agreed to pay a $1 million SEC penalty for misleading disclosures about a cyber intrusion that stole millions of student records and administrator credentials.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.sec.gov/enforcement-litigation/administrative-proceedings/33-10963-s",
+              "title": "SEC.gov | SEC Charges Pearson Plc for Misleading Investors About Cyber Breach",
+              "publishedAt": "2021-08-16T00:00:00.000Z",
+              "quote": "The SEC's order finds that Pearson made misleading statements and omissions about the 2018 data breach involving the theft of student data and administrator log-in credentials of 13,000 school, district and university customer accounts."
+            },
+            {
+              "url": "https://www.sec.gov/enforcement-litigation/administrative-proceedings/33-10963-s",
+              "title": "SEC.gov | SEC Charges Pearson Plc for Misleading Investors About Cyber Breach",
+              "publishedAt": "2021-08-16T00:00:00.000Z",
+              "quote": "The media statement also omitted that millions of rows of student data and usernames and hashed passwords were stolen."
+            },
+            {
+              "url": "https://www.sec.gov/enforcement-litigation/administrative-proceedings/33-10963-s",
+              "title": "SEC.gov | SEC Charges Pearson Plc for Misleading Investors About Cyber Breach",
+              "publishedAt": "2021-08-16T00:00:00.000Z",
+              "quote": "Without admitting or denying the SEC's findings, Pearson agreed to cease and desist from committing violations of these provisions and to pay a $1 million civil penalty."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2016,
+          "summary": "Ofqual imposed a £1.2 million penalty on Pearson in 2022 for failures in GCSE and A-level marking reviews between 2016 and 2019.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Pearson_plc",
+              "title": "Pearson plc",
+              "quote": "In 2022, Ofqual imposed a £1.2 million monetary penalty on Pearson for failures in reviews of marking for GCSE and A-level qualifications between 2016 and 2019."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2025,
+          "summary": "Ofqual fined Pearson £750,000 over PTE Academic Online after insufficiently prompt action against candidate malpractice, and Pearson revoked 9,910 affected results.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Pearson_plc",
+              "title": "Pearson plc",
+              "quote": "The penalties were £750,000 for GCSE English language 2.0, £505,000 for A-level Chinese, and £750,000 for Pearson PTE Academic Online."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Pearson_plc",
+              "title": "Pearson plc",
+              "quote": "In the PTE case, Ofqual said Pearson had failed to act sufficiently promptly when candidate malpractice affected delivery of the online version of its secure English-language test; Pearson later revoked 9,910 affected results."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2025,
+          "summary": "Ofqual fined Pearson £750,000 in December 2025 for serious breaches involving GCSE English language 2.0.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Pearson_plc",
+              "title": "Pearson plc",
+              "quote": "In December 2025, Ofqual fined Pearson more than £2 million for serious breaches in three separate cases between 2019 and 2023, which the regulator said collectively affected tens of thousands of students."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Pearson_plc",
+              "title": "Pearson plc",
+              "quote": "The penalties were £750,000 for GCSE English language 2.0, £505,000 for A-level Chinese, and £750,000 for Pearson PTE Academic Online."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "executive_pay": {
+      "incidents": [
+        {
+          "year": 2017,
+          "summary": "More than 61% of shareholders opposed Pearson's remuneration report after its chief executive received about £1.5 million, including a bonus, following a £2.6 billion pre-tax loss.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Pearson_plc",
+              "title": "Pearson plc",
+              "quote": "Chief executive John Fallon received total pay of about £1.5 million, including a bonus, after Pearson reported a pre-tax loss of £2.6 billion for 2016."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Pearson_plc",
+              "title": "Pearson plc",
+              "quote": "At the company's annual general meeting in May 2017, more than 61% of shareholders voted against the remuneration report."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "SLR undertook independent limited assurance of Pearson's FY2025 greenhouse-gas and other ESG data."
+      ]
+    }
+  }
+}

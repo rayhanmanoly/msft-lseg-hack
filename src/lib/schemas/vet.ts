@@ -17,6 +17,8 @@ export const vetResultSchema = z.object({
   /** Accepted despite concerns; shown to the client so they can flip them. */
   borderline: z.array(vetDecisionSchema),
   excluded: z.array(vetDecisionSchema),
+  /** Shortlisted companies with no usable evidence (no cache record, or coverage partial or none). Never treated as clean. */
+  unrated: z.array(z.string()).default([]),
   summary: z.string(),
 });
 

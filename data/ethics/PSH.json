@@ -1,0 +1,40 @@
+{
+  "ticker": "PSH",
+  "generatedAt": "2026-10-23T13:24:27.187Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "Pershing Square Holdings was named as a defendant in a shareholder lawsuit alleging that PSTH operated as an unregistered investment company and its adviser extracted illegal compensation, with the plaintiff contesting dismissal in November 2021.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.digitalmusicnews.com/2021/08/18/pershing-square-spac-lawsuit/",
+              "title": "Pershing Square SPAC Faces Investor Lawsuit Over Exec Compensation",
+              "publishedAt": "2021-08-18T00:00:00.000Z",
+              "quote": "with defendants including London-headquartered Pershing Square Holdings (which, along with other defendant entities, is “advised by Pershing Square Capital Management”) and PSTH’s four board members (aside from Ackman)."
+            },
+            {
+              "url": "https://www.vitallaw.com/news/initial-public-offerings-s-d-n-y-shareholder-fires-back-against-motion-to-dismiss-in-pershing-square-spac-lawsuit/sld01f5464e4e7e0810008d26000d3a8daaf40a",
+              "title": "INITIAL PUBLIC OFFERINGS—S.D.N.Y..:... | VitalLaw.com",
+              "publishedAt": "2021-12-01T00:00:00.000Z",
+              "quote": "The complaint asserts that PSTH is functioning as an unregistered investment company and PSCM is extracting illegal compensation in violation of the Investment Company Act (ICA) and Investment Advisers Act (IAA)."
+            },
+            {
+              "url": "https://www.vitallaw.com/news/initial-public-offerings-s-d-n-y-shareholder-fires-back-against-motion-to-dismiss-in-pershing-square-spac-lawsuit/sld01f5464e4e7e0810008d26000d3a8daaf40a",
+              "title": "INITIAL PUBLIC OFFERINGS—S.D.N.Y..:... | VitalLaw.com",
+              "publishedAt": "2021-12-01T00:00:00.000Z",
+              "quote": "In a high-profile lawsuit, a plaintiff investor in a SPAC organized by Pershing Square forcefully defended claims against a motion to dismiss."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

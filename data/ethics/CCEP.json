@@ -1,0 +1,100 @@
+{
+  "ticker": "CCEP",
+  "generatedAt": "2026-10-23T13:16:02.428Z",
+  "coverage": "full",
+  "causes": {
+    "tax_transparency": {
+      "incidents": [
+        {
+          "year": 2014,
+          "summary": "French tax authorities sought €370 million from CCEP France for 2014–2015 and €182.2 million for 2016 in tax reassessments that the company disputed.",
+          "relativeScale": 5,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://guide-entreprise.fr/finance/pourquoi-coca-cola-est-dans-le-viseur-du-fisc-francais/",
+              "title": "Scandale fiscal : Coca-Cola épinglé par le fisc français",
+              "publishedAt": "2024-07-25T00:00:00.000Z",
+              "quote": "En janvier, l’AFP avait appris que le fisc réclamait à Coca-Cola Europacific Partners France (CCEP), l’embouteilleur français du célèbre soda, 370 millions d’euros de redressement fiscal pour les exercices 2014 et 2015."
+            },
+            {
+              "url": "https://guide-entreprise.fr/finance/pourquoi-coca-cola-est-dans-le-viseur-du-fisc-francais/",
+              "title": "Scandale fiscal : Coca-Cola épinglé par le fisc français",
+              "publishedAt": "2024-07-25T00:00:00.000Z",
+              "quote": "Pareil pour 2016 avec 182,2 millions, selon sa documentation financière pour l’année 2022."
+            },
+            {
+              "url": "https://guide-entreprise.fr/finance/pourquoi-coca-cola-est-dans-le-viseur-du-fisc-francais/",
+              "title": "Scandale fiscal : Coca-Cola épinglé par le fisc français",
+              "publishedAt": "2024-07-25T00:00:00.000Z",
+              "quote": "CCEP affirmait disposer « de solides moyens de défense lui permettant de contester la position des autorités"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "Germany's competition authority opened an investigation into potentially anticompetitive rebate arrangements at Coca-Cola Europacific Partners Deutschland.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.boerse-online.de/dpa-afx/roundup-bundeskartellamt-leitet-missbrauchsverfahren-gegen-coca-cola-ein-329194.html",
+              "title": "BÖRSE ONLINE – Seit 1987 unterstützt BÖRSE ONLINE jede Woche Anleger bei ihren Investment-Entscheidungen. Zentrale Themen der Berichterstattung sind fundamentale Markt- und Aktienanalysen, Charttechnik, Handelsstrategien sowie verschiedene Tradingmodelle.",
+              "publishedAt": "2023-11-14T00:00:00.000Z",
+              "quote": "Wegen möglicher wettbewerbswidriger Rabattgestaltung habe man ein Missbrauchsverfahren gegen Coca-Cola Europacific Partners Deutschland GmbH eingeleitet, teilte das Bundeskartellamt am Dienstag in Bonn mit."
+            },
+            {
+              "url": "http://convenienceshop.de/industrie/5859-bundeskartellamt-verfahren-gegen-coca-cola-vertriebsgesellschaft-eroeffnet.html",
+              "title": "Bundeskartellamt - Verfahren gegen Coca-Cola-Vertriebsgesellschaft eröffnet – Convenienceshop.de",
+              "publishedAt": "2023-11-14T00:00:00.000Z",
+              "quote": "CCEP DE kooperiere mit der Behörde und stelle die gewünschten Informationen zur Verfügung."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "CCEP union workers struck at its Christchurch and Auckland plants over alleged unequal pay and benefits compared with non-union workers and a lack of pay transparency.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://pmn.co.nz/read/business/attack-on-our-workers-coca-cola-staff-stage-strike-action",
+              "title": "'Attack on our workers’: Coca-Cola staff stage strike action",
+              "publishedAt": "2024-09-18T00:00:00.000Z",
+              "quote": "Coca Cola EuroPacific Partners (CCEP) union workers have been on strike since Tuesday outside both the company’s Christchurch and Auckland plants."
+            },
+            {
+              "url": "https://pmn.co.nz/read/business/attack-on-our-workers-coca-cola-staff-stage-strike-action",
+              "title": "'Attack on our workers’: Coca-Cola staff stage strike action",
+              "publishedAt": "2024-09-18T00:00:00.000Z",
+              "quote": "Tata said union workers, whether working their regular hours or overtime, \"do the same job [as non-unionised workers] and are paid less\"."
+            },
+            {
+              "url": "https://pmn.co.nz/read/business/attack-on-our-workers-coca-cola-staff-stage-strike-action",
+              "title": "'Attack on our workers’: Coca-Cola staff stage strike action",
+              "publishedAt": "2024-09-18T00:00:00.000Z",
+              "quote": "She said negotiations have been ongoing since August but that Coca-Cola failed to acknowledge the pay disparity and withheld information around the IEAs."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

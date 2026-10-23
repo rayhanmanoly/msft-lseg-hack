@@ -1,0 +1,72 @@
+{
+  "ticker": "SBRY",
+  "generatedAt": "2026-10-23T13:27:57.077Z",
+  "coverage": "full",
+  "causes": {
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2019,
+          "summary": "A customer who required ankle surgery after slipping on spilled coconut oil at Sainsbury’s sued the company, alleging staff negligently failed to identify and clear the spill.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.hsepeople.com/sainsburys-sued-for-500000-after-coconut-oil-accident/",
+              "title": "Sainsbury's Sued for £500,000 after Coconut Oil Accident - HSE People",
+              "publishedAt": "2022-09-23T00:00:00.000Z",
+              "quote": "Legal secretary Georgina Hennessy slipped on a ‘spilt coconut oil product’ in a branch of Sainsbury’s in July 2019, resulting in a broken ankle and being left bleeding on the floor."
+            },
+            {
+              "url": "https://www.hsepeople.com/sainsburys-sued-for-500000-after-coconut-oil-accident/",
+              "title": "Sainsbury's Sued for £500,000 after Coconut Oil Accident - HSE People",
+              "publishedAt": "2022-09-23T00:00:00.000Z",
+              "quote": "Ms Hennessy had to undergo an operation to have a metal plate and screws inserted into her ankle."
+            },
+            {
+              "url": "https://www.hsepeople.com/sainsburys-sued-for-500000-after-coconut-oil-accident/",
+              "title": "Sainsbury's Sued for £500,000 after Coconut Oil Accident - HSE People",
+              "publishedAt": "2022-09-23T00:00:00.000Z",
+              "quote": "Ms Hennessy is now suing J Sainsbury Plc for up to £500,000 at the High Court, claiming store staff negligently failed to spot and clear up the mess."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "fair_wages": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "Sainsbury’s faced a ShareAction-backed investor campaign to obtain Living Wage Foundation accreditation and extend real living wage pay to subcontracted workers.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.bbc.com/news/business-61952914",
+              "title": "Sainsbury's pressed to pay more to subcontracted workers - BBC",
+              "quote": "But some investors are calling for it to sign up to the Living Wage Foundation's pay commitments."
+            },
+            {
+              "url": "https://www.bbc.com/news/business-61952914",
+              "title": "Sainsbury's pressed to pay more to subcontracted workers - BBC",
+              "quote": "If it does, the higher pay rate would be extended to subcontracted staff, such as cleaners."
+            },
+            {
+              "url": "https://www.bbc.com/news/business-61952914",
+              "title": "Sainsbury's pressed to pay more to subcontracted workers - BBC",
+              "quote": "ShareAction, the group behind the campaign for a new pay policy at the supermarket, said there was a \"compelling moral case\" for offering all staff, including subcontracted workers, the higher rate."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": [
+        "Sainsbury’s paid its direct employees above the Living Wage Foundation’s real living wage rate."
+      ]
+    }
+  }
+}

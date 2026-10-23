@@ -1,0 +1,186 @@
+{
+  "ticker": "BBY",
+  "generatedAt": "2026-10-23T13:14:12.912Z",
+  "coverage": "full",
+  "causes": {
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2000,
+          "summary": "Balfour Beatty was convicted of health and safety breaches and fined £10 million for its involvement in the Hatfield rail crash, which killed four people and injured more than 70.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Balfour_Beatty",
+              "title": "Balfour Beatty",
+              "quote": "In October 2005, Balfour Beatty was found guilty of breaching health and safety laws, and were fined £10 million for its involvement in the October 2000 Hatfield rail crash."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Balfour_Beatty",
+              "title": "Balfour Beatty",
+              "quote": "The crash resulted in the death of four people, and injured more than 70."
+            }
+          ],
+          "severity": 5
+        },
+        {
+          "year": 2026,
+          "summary": "Media reported that unsafe mold in Balfour Beatty military housing caused a family to move out following health problems, while the company denied mold was present.",
+          "relativeScale": 1,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Balfour_Beatty",
+              "title": "Balfour Beatty",
+              "quote": "In July 2026, the Daily Press reported that housing owned by Balfour Beatty on Joint Expeditionary Base Little Creek–Fort Story had unsafe levels of mold, leading to one family needing to move out of their home due to the negative health effects."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Balfour_Beatty",
+              "title": "Balfour Beatty",
+              "quote": "Balfour Beatty denied that the home in question had any mold present, despite an independent investigator hired by the family finding unsafe levels of mold in the home."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Balfour_Beatty",
+              "title": "Balfour Beatty",
+              "quote": "One member of the family visited the emergency room three times during the time she lived in the house."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2009,
+          "summary": "Balfour Beatty participated in construction-worker blacklisting, subsequently apologised and agreed compensation, and faced further proceedings announced in December 2017.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Balfour_Beatty",
+              "title": "Balfour Beatty",
+              "quote": "On 10 October 2013, Balfour Beatty was one of eight construction firms involved in blacklisting that apologised for their actions and agreed to pay compensation to affected workers."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Balfour_Beatty",
+              "title": "Balfour Beatty",
+              "quote": "However, some settlements were eventually agreed, and on 11 May 2016, a 'formal apology' from the 40 firms involved was read out in court and the case (Various Claimants v McAlpine & Ors) was closed."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Balfour_Beatty",
+              "title": "Balfour Beatty",
+              "quote": "In December 2017, Unite announced it had issued high court proceedings relating to blacklisting against twelve major contractors, including Balfour Beatty."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2019,
+          "summary": "Balfour Beatty was suspended from the UK Government's Prompt Payment Code for late supplier payments and reinstated around ten months later.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Balfour_Beatty",
+              "title": "Balfour Beatty",
+              "quote": "In April 2019, Balfour Beatty was suspended from the UK Government's Prompt Payment Code, for failing to pay suppliers on time."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Balfour_Beatty",
+              "title": "Balfour Beatty",
+              "quote": "It was reinstated around 10 months later."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2013,
+          "summary": "Balfour Beatty Communities pleaded guilty to defrauding the U.S. military through false performance claims between 2013 and 2019 and was ordered to pay $65.4 million in fines and restitution.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.airandspaceforces.com/balfour-beatty-pleads-guilty-defrauding-air-force/",
+              "title": "Private Military Landlord Pleads Guilty, Must Pay $65 Million for Defrauding Air Force, Other Services | Air & Space Forces Magazine",
+              "publishedAt": "2021-12-23T00:00:00.000Z",
+              "quote": "Balfour Beatty Communities, one of the largest providers of privatized military housing in the U.S., has pleaded guilty to defrauding the Air Force, Army, and Navy, the Justice Department announced Dec. 23."
+            },
+            {
+              "url": "https://www.enr.com/articles/53354-balfour-beatty-unit-will-pay-654m-in-military-housing-fraud-settlement",
+              "title": "Balfour Beatty Unit Will Pay $65.4M in Military Housing Fraud Settlement | 2022-01-04 | Engineering News-Record",
+              "publishedAt": "2022-01-04T00:00:00.000Z",
+              "quote": "Under terms of the settlement ordered by a U.S. District Court judge, the company will pay the government $33.6 million in criminal fines and $31.8 million in restitution."
+            },
+            {
+              "url": "https://www.enr.com/articles/53354-balfour-beatty-unit-will-pay-654m-in-military-housing-fraud-settlement",
+              "title": "Balfour Beatty Unit Will Pay $65.4M in Military Housing Fraud Settlement | 2022-01-04 | Engineering News-Record",
+              "publishedAt": "2022-01-04T00:00:00.000Z",
+              "quote": "Court records state that between 2013 and 2019, employees falsified incentive fee requests to show the company had met performance objectives when, in reality, it had failed to meet them in many cases."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "Balfour Beatty agreed a £200,000 enforcement undertaking over unauthorised silt-contaminated water discharges at its East Leeds Orbital Route construction site and introduced preventive measures.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.constructionnews.co.uk/government/balfour-beatty-to-pay-200k-over-leeds-water-pollution-22-06-2026/",
+              "title": "Balfour Beatty to pay £200k over Leeds water pollution | Construction News",
+              "publishedAt": "2026-06-22T00:00:00.000Z",
+              "quote": "The Environment Agency (EA) has accepted a £200,000 enforcement undertaking from Balfour Beatty over discharges of silt-contaminated water."
+            },
+            {
+              "url": "https://www.constructionnews.co.uk/government/balfour-beatty-to-pay-200k-over-leeds-water-pollution-22-06-2026/",
+              "title": "Balfour Beatty to pay £200k over Leeds water pollution | Construction News",
+              "publishedAt": "2026-06-22T00:00:00.000Z",
+              "quote": "The incidents stemmed from several unauthorised discharges from the tier one contractor’s East Leeds Orbital Route construction site in 2020, the EA said."
+            },
+            {
+              "url": "https://www.constructionnews.co.uk/government/balfour-beatty-to-pay-200k-over-leeds-water-pollution-22-06-2026/",
+              "title": "Balfour Beatty to pay £200k over Leeds water pollution | Construction News",
+              "publishedAt": "2026-06-22T00:00:00.000Z",
+              "quote": "“As well as the payment, the company made changes to the site to prevent further incidents and introduced new environmental protection measures for future construction projects,” it said."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": [
+        "Balfour Beatty achieved 99.6% waste diversion from landfill on the Team2100 flood-defence programme, exceeding its 96% target under audited environmental standards."
+      ]
+    },
+    "supply_chain": {
+      "incidents": [],
+      "positives": [
+        "The Team2100 project reported 99.1% responsible sourcing, with sourcing decisions subject to environmental accountability requirements."
+      ]
+    }
+  }
+}

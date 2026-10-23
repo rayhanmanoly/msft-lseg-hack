@@ -1,0 +1,46 @@
+{
+  "ticker": "LSEG",
+  "generatedAt": "2026-10-23T13:22:24.814Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "LSEG faces allegations of fraud and breach of contract concerning its 2022 acquisition of MayStreet, with a Delaware judge rejecting its motion to dismiss in October 2026 and allowing the lawsuit to proceed.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.waterstechnology.com/data-management/7952895/lseg-files-2nd-motion-to-dismiss-lawsuit-with-maystreet-cofounder",
+              "title": "LSEG files second motion to dismiss lawsuit with MayStreet co-founder - WatersTechnology.com",
+              "publishedAt": "2026-01-06T00:00:00.000Z",
+              "quote": "The lawsuit, originally filed last May in Delaware’s Court of Chancery, accuses LSEG of breach of contract and fraud related to the 2022 deal for the data provider and the subsequent integration process."
+            },
+            {
+              "url": "https://www.cityam.com/london-stock-exchange-group-fails-to-shake-off-131m-fraud-lawsuit/",
+              "title": "London Stock Exchange Group fails to shake off £131m fraud lawsuit",
+              "publishedAt": "2026-10-19T11:25:29.000Z",
+              "quote": "LSEG will face a $175m (£131m) fraud and breach of contract lawsuit brought by the former chief executive of a company it acquired, after a US judge denied the London stock exchange-owner’s attempt to dismiss the case."
+            },
+            {
+              "url": "https://www.cityam.com/london-stock-exchange-group-fails-to-shake-off-131m-fraud-lawsuit/",
+              "title": "London Stock Exchange Group fails to shake off £131m fraud lawsuit",
+              "publishedAt": "2026-10-19T11:25:29.000Z",
+              "quote": "LSEG strongly refutes the allegations and filed a motion earlier this year to dismiss both the fraud and breach-of-contract claims."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "LSEG's climate commitments received SBTi approval, including a target to reduce absolute Scope 1, Scope 2 and business-travel Scope 3 emissions by 46% by 2030 from a 2019 baseline."
+      ]
+    }
+  }
+}

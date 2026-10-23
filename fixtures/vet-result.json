@@ -13,7 +13,7 @@
       "ticker": "MINR",
       "causeId": "climate_emissions",
       "reason": "Confirmed emissions-heavy operations, but published 2035 targets and cut emissions 18% since 2021. Accepted as a transition story.",
-      "score": 41.5
+      "score": 5.4
     }
   ],
   "excluded": [
@@ -21,7 +21,7 @@
       "ticker": "TELX",
       "causeId": "fair_wages",
       "reason": "Confirmed wage underpayment affecting about 9% of its workforce, with only partial back-pay and no policy change.",
-      "score": 78.2
+      "score": 11.6
     }
   ]
 }

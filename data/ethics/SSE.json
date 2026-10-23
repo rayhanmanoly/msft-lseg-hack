@@ -1,0 +1,82 @@
+{
+  "ticker": "SSE",
+  "generatedAt": "2026-10-23T13:28:20.144Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2016,
+          "summary": "Ofgem fined SSE more than £2 million for delayed disclosure that Fiddler's Ferry generating units would remain operational, leaving electricity traders uninformed for four trading days.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/power-company-fined-2m-after-18872022",
+              "title": "Power company fined £2m after mistake at plant pushed up energy ...",
+              "quote": "Britain's energy regulator has fined power firm SSE more than £2 million for a blunder at a power station which is likely to have pushed up wholesale electricity costs."
+            },
+            {
+              "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/power-company-fined-2m-after-18872022",
+              "title": "Power company fined £2m after mistake at plant pushed up energy ...",
+              "quote": "This meant that, for four trading days, traders were unaware there was going to be a lot more electricity in the system the following week than they were expecting."
+            },
+            {
+              "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/power-company-fined-2m-after-18872022",
+              "title": "Power company fined £2m after mistake at plant pushed up energy ...",
+              "quote": "We admit that our approach was not in line with this requirement,"
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "Ofgem named SSE among 18 suppliers that breached tariff-price protection rules when customers switched supplier or tariff, with the suppliers issuing refunds and redress.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://shareprices.com/news/sse-plans-to-appeal-certain-elements-of-ofgem-price-controls-e67sqb5veyectu3/",
+              "title": "SSE plans to appeal &quot;certain elements&quot; of Ofgem price controls | Finance News | shareprices.com",
+              "publishedAt": "2021-03-02T00:00:00.000Z",
+              "quote": "Separately on Tuesday, Ofgm named SSE, Royal Dutch Shell PLC and Centrica PLC's British Gas among 18 suppliers that broke price protection rules."
+            },
+            {
+              "url": "https://shareprices.com/news/sse-plans-to-appeal-certain-elements-of-ofgem-price-controls-e67sqb5veyectu3/",
+              "title": "SSE plans to appeal &quot;certain elements&quot; of Ofgem price controls | Finance News | shareprices.com",
+              "publishedAt": "2021-03-02T00:00:00.000Z",
+              "quote": "Ofgem found 18 suppliers failed to correctly protect customers' tariff prices when they decided to switch supplier or tariff."
+            },
+            {
+              "url": "https://shareprices.com/news/sse-plans-to-appeal-certain-elements-of-ofgem-price-controls-e67sqb5veyectu3/",
+              "title": "SSE plans to appeal &quot;certain elements&quot; of Ofgem price controls | Finance News | shareprices.com",
+              "publishedAt": "2021-03-02T00:00:00.000Z",
+              "quote": "Collectively, the suppliers are issuing refunds and redress payments worth GBP10.4 million."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "tax_transparency": {
+      "incidents": [],
+      "positives": [
+        "SSE received independent Fair Tax Mark accreditation in October 2014."
+      ]
+    },
+    "supply_chain": {
+      "incidents": [],
+      "positives": [
+        "SSE joined Slave-Free Alliance following several years of collaboration on human-rights risks across its business."
+      ]
+    }
+  }
+}

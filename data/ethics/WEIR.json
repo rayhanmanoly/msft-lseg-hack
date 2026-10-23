@@ -1,0 +1,13 @@
+{
+  "ticker": "WEIR",
+  "generatedAt": "2026-10-23T13:29:24.013Z",
+  "coverage": "full",
+  "causes": {
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Weir’s emissions-reduction targets covering its operations and value chain received Science Based Targets initiative approval."
+      ]
+    }
+  }
+}

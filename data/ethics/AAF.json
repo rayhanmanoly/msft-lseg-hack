@@ -1,0 +1,101 @@
+{
+  "ticker": "AAF",
+  "generatedAt": "2026-10-23T13:07:34.752Z",
+  "coverage": "full",
+  "causes": {
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "Airtel was fined $8.3 million in Chad after a regulatory audit found that service quality fell below expected standards in 2022.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.itnewsafrica.com/2023/08/8-3-million-fine-issued-to-airtel-from-chad-for-qos/",
+              "title": "$8.3 Million Fine Issued to Airtel from Chad for QoS - IT News Africa - African Business Technology News",
+              "publishedAt": "2023-08-23T00:00:00.000Z",
+              "quote": "Airtel Africa, a leading provider of telecommunications and mobile money services, with a presence in 14 countries in Africa, primarily East Africa and Central and West Africa, was recently issued a fine of $8.3 million by the Chadian government for failing to meet quality of service requirements."
+            },
+            {
+              "url": "https://www.itnewsafrica.com/2023/08/8-3-million-fine-issued-to-airtel-from-chad-for-qos/",
+              "title": "$8.3 Million Fine Issued to Airtel from Chad for QoS - IT News Africa - African Business Technology News",
+              "publishedAt": "2023-08-23T00:00:00.000Z",
+              "quote": "In 2022, Arcep found that both operators’ service quality fell below expected standards for the year."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2025,
+          "summary": "Airtel Money faced investigations over consumer complaints about opaque pricing and currency-conversion disclosures, including a COMESA probe initiated in January 2025.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://techpoint.africa/news/airtel-africa-plots-h1-2026-ipo/",
+              "title": "Airtel Africa plots H1 2026 IPO on the back of mobile money boom",
+              "publishedAt": "2025-05-08T00:00:00.000Z",
+              "quote": "Authorities in Kenya, Uganda, and Malawi have launched investigations following consumer complaints about opaque pricing and currency conversion disclosures."
+            },
+            {
+              "url": "https://techpoint.africa/news/airtel-africa-plots-h1-2026-ipo/",
+              "title": "Airtel Africa plots H1 2026 IPO on the back of mobile money boom",
+              "publishedAt": "2025-05-08T00:00:00.000Z",
+              "quote": "In January 2025, the Common Market for Eastern and Southern Africa (COMESA) Competition Commission initiated a probe into Airtel Money’s pricing practices."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "COMESA opened an investigation into alleged anti-competitive conduct arising from Airtel Africa's 2022 tower partnership with American Tower Corporation.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://developingtelecoms.com/telecom-business/telecom-regulation/16243-regulator-investigates-atc-airtel-africa.html",
+              "title": "Regulator investigates ATC, Airtel Africa  - Developing Telecoms",
+              "publishedAt": "2024-02-20T00:00:00.000Z",
+              "quote": "The Common Market for Eastern and Southern Africa competition commission opened an investigation into American Tower Corporation and Airtel Africa, for alleged anti-competitive conduct, after the two companies signed a partnership agreement in 2022."
+            },
+            {
+              "url": "https://developingtelecoms.com/telecom-business/telecom-regulation/16243-regulator-investigates-atc-airtel-africa.html",
+              "title": "Regulator investigates ATC, Airtel Africa  - Developing Telecoms",
+              "publishedAt": "2024-02-20T00:00:00.000Z",
+              "quote": "COMESA received a complaint alleging the existence of anti-competitive agreements between ATC and Airtel Africa, in which Airtel will take a certain number of ATC sites annually and in return, ATC will give a cash rebate to Airtel."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Airtel Africa converted 390 off-grid sites to grid power in 2025/26 and reduced diesel consumption through power and cooling upgrades."
+      ]
+    },
+    "biodiversity": {
+      "incidents": [],
+      "positives": [
+        "Airtel Africa recycled 94% of operational waste during its 2025/26 financial year."
+      ]
+    },
+    "community_impact": {
+      "incidents": [],
+      "positives": [
+        "Through its UNICEF partnership, Airtel Africa connected 3,296 schools to free internet, reaching over two million learners and 38,868 teachers."
+      ]
+    }
+  }
+}

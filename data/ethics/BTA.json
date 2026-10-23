@@ -1,0 +1,136 @@
+{
+  "ticker": "BTA",
+  "generatedAt": "2026-10-23T13:15:13.699Z",
+  "coverage": "full",
+  "causes": {
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "BT was fined £2.8 million after EE and Plusnet failed to provide required contract information to at least 1.1 million customers.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://news.sky.com/story/bt-fined-2-8m-over-failures-affecting-1-1-million-ee-and-plusnet-customers-13141349",
+              "title": "BT fined £2.8m over failures affecting 1.1 million EE and PlusNet customers | Science, Climate & Tech News | Sky News",
+              "publishedAt": "2024-05-22T00:00:00.000Z",
+              "quote": "BT has been fined £2.8m after EE and Plusnet failed to provide clear and simple contract information to more than a million customers."
+            },
+            {
+              "url": "https://news.sky.com/story/bt-fined-2-8m-over-failures-affecting-1-1-million-ee-and-plusnet-customers-13141349",
+              "title": "BT fined £2.8m over failures affecting 1.1 million EE and PlusNet customers | Science, Climate & Tech News | Sky News",
+              "publishedAt": "2024-05-22T00:00:00.000Z",
+              "quote": "Since June 2022, BT's EE and Plusnet businesses made more than 1.3 million sales without providing customers with a contract summary and information documents, which affected at least 1.1 million customers, according to industry watchdog, Ofcom."
+            },
+            {
+              "url": "https://news.sky.com/story/bt-fined-2-8m-over-failures-affecting-1-1-million-ee-and-plusnet-customers-13141349",
+              "title": "BT fined £2.8m over failures affecting 1.1 million EE and PlusNet customers | Science, Climate & Tech News | Sky News",
+              "publishedAt": "2024-05-22T00:00:00.000Z",
+              "quote": "It said BT got in contact with affected customers last summer and offered them the chance to request information or cancel their contract without charge."
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2023,
+          "summary": "Ofcom fined BT £17.5 million after a network failure prevented nearly 14,000 attempted emergency calls from connecting.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/BT_Group",
+              "title": "BT Group",
+              "quote": "On 25 June 2023, a \"catastrophic failure\" in BT's network resulted in nearly 14,000 attempted 999 emergency calls not being connected."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/BT_Group",
+              "title": "BT Group",
+              "quote": "Ofcom fined BT £17.5 million, citing the telecom giant's lack of preparedness and poorly documented backup procedures."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2020,
+          "summary": "Ofcom fined BT £6.3 million for failing to give Eir the same fibre-service information supplied to BT's own competing team during a Northern Ireland public-sector deal.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/BT_Group",
+              "title": "BT Group",
+              "quote": "In 2020, BT was fined £6.3m by the telecoms regulator Ofcom for violating the law on a large public sector deal in Northern Ireland."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/BT_Group",
+              "title": "BT Group",
+              "quote": "In its report, Ofcom found that BT's network violated the rules by failing to supply Eir with the same details on its on-demand fibre-to-the-premises offering as its own rival team."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2008,
+          "summary": "BT's agreement with Phorm to analyse users' browsing data for advertising drew criticism, including disapproval from Tim Berners-Lee.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/BT_Group",
+              "title": "BT Group",
+              "quote": "to intercept and analyse their users' click-stream data and sell the anonymised aggregate information as part of Phorm's OIX advertising service."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/BT_Group",
+              "title": "BT Group",
+              "quote": "In response to questions about Phorm and the interception of data by the Webwise system Sir Tim Berners-Lee, the creator of the World Wide Web, indicated his disapproval of the concept"
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2013,
+          "summary": "British lawmakers criticised BT for allowing Huawei access to the UK's communications network without ministerial oversight; BT subsequently completed removal of Huawei equipment in March 2024.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/BT_Group",
+              "title": "BT Group",
+              "quote": "On 7 June 2013, British lawmakers concluded that BT should not have allowed Huawei access to the UK's communications network without ministerial oversight,"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/BT_Group",
+              "title": "BT Group",
+              "quote": "In 2020, following a government ruling, BT began removing Huawei equipment from its broadband and mobile networks in order to comply with new restrictions on the usage of Huawei equipment."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/BT_Group",
+              "title": "BT Group",
+              "quote": "The process was finally completed by March 2024."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "BT set a 1.5°C-aligned climate target approved by the Science Based Targets initiative in 2017."
+      ]
+    }
+  }
+}

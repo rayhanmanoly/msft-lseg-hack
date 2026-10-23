@@ -1,0 +1,185 @@
+{
+  "ticker": "GSK",
+  "generatedAt": "2026-10-23T13:19:06.615Z",
+  "coverage": "full",
+  "causes": {
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "GSK agreed to resolve approximately 80,000 U.S. Zantac product-liability cases for up to $2.2 billion and a related whistleblower complaint for $70 million, without admitting liability.",
+          "relativeScale": 5,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.gsk.com/en-gb/media/press-releases/statement-zantac-ranitidine-litigation-settlement-agreements-reached/",
+              "title": "Statement: Zantac (ranitidine) litigation – settlement agreements reached | GSK",
+              "publishedAt": "2024-10-09T00:00:00.000Z",
+              "quote": "GSK to resolve 93% (approximately 80,000 cases) of U.S. state court Zantac product liability cases for up to $2.2 billion"
+            },
+            {
+              "url": "https://www.gsk.com/en-gb/media/press-releases/statement-zantac-ranitidine-litigation-settlement-agreements-reached/",
+              "title": "Statement: Zantac (ranitidine) litigation – settlement agreements reached | GSK",
+              "publishedAt": "2024-10-09T00:00:00.000Z",
+              "quote": "GSK also confirms that it has reached an agreement in principle to pay a total of $70 million to resolve the Zantac qui tam complaint previously filed by Valisure."
+            },
+            {
+              "url": "https://www.gsk.com/en-gb/media/press-releases/statement-zantac-ranitidine-litigation-settlement-agreements-reached/",
+              "title": "Statement: Zantac (ranitidine) litigation – settlement agreements reached | GSK",
+              "publishedAt": "2024-10-09T00:00:00.000Z",
+              "quote": "GSK has not admitted any liability in the State Courts Settlement or in the agreement in principle for the Qui Tam Settlement."
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2010,
+          "summary": "GSK's Puerto Rican subsidiary pleaded guilty and agreed to $750 million in criminal and civil penalties over improperly made and adulterated drugs produced from 2001 to 2005.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "In 2010, the US Department of Justice announced that GSK would pay a US$150 million criminal fine and forfeiture, and a civil settlement of US$600 million under the False Claims Act."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "The fines stemmed from production of improperly made and adulterated drugs from 2001 to 2005, at GSK's subsidiary, SB Pharmco Puerto Rico Inc., in Cidra, Puerto Rico, which at the time produced US$5.5 billion of products each year."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "GSK closed the factory in 2009."
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2010,
+          "summary": "Finnish health authorities concluded that the 2009–2010 Pandemrix vaccination campaign had a clear connection with Finland's narcolepsy epidemic.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "The Pandemrix influenza vaccine was developed by GlaxoSmithKline in 2006."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "In February 2011, The Finnish National Institute for Health and Welfare (THL) concluded that there is a clear connection between the Pandemrix vaccination campaign of 2009 and 2010, and the narcolepsy epidemic in Finland."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "found a 6.6-fold increased risk among children and youths, resulting in 3.6 additional cases of narcolepsy per 100,000 vaccinated subjects."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2012,
+          "summary": "GSK pleaded guilty and agreed to a $3 billion U.S. settlement covering conduct including promotion for unapproved uses, false price reporting, underpaid Medicaid rebates and physician kickbacks.",
+          "relativeScale": 5,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "In July 2012, GSK pleaded guilty in the United States to criminal charges, and agreed to pay US$3 billion, in what was the largest settlement until then between the Justice Department and a drug company."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "The charges stemmed from GSK's promotion of the anti-depressants Paxil (paroxetine) and Wellbutrin (bupropion) for unapproved uses from 1998 to 2003"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "The settlement also covered reporting false best prices and underpaying rebates owed under the Medicaid Drug Rebate Program, and kickbacks to physicians to prescribe GSK's drugs."
+            }
+          ],
+          "severity": 4
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 1973,
+          "summary": "An antitrust case concerning Glaxo's griseofulvin licensing restrictions resulted in findings of unlawful conspiracies and a Supreme Court reversal of the trial court's limits on relief.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "The effect and intent of the bulk-sale restriction was to keep the drug chemical out of the hands of small companies that might act as price-cutters, and the effect was to maintain stable, uniform prices."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "The trial court found that the defendants had engaged in several unlawful conspiracies"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "The government appealed to the Supreme Court, which reversed, in United States v. Glaxo Group Ltd., 410 U.S. 52 (1973)."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2007,
+          "summary": "GSK was fined $217,000 in New Zealand for claiming that ready-to-drink Ribena contained high vitamin C levels when testing found none detectable.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "In 2007, GSK was fined US$217,000 in New Zealand over its claim that ready-to-drink Ribena contained high levels of vitamin C, after two schoolgirls showed it contained no detectable vitamin C."
+            }
+          ],
+          "severity": 1
+        },
+        {
+          "year": 2001,
+          "summary": "The Advertising Standards Authority required GSK to withdraw its claim that Ribena Toothkind did not encourage tooth decay, and the High Court upheld the ruling.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "In 2001, the British Advertising Standards Authority (ASA) required GSK to withdraw its claim that Ribena Toothkind, a lower-sugar variety, did not encourage tooth decay."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/GSK_plc",
+              "title": "GSK plc",
+              "quote": "The ASA's ruling was upheld by the High Court."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

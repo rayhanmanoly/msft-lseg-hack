@@ -1,0 +1,306 @@
+{
+  "ticker": "TSCO",
+  "generatedAt": "2026-10-23T13:29:52.026Z",
+  "coverage": "full",
+  "causes": {
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2016,
+          "summary": "Tesco admitted 22 food-safety breaches involving out-of-date food at three Birmingham stores and was ordered to pay a £7.56 million fine plus costs and a surcharge.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.bbc.co.uk/news/uk-england-birmingham-56806641",
+              "title": "Tesco fined £7.56m for selling out-of-date food in Birmingham - BBC",
+              "quote": "The fine was handed down after Tesco Stores Ltd admitted 22 breaches of the Food Safety and Hygiene Regulations, which happened between 2016 and 2017."
+            },
+            {
+              "url": "https://www.birmingham.gov.uk/news/article/855/tesco_fined_75m_for_selling_out_of_date_food_at_three_city_stores",
+              "title": "Tesco fined £7.5m for selling out of date food at three city stores",
+              "quote": "The supermarket chain was ordered to pay a fine of £7,560,000 and £95,500 costs, as well as a £170 victim surcharge today (19 April 2021)."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/uk-england-birmingham-56806641",
+              "title": "Tesco fined £7.56m for selling out-of-date food in Birmingham - BBC",
+              "quote": "Date-checking for the firm is now externally approved by Hertfordshire County Council because the company's Welwyn Garden City head office is located in that local authority's area."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2013,
+          "summary": "Tesco was fined £300,000 after admitting it misled customers over the pricing of half-price strawberries.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "In August 2013, Tesco was fined £300,000 after admitting that it misled customers over the pricing of \"half-price\" strawberries."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2014,
+          "summary": "Tesco paid £214 million to settle probes relating to its profit-overstatement scandal, while the Financial Reporting Council subsequently closed its investigation into managers.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://news.bloomberglaw.com/securities-law/tesco-probe-dropped-by-audit-watchdog-after-half-a-decade-1",
+              "title": "Tesco Probe Dropped by Audit Watchdog After Half a Decade (1)",
+              "publishedAt": "2020-06-08T00:00:00.000Z",
+              "quote": "Grocer has paid 214 million pounds to settle separate probes"
+            },
+            {
+              "url": "https://news.bloomberglaw.com/securities-law/tesco-probe-dropped-by-audit-watchdog-after-half-a-decade-1",
+              "title": "Tesco Probe Dropped by Audit Watchdog After Half a Decade (1)",
+              "publishedAt": "2020-06-08T00:00:00.000Z",
+              "quote": "The Financial Reporting Council said on Monday it closed a probe following Tesco’s September 2014 announcement it had overstated profits by 263 million pounds ($333.5 million), a figure that was increased to 326 million pounds following an independent audit."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "The UK Supreme Court ruled that Tesco was not entitled to terminate employees' contracts and rehire them on less favourable terms to remove increased pay.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/business/retail-consumer/tesco-loses-uk-legal-battle-over-fire-rehire-staff-2024-09-12/",
+              "title": "Tesco loses UK legal battle over 'fire and rehire' of staff",
+              "publishedAt": "2024-09-12T00:00:00.000Z",
+              "quote": "was not entitled to terminate some employees' contracts and offer to rehire them on less favourable terms, the United Kingdom's Supreme Court ruled on Thursday."
+            },
+            {
+              "url": "https://www.reuters.com/business/retail-consumer/tesco-loses-uk-legal-battle-over-fire-rehire-staff-2024-09-12/",
+              "title": "Tesco loses UK legal battle over 'fire and rehire' of staff",
+              "publishedAt": "2024-09-12T00:00:00.000Z",
+              "quote": "Shopworkers' union Usdaw took legal action against Britain's biggest retailer after Tesco sought to remove some warehouse workers' entitlement to increased pay."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "supply_chain": {
+      "incidents": [
+        {
+          "year": 2017,
+          "summary": "An investigation reported forced-labour conditions at the VK Garment Factory producing Tesco clothing between 2017 and 2020, and Thai police later brought charges against the factory.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "In December 2022, an investigation by The Guardian revealed that Burmese migrant workers at the VK Garment Factory in Thailand, which produced F&F clothing for Tesco between 2017 and 2020, were subjected to forced labour conditions."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "Employees reported working up to 99 hours a week, receiving wages significantly below the Thai legal minimum, and having their immigration documents retained by the factory management."
+            },
+            {
+              "url": "https://www.theguardian.com/world/2023/mar/03/thai-factory-used-by-tesco-faces-criminal-charges-over-treatment-of-workers",
+              "title": "Thai factory used by Tesco faces criminal charges over treatment of workers | Thailand | The Guardian",
+              "publishedAt": "2023-03-03T00:00:00.000Z",
+              "quote": "Thai police have brought criminal charges against a clothing factory that was used by Tesco to make F&F clothes, over its treatment of workers."
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2014,
+          "summary": "The Guardian reported that Tesco purchased from Charoen Pokphand Foods, which was found to use slave labour, and Tesco pledged to address the issue with its supplier.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "In 2014, The Guardian reported that Tesco purchased from Charoen Pokphand Foods, who were found to be using slave labour."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "Tesco condemned this and pledged to work with the supplier and other organisations to ensure the supply chain does not use slave labour."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2025,
+          "summary": "An RTÉ investigation found Tesco selling products supplied by factories linked to a forced-labour programme.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "In September 2025, an RTÉ investigation found that Tesco was selling products supplied by factories linked to a forced labour programme."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "the investigation tracked cotton from these suppliers through supply chains in Bangladesh and into products sold on Tesco shelves, which contravened the declarations that these suppliers had made to Tesco."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "animal_welfare": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "Undercover footage showed workers at a Tesco supplier killing piglets by hammering them or swinging them against a concrete floor, after which Tesco stopped using the supplier.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "In May 2021, undercover footage at a Tesco supplier showed piglets deemed too small or weak for the abattoir being hammered to death or swung against a concrete floor by farm workers."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "Tesco responded by ceasing to use the supplier."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2021,
+          "summary": "A vegan charity's investigation reported chickens dying of thirst, cannibalism and ammonia burns at a Tesco supplier, prompting a Tesco investigation.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "In July 2021, an investigation by a vegan charity showed chickens at a Tesco supplier being left to die of thirst in overcrowded sheds, with some resorting to cannibalism and many suffering ammonia burns."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "Tesco launched an investigation."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2019,
+          "summary": "An investigation documented battery-cage conditions at Tesco's own-brand egg producer in Malaysia, and Tesco subsequently committed to cage-free eggs in Thailand and Malaysia by 2028.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "In May 2019, an undercover investigation of a Tesco egg supplier in Asia found that Tesco was serving Southeast Asian customers eggs from battery cage farms."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "In August 2019, an investigation documented similar conditions at the company producing Tesco's own-brand eggs in Malaysia."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "In response to the investigation, Tesco committed to using only cage-free eggs in Thailand and Malaysia by 2028."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": [
+        "Tesco announced a crustacean-welfare policy banning eyestalk ablation and requiring electrical stunning before slaughter for whiteleg shrimp from 2026."
+      ]
+    },
+    "tax_transparency": {
+      "incidents": [
+        {
+          "year": 2008,
+          "summary": "The government announced it was closing a loophole used by Tesco involving Luxembourg holding companies and partnership agreements to reduce corporation-tax liability by up to £50 million annually.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "In June 2008, the government announced that it was closing a tax loophole being used by Tesco."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Tesco",
+              "title": "Tesco",
+              "quote": "The scheme, identified by British magazine Private Eye, utilized offshore holding companies in Luxembourg and partnership agreements to reduce corporation tax liability by up to £50 million a year."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "Mighty Earth linked chicken and pork sold by Tesco to illegal fires and deforestation of 400 hectares of Brazilian Amazon rainforest, including the loss of more than 220,000 trees.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://mightyearth.org/article/tesco-a-basket-of-problems-for-the-amazon/",
+              "title": "Tesco: A basket of problems for the Amazon - Mighty Earth",
+              "publishedAt": "2023-04-13T00:00:00.000Z",
+              "quote": "shows chicken and pork products sold in Tesco stores are linked to recent, illegal fires and deforestation of 400 hectares of Brazilian Amazon rainforest, equivalent to 560 Wembley football pitches, and the loss of more than 220,000 trees."
+            },
+            {
+              "url": "https://mightyearth.org/article/tesco-a-basket-of-problems-for-the-amazon/",
+              "title": "Tesco: A basket of problems for the Amazon - Mighty Earth",
+              "publishedAt": "2023-04-13T00:00:00.000Z",
+              "quote": "The joint investigation by Mighty Earth, Ecostorm and Repórter Brasil documents evidence of illegal fires set in September 2022, used to clear forests to grow high-protein soy, to feed pigs and poultry reared intensively in factory farms in the UK."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ticker": "ICG",
+  "generatedAt": "2026-10-23T13:19:32.075Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "Smith Law Firm sued ICG Investments and two other investment firms, alleging they fraudulently induced it to enter two loan agreements for talcum powder litigation.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://news.bloomberglaw.com/business-and-practice/talcum-law-firm-accuses-litigation-funders-of-pirating-cases",
+              "title": "Talcum Law Firm Accuses Litigation Funders of ‘Pirating’ Cases",
+              "publishedAt": "2026-02-13T00:00:00.000Z",
+              "quote": "A Mississippi-based plaintiffs’ firm accused three large investment firms of fraudulently inducing it to enter into two loan agreements on false grounds for talcum powder litigation."
+            },
+            {
+              "url": "https://news.bloomberglaw.com/business-and-practice/talcum-law-firm-accuses-litigation-funders-of-pirating-cases",
+              "title": "Talcum Law Firm Accuses Litigation Funders of ‘Pirating’ Cases",
+              "publishedAt": "2026-02-13T00:00:00.000Z",
+              "quote": "The Smith Law Firm filed suit Wednesday against Ellington Financial, ICG Investments, and Stifel Financial"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

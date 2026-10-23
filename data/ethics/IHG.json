@@ -1,0 +1,107 @@
+{
+  "ticker": "IHG",
+  "generatedAt": "2026-10-23T13:20:01.623Z",
+  "coverage": "full",
+  "causes": {
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "IHG was named in a US lawsuit alleging hotel-room price inflation, and the UK CMA subsequently opened an investigation into suspected sharing of competitively sensitive information through STR.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://usa.boutiquehotelier.com/costar-hilton-class-action-lawsuit/",
+              "title": "CoStar named alongside hotel operators in class-action suit",
+              "publishedAt": "2024-02-23T00:00:00.000Z",
+              "quote": "Luxury hotel operators including Hilton, Hyatt and Marriott have been accused of conspiring with commercial real estate company CoStar to make room rates artificially high."
+            },
+            {
+              "url": "https://usa.boutiquehotelier.com/costar-hilton-class-action-lawsuit/",
+              "title": "CoStar named alongside hotel operators in class-action suit",
+              "publishedAt": "2024-02-23T00:00:00.000Z",
+              "quote": "Other defendants include IHG Hotels & Resorts, Loews Hotels and the U.S. subsidiary of Accor."
+            },
+            {
+              "url": "https://www.businesstravelnewseurope.com/Accommodation/UK-s-CMA-launches-investigation-into-Hilton-IHG-and-Marriott",
+              "title": "CMA launches probe into Hilton, IHG and Marriott | Business Travel News Europe",
+              "publishedAt": "2026-03-02T00:00:00.000Z",
+              "quote": "The CMA said in a statement that it was investigating Marriott, Hilton and IHG Hotels & Resorts, alongside STR’s owner CoStar Group, as part of a probe into “suspected sharing” of sensitive information."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2012,
+          "summary": "Following an Office of Fair Trading allegation that IHG prevented online travel agents from discounting room-only accommodation, IHG agreed in February 2014 to end the price-fixing practice.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/IHG_Hotels_%26_Resorts",
+              "title": "IHG Hotels & Resorts",
+              "quote": "In July 2012, the Office of Fair Trading alleged that IHG had broken competition law by preventing online travel agents from discounting the price of room-only hotel accommodations."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/IHG_Hotels_%26_Resorts",
+              "title": "IHG Hotels & Resorts",
+              "quote": "In February 2014, IHG agreed to end the practice of price fixing."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2012,
+          "summary": "The ASA warned IHG to include VAT in advertised prices, and Which? subsequently reported that the company was continuing to violate VAT rules.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/IHG_Hotels_%26_Resorts",
+              "title": "IHG Hotels & Resorts",
+              "quote": "In May 2012, the UK Advertising Standards Authority (ASA) warned IHG that it must include VAT in its advertised prices."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/IHG_Hotels_%26_Resorts",
+              "title": "IHG Hotels & Resorts",
+              "quote": "In August 2012, a report by Which? magazine showed that IHG was continuing to violate VAT rules."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "Franchisees brought a class-action lawsuit against IHG alleging anti-competitive and fraudulent practices.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://airguide.info/lawsuit-against-ihg-adds-plaintiffs-more-predicted/",
+              "title": "Lawsuit against IHG adds plaintiffs; more predicted - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates",
+              "publishedAt": "2021-06-08T00:00:00.000Z",
+              "quote": "Connecticut and Texas franchisees have joined a class action lawsuit filed by a Louisiana hotelier against the world’s largest hotel franchise operator, IHG Hotels & Resorts."
+            },
+            {
+              "url": "https://airguide.info/lawsuit-against-ihg-adds-plaintiffs-more-predicted/",
+              "title": "Lawsuit against IHG adds plaintiffs; more predicted - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates",
+              "publishedAt": "2021-06-08T00:00:00.000Z",
+              "quote": "An attorney for the plaintiffs says he expects many more franchisees will join the suit, which alleges a variety of anti-competitive and fraudulent practices."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

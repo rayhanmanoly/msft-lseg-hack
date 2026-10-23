@@ -1,0 +1,262 @@
+{
+  "ticker": "BARC",
+  "generatedAt": "2026-10-23T13:14:24.614Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2005,
+          "summary": "Barclays was fined £290 million for manipulating Libor and Euribor submissions between 2005 and 2009, and four employees were subsequently jailed in 2016.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Barclays",
+              "title": "Barclays",
+              "quote": "In June 2012, as a result of an international investigation, Barclays Bank was fined a total of £290 million (US$450 million) for manipulating the daily settings of London Interbank Offered Rate (Libor) and the Euro Interbank Offered Rate (Euribor)."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Barclays",
+              "title": "Barclays",
+              "quote": "This happened between 2005 and 2009, as often as daily."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Barclays",
+              "title": "Barclays",
+              "quote": "Four employees were jailed in July 2016 for up to six-and-a-half years, with two others cleared after a retrial."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2024,
+          "summary": "Barclays was appealing a £50 million fine over undisclosed fees to Qatari entities.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/business/finance/uks-fca-demands-ex-barclays-ceo-gives-evidence-appeal-over-qatar-fees-fine-2024-02-29/",
+              "title": "UK's FCA demands ex-Barclays CEO gives evidence in appeal over Qatar fees fine | Reuters",
+              "publishedAt": "2024-02-29T00:00:00.000Z",
+              "quote": "Barclays' former CEO John Varley should be forced to give evidence at the British bank's appeal against a 50 million pound ($63 million) fine over undisclosed fees to Qatari entities, lawyers for Britain's financial watchdog said on Thursday."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2025,
+          "summary": "Britain's financial regulator fined Barclays £42 million for failing to evaluate money-laundering risks when serving Stunt & Co and WealthTek.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/sustainability/boards-policy-regulation/uk-fines-barclays-563-million-financial-crime-risk-management-lapses-2025-07-16/",
+              "title": "UK fines Barclays $56 million for lapses in financial crime control",
+              "publishedAt": "2025-07-16T00:00:00.000Z",
+              "quote": "42 million pounds ($56 million) on Wednesday for failing to evaluate money laundering risks while providing services to its clients Stunt & Co and WealthTek."
+            },
+            {
+              "url": "https://www.reuters.com/sustainability/boards-policy-regulation/uk-fines-barclays-563-million-financial-crime-risk-management-lapses-2025-07-16/",
+              "title": "UK fines Barclays $56 million for lapses in financial crime control",
+              "publishedAt": "2025-07-16T00:00:00.000Z",
+              "quote": "Barclays says self-reported findings, cooperated with FCA investigations"
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "tax_transparency": {
+      "incidents": [
+        {
+          "year": 2006,
+          "summary": "Barclays used a cross-border tax-avoidance strategy allowing it and partner banks to claim the same tax credits, a practice that ended after a 2006 exposé.",
+          "relativeScale": 4,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Barclays",
+              "title": "Barclays",
+              "quote": "The so-called \"double dip\" was a highly lucrative, cross-border tax avoidance strategy that exploited differences in how the UK and US tax systems treated specific investments, allowing Barclays and its American partner banks to both claim the same tax credits for a single income tax payment."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Barclays",
+              "title": "Barclays",
+              "quote": "Barclays was making over £1 billion a year from the practice."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Barclays",
+              "title": "Barclays",
+              "quote": "This practice ended after The Wall Street Journal published an exposé of the scam in a front page, column one, article on 30 June 2006 by Carrick Mollenkamp, which ensured that Parliament, the Bank of England, and the UK Inland Revenue and the American Internal Revenue Service would learn of it."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "Barclays sought to overturn an Indian court ruling that it had retaliated against a whistleblower, who was awarded two years' pay.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/business/finance/barclays-challenges-ruling-it-retaliated-against-whistleblower-india-2023-10-02/",
+              "title": "Barclays challenges ruling it 'retaliated' against whistleblower in India | Reuters",
+              "publishedAt": "2023-10-02T00:00:00.000Z",
+              "quote": "Barclays (BARC.L), opens new tab is seeking to overturn a ruling by an Indian court that found the British bank had retaliated against a whistleblower, legal filings show."
+            },
+            {
+              "url": "https://www.reuters.com/business/finance/barclays-challenges-ruling-it-retaliated-against-whistleblower-india-2023-10-02/",
+              "title": "Barclays challenges ruling it 'retaliated' against whistleblower in India | Reuters",
+              "publishedAt": "2023-10-02T00:00:00.000Z",
+              "quote": "Former IT manager awarded two years' pay by Indian court"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "diversity_inclusion": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "A London tribunal ordered Barclays to pay a former banker almost £50,000 for failing to adjust her working hours and for sex discrimination.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/world/uk/barclays-ordered-pay-ex-banker-63000-over-working-hours-sex-discrimination-2024-11-14/",
+              "title": "Barclays ordered to pay ex-banker $63,000 over working hours, sex discrimination | Reuters",
+              "publishedAt": "2024-11-14T00:00:00.000Z",
+              "quote": "Barclays (BARC.L), opens new tab has been ordered to pay a former banker with endometriosis and anxiety almost 50,000 pounds ($63,500) for failing to adjust her working hours and for sex discrimination, a London tribunal has ruled."
+            },
+            {
+              "url": "https://www.reuters.com/world/uk/barclays-ordered-pay-ex-banker-63000-over-working-hours-sex-discrimination-2024-11-14/",
+              "title": "Barclays ordered to pay ex-banker $63,000 over working hours, sex discrimination | Reuters",
+              "publishedAt": "2024-11-14T00:00:00.000Z",
+              "quote": "The East London Employment Tribunal told the bank to pay Anca Lacatus damages for personal injury and injury to her feelings."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "ActionAid criticised Barclays' fossil-fuel financing and alleged that it counted credit for Shell towards its sustainable-financing goal despite Shell retreating from climate commitments.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://actionaid.org/news/2024/how-barclays-continuous-destructive-funding-pushing-our-climate-brink",
+              "title": "How Barclays' continuous destructive funding is pushing our climate to the brink | ActionAid International",
+              "publishedAt": "2024-05-07T00:00:00.000Z",
+              "quote": "Between 2016 and 2022, it provided US$29.6 billion in financing for fossil fuel activities in countries in the Global South, with top clients including oil majors ExxonMobil, Shell, BP and TotalEnergies, as well as Adani."
+            },
+            {
+              "url": "https://actionaid.org/news/2024/how-barclays-continuous-destructive-funding-pushing-our-climate-brink",
+              "title": "How Barclays' continuous destructive funding is pushing our climate to the brink | ActionAid International",
+              "publishedAt": "2024-05-07T00:00:00.000Z",
+              "quote": "What's worse is that Barclays has counted its support for Shell towards its sustainable financing goal, providing US$10 billion in credit and calling it green, despite Shell rowing back on its climate commitments."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "Barclays faced a formal complaint alleging inadequate due diligence and breaches of responsible-business guidelines in underwriting a coal power plant near the Sundarbans.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.kcl.ac.uk/news/kings-legal-clinic-assists-in-climate-change-case-against-british-bank",
+              "title": "King's Legal Clinic assists claim against British bank for backing coal power plant in protected region | King's College London",
+              "publishedAt": "2026-09-03T00:00:00.000Z",
+              "quote": "King's Legal Clinic are assisting clients who have filed a complaint to the UK government Office for Responsible Business Conduct (ORBC) against Barclays Bank for its contribution to funding harmful emissions of a coal power plant next to the world’s largest mangrove forest."
+            },
+            {
+              "url": "https://www.kcl.ac.uk/news/kings-legal-clinic-assists-in-climate-change-case-against-british-bank",
+              "title": "King's Legal Clinic assists claim against British bank for backing coal power plant in protected region | King's College London",
+              "publishedAt": "2026-09-03T00:00:00.000Z",
+              "quote": "Farmer Animesh Mandal and environmentalist Sharif Jamil allege that Barclays has breached guidelines for responsible business conduct in failing to conduct due diligence and breaching OECD guidelines for Multinational Enterprises on Responsible Business Conduct in its decision to underwrite the coal plant."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "human_rights": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "Global Witness reported that Barclays earned $1.7 billion over five years from financing JBS while its operations contributed to the invasion and destruction of Indigenous territory in Brazil.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://globalwitness.org/en/campaigns/forests/barclays-earned-1-7bn-from-company-tied-to-indigenous-land-invasion/",
+              "title": "Barclays’ $1.7bn tied to Indigenous land invasion | Global Witness",
+              "publishedAt": "2024-09-26T00:00:00.000Z",
+              "quote": "British bank Barclays earned $1.7 billion from financing Brazilian meat giant JBS over the last five years as the company’s operations contributed to the invasion and destruction of an Indigenous territory in Brazil, an investigation led by climate organisation Global Witness can reveal."
+            },
+            {
+              "url": "https://globalwitness.org/en/campaigns/forests/barclays-earned-1-7bn-from-company-tied-to-indigenous-land-invasion/",
+              "title": "Barclays’ $1.7bn tied to Indigenous land invasion | Global Witness",
+              "publishedAt": "2024-09-26T00:00:00.000Z",
+              "quote": "The Apyterewa territory, home of the Parakanã people, in northern Brazil’s Pará state has seen more deforestation than any other Indigenous territory in recent years in the Brazilian Amazon."
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2025,
+          "summary": "Three NGOs brought a complaint against Barclays alleging failures to conduct adequate human-rights due diligence under OECD guidelines.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.gov.uk/government/publications/group-of-ngos-complaint-to-the-uk-ncp-about-barclays-bank/initial-assessment-group-of-ngos-complaint-to-the-uk-ncp-about-barclays",
+              "title": "Initial Assessment: Group of NGOs complaint to the UK NCP about Barclays - GOV.UK",
+              "publishedAt": "2025-07-25T00:00:00.000Z",
+              "quote": "The complaint has been brought to the UK NCP against Barclays (‘Barclays’ or ‘respondent’), a multinational commercial bank based in the UK."
+            },
+            {
+              "url": "https://www.gov.uk/government/publications/group-of-ngos-complaint-to-the-uk-ncp-about-barclays-bank/initial-assessment-group-of-ngos-complaint-to-the-uk-ncp-about-barclays",
+              "title": "Initial Assessment: Group of NGOs complaint to the UK NCP about Barclays - GOV.UK",
+              "publishedAt": "2025-07-25T00:00:00.000Z",
+              "quote": "The complaint alleges that Barclays failed to adhere to Chapter II, paragraphs 2, 11,13 and 14; and also Chapter IV, paragraphs 3 and 5 of the OECD Guidelines, by failing to:\n\n- conduct adequate human rights due diligence"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

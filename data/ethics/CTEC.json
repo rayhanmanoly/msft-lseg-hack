@@ -1,0 +1,71 @@
+{
+  "ticker": "CTEC",
+  "generatedAt": "2026-10-23T13:16:29.637Z",
+  "coverage": "full",
+  "causes": {
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "The FDA issued a warning letter to Convatec subsidiary Unomedical over infusion-set validation, complaint handling and adverse-event reporting deficiencies.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.yahoo.com/news/articles/fda-warns-insulin-infusion-set-113902757.html",
+              "title": "FDA warns insulin infusion set maker Unomedical over leaks, mishandled complaints",
+              "publishedAt": "2026-03-02T00:00:00.000Z",
+              "quote": "Unomedical, a subsidiary of Convatec and a supplier of insulin infusion sets to diabetes tech firms, received a warning letter from the Food and Drug Administration in January."
+            },
+            {
+              "url": "https://www.yahoo.com/news/articles/fda-warns-insulin-infusion-set-113902757.html",
+              "title": "FDA warns insulin infusion set maker Unomedical over leaks, mishandled complaints",
+              "publishedAt": "2026-03-02T00:00:00.000Z",
+              "quote": "Between January 2023 and June 2025, Unomedical received more than 5,000 complaints related to leaking infusion sets, including reports of high blood sugar and diabetic ketoacidosis, according to the warning letter."
+            },
+            {
+              "url": "https://www.yahoo.com/news/articles/fda-warns-insulin-infusion-set-113902757.html",
+              "title": "FDA warns insulin infusion set maker Unomedical over leaks, mishandled complaints",
+              "publishedAt": "2026-03-02T00:00:00.000Z",
+              "quote": "The company closed more than 41,000 complaints received between June 2023 and June 2025 without investigation because the lot numbers were missing."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2026,
+          "summary": "Convatec recalled an affected lot of EsteemBody drainable ostomy pouches because a manufacturing issue could cause leakage, with the FDA recall remaining open.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=218809",
+              "title": "Class 2 Device Recall Convatec, EsteemBody Drainable Pouch",
+              "quote": "| Recall Status 1 | Open 3, Classified |"
+            },
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=218809",
+              "title": "Class 2 Device Recall Convatec, EsteemBody Drainable Pouch",
+              "quote": "| Manufacturer Reason for Recall | Drainable large pouch may leak due to manufacturing issue. |"
+            },
+            {
+              "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=218809",
+              "title": "Class 2 Device Recall Convatec, EsteemBody Drainable Pouch",
+              "quote": "2. Discontinue use and dispose of the affected product."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "EY provided independent limited assurance over selected 2025 greenhouse-gas emissions and energy data, finding no material departures from Convatec's reporting criteria."
+      ]
+    }
+  }
+}

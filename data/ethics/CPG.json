@@ -1,0 +1,206 @@
+{
+  "ticker": "CPG",
+  "generatedAt": "2026-10-23T13:16:05.729Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2005,
+          "summary": "Compass paid approximately £40 million to settle two lawsuits alleging bribery in UN catering procurement, after its internal investigation found serious irregularities.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Compass_Group",
+              "title": "Compass Group",
+              "quote": "Compass Group did not admit any legal liability and paid a confidential settlement in the region of £40m."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Compass_Group",
+              "title": "Compass Group",
+              "quote": "After its own £5 million, three-month internal investigation, Compass had declared it had discovered \"serious irregularities\" in its UN business, but that these were limited to \"only a few individuals\" who were dismissed: Peter R. Harris, Andy Seiwert and Doug Kerr."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Compass_Group",
+              "title": "Compass Group",
+              "quote": "The subsidiary Eurest Support Services was soon restructured and reformed along a new business model."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "A federal court ordered Compass subsidiary Foodbuy to pay $21.2 million for overbilling Gregory Packaging and engaging in unfair and deceptive trade practices.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.businesswire.com/news/home/20221004005363/en/Gregory-Packaging-Inc.-Wins-%2421.2M-Unfair-and-Deceptive-Trade-Practices-Case-Against-Global-Foodservice-Company-Foodbuy",
+              "title": "Gregory Packaging Inc. Wins $21.2M Unfair and Deceptive Trade Practices Case Against Global Foodservice Company Foodbuy",
+              "publishedAt": "2022-10-04T00:00:00.000Z",
+              "quote": "On August 4, 2022, U.S. District Court Judge Frank D. Whitney ordered Foodbuy to pay $21.2 million for overbilling Gregory Packaging, of which more than $14 million is a penalty for unfair and deceptive trade practices."
+            },
+            {
+              "url": "https://www.businesswire.com/news/home/20221004005363/en/Gregory-Packaging-Inc.-Wins-%2421.2M-Unfair-and-Deceptive-Trade-Practices-Case-Against-Global-Foodservice-Company-Foodbuy",
+              "title": "Gregory Packaging Inc. Wins $21.2M Unfair and Deceptive Trade Practices Case Against Global Foodservice Company Foodbuy",
+              "publishedAt": "2022-10-04T00:00:00.000Z",
+              "quote": "Foodbuy appealed that decision. Not only did Foodbuy lose its appeal, but the company was then ordered to pay more for engaging in unfair and deceptive trade practices."
+            },
+            {
+              "url": "https://www.businesswire.com/news/home/20221004005363/en/Gregory-Packaging-Inc.-Wins-%2421.2M-Unfair-and-Deceptive-Trade-Practices-Case-Against-Global-Foodservice-Company-Foodbuy",
+              "title": "Gregory Packaging Inc. Wins $21.2M Unfair and Deceptive Trade Practices Case Against Global Foodservice Company Foodbuy",
+              "publishedAt": "2022-10-04T00:00:00.000Z",
+              "quote": "The court further found that Foodbuy’s practices were “not unique” to Gregory Packaging, and Foodbuy engaged in a pattern of the same conduct with other manufacturers."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2016,
+          "summary": "Compass USA settled school-meal overcharging for $18 million in 2016.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Compass_Group",
+              "title": "Compass Group",
+              "quote": "Compass USA settled for $18 million on its overcharging on school meals in 2016."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2025,
+          "summary": "Compass Group USA agreed to a $6.94 million settlement over allegations that certain Canteen vending machines charged undisclosed higher prices for card purchases.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.classaction.org/news/6.94m-canteen-vending-class-action-settlement-ends-case-over-allegedly-hidden-extra-charge-for-card-payments",
+              "title": "$6.94M Canteen Vending Class Action Settlement Ends Case Over Allegedly Hidden Extra Charge for Card Payments",
+              "publishedAt": "2025-08-12T00:00:00.000Z",
+              "quote": "Compass Group USA has agreed to pay a $6.94 million settlement to resolve a consolidated class action lawsuit that alleged the company failed to inform consumers that some of its Canteen vending machines charge more than the displayed price for items bought with a payment card."
+            },
+            {
+              "url": "https://www.classaction.org/news/6.94m-canteen-vending-class-action-settlement-ends-case-over-allegedly-hidden-extra-charge-for-card-payments",
+              "title": "$6.94M Canteen Vending Class Action Settlement Ends Case Over Allegedly Hidden Extra Charge for Card Payments",
+              "publishedAt": "2025-08-12T00:00:00.000Z",
+              "quote": "The deal covers all consumers who, at any time between 2014 and July 9, 2025, made one or more purchases from a qualifying vending machine in the United States using a credit, debit or prepaid card."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "Compass Group USA and 365 Retail Markets jointly agreed to pay $6.8 million to settle allegations of collecting vending-machine users’ fingerprints without proper notice and consent.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/legal/litigation/companies-ink-68-mln-deal-over-vending-machine-biometric-data-suit-2021-10-28/",
+              "title": "Companies ink $6.8 mln deal over vending machine biometric data suit | Reuters",
+              "publishedAt": "2021-10-28T00:00:00.000Z",
+              "quote": "Compass Group USA Inc and a retail technology company have agreed to pay $6.8 million to resolve a proposed class action alleging they collected fingerprint data from vending machine users without proper notice and consent, according to Thursday filings in Illinois federal court."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "diversity_inclusion": {
+      "incidents": [
+        {
+          "year": 2019,
+          "summary": "Compass Group USA agreed to pay $10,000 and undertake training to settle an EEOC lawsuit alleging sex discrimination in promotion and retaliation against a female employee.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.eeoc.gov/newsroom/compass-group-usa-settles-eeoc-lawsuit-charging-sex-discrimination-promotion",
+              "title": "Compass Group USA Settles EEOC Lawsuit Charging Sex Discrimination in Promotion | U.S. Equal Employment Opportunity Commission",
+              "publishedAt": "2019-11-22T00:00:00.000Z",
+              "quote": "Compass Group USA, Inc. will pay $10,000 to settle a sex discrimination and retaliation lawsuit filed by the U.S. Equal Employment Opportunity Commission (EEOC), the federal agency announced today."
+            },
+            {
+              "url": "https://www.eeoc.gov/newsroom/compass-group-usa-settles-eeoc-lawsuit-charging-sex-discrimination-promotion",
+              "title": "Compass Group USA Settles EEOC Lawsuit Charging Sex Discrimination in Promotion | U.S. Equal Employment Opportunity Commission",
+              "publishedAt": "2019-11-22T00:00:00.000Z",
+              "quote": "The agency also said that, when she complained about her non-selection, Joyce was demoted and transferred to a different location as retaliation."
+            },
+            {
+              "url": "https://www.eeoc.gov/newsroom/compass-group-usa-settles-eeoc-lawsuit-charging-sex-discrimination-promotion",
+              "title": "Compass Group USA Settles EEOC Lawsuit Charging Sex Discrimination in Promotion | U.S. Equal Employment Opportunity Commission",
+              "publishedAt": "2019-11-22T00:00:00.000Z",
+              "quote": "requires the company to pay $10,000 in monetary relief to Joyce; provide training to executive chefs, managers and employees at two of the company's locations; and post an anti-discrim­ination notice."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "supply_chain": {
+      "incidents": [
+        {
+          "year": 2019,
+          "summary": "Compass subsidiary Chartwells Higher Education ended its relationship with cafeteria labour supplier Cenikor following allegations of unfree labour and federal and state labour-law investigations.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Compass_Group",
+              "title": "Compass Group",
+              "quote": "In 2019 Chartwells Higher Education, a Compass Group subsidiary, ended its relationship with Cenikor, a drug rehabilitation organization that had been providing labor for Louisiana State University's cafeterias."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Compass_Group",
+              "title": "Compass Group",
+              "quote": "This followed the publication of allegations that Cenikor was supplying unfree labor (a type of slave labor) as contract labor and the opening of federal and state investigations into labor law violations."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2008,
+          "summary": "Eurest Dining Services reported that routine surveillance samples had tested positive for Listeria monocytogenes while it supplied seven Ontario correctional facilities.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Compass_Group",
+              "title": "Compass Group",
+              "quote": "The supplier of food to seven of Ontario's correctional facilities, Eurest Dining Services, informed the Halton Regional Health Department that some samples taken during routine surveillance had tested positive for Listeria monocytogenes on 21 November 2008."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

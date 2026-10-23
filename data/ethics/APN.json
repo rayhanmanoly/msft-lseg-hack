@@ -1,0 +1,46 @@
+{
+  "ticker": "APN",
+  "generatedAt": "2026-10-23T13:30:38.673Z",
+  "coverage": "full",
+  "causes": {
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2019,
+          "summary": "Applied Nutrition pleaded guilty to health and safety failings after a worker lost three fingers and part of his palm while cleaning machinery, and was fined £70,000 plus costs.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.lancs.live/news/lancashire-news/workers-fingers-severed-working-sports-21887460",
+              "title": "Worker's fingers severed while working at sports nutrition supplier Applied Nutrition | Lancs Live",
+              "publishedAt": "2021-10-18T00:00:00.000Z",
+              "quote": "This resulted in three of the man's fingers and part of the palm being severed on his right hand."
+            },
+            {
+              "url": "https://www.lancs.live/news/lancashire-news/workers-fingers-severed-working-sports-21887460",
+              "title": "Worker's fingers severed while working at sports nutrition supplier Applied Nutrition | Lancs Live",
+              "publishedAt": "2021-10-18T00:00:00.000Z",
+              "quote": "An investigation by the Health and Safety Executive (HSE) found that the company had no risk assessments or safe systems of work in place."
+            },
+            {
+              "url": "https://www.foodmanufacture.co.uk/Article/2021/09/30/Applied-Nutrition-Ltd-fined-after-worker-s-hand-severed/",
+              "title": "Applied Nutrition Ltd fined after worker’s hand severed",
+              "publishedAt": "2021-09-30T00:00:00.000Z",
+              "quote": "Applied Nutrition Ltd of 2 Acornfield Road, Knowsley Industrial Park, Liverpool, pleaded guilty to breaching Section 2 (1) of the Health and Safety at Work etc. Act 1974. The company was fined £70,000 and ordered to pay costs of £4,551.10."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "diversity_inclusion": {
+      "incidents": [],
+      "positives": [
+        "Applied Nutrition's ten new Premium Whey Protein Powder flavors were reported as Halal certified."
+      ]
+    }
+  }
+}

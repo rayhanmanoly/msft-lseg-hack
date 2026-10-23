@@ -1,0 +1,95 @@
+{
+  "ticker": "IMB",
+  "generatedAt": "2026-10-23T13:21:18.930Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2001,
+          "summary": "Investigative reporting alleged that Imperial Brands’ confidential Laos tobacco agreement froze taxes for 25 years and delivered millions of dollars to a relative of the country’s former leader.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://thediplomat.com/2025/06/how-a-secret-tobacco-deal-in-laos-enriched-a-political-insider/",
+              "title": "How a Secret Tobacco Deal in Laos Enriched a Political Insider – The Diplomat",
+              "publishedAt": "2025-06-17T00:00:00.000Z",
+              "quote": "A confidential contract between tobacco giant Imperial Brands and Laos has delivered millions of dollars to a relative of the impoverished Southeast Asian country’s former leader, documents obtained by The Examination show."
+            },
+            {
+              "url": "https://thediplomat.com/2025/06/how-a-secret-tobacco-deal-in-laos-enriched-a-political-insider/",
+              "title": "How a Secret Tobacco Deal in Laos Enriched a Political Insider – The Diplomat",
+              "publishedAt": "2025-06-17T00:00:00.000Z",
+              "quote": "Signed behind closed doors in 2001, the contract includes a 25-year tax freeze that has kept cigarette prices among the lowest in the world while smoking rates in the communist nation have remained among the highest in the region."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2024,
+          "summary": "2ONE Labs and Performance Plus Marketing sued Imperial subsidiaries over alleged Zone trademark infringement and allegedly false statements used to obtain the trademark.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.globenewswire.com/news-release/2024/10/07/2959378/0/en/2ONE-Labs-and-Performance-Plus-Marketing-sellers-of-2ONE-Nicotine-Pouches-Allege-Fraud-and-Seek-Damages-in-Zone-Trademark-Infringement-Case-Against-Imperial-Brands.html",
+              "title": "2ONE Labs and Performance Plus Marketing, sellers of 2ONE",
+              "publishedAt": "2024-10-07T00:00:00.000Z",
+              "quote": "The suit alleges that Imperial’s Zone products infringe the 2ONE® tobacco-free nicotine pouch brand and that the infringement is willful."
+            },
+            {
+              "url": "https://www.globenewswire.com/news-release/2024/10/07/2959378/0/en/2ONE-Labs-and-Performance-Plus-Marketing-sellers-of-2ONE-Nicotine-Pouches-Allege-Fraud-and-Seek-Damages-in-Zone-Trademark-Infringement-Case-Against-Imperial-Brands.html",
+              "title": "2ONE Labs and Performance Plus Marketing, sellers of 2ONE",
+              "publishedAt": "2024-10-07T00:00:00.000Z",
+              "quote": "The suit alleges Imperial Brands made false statements by claiming a significantly earlier use of their mark in commerce than had occurred."
+            },
+            {
+              "url": "https://www.globenewswire.com/news-release/2024/10/07/2959378/0/en/2ONE-Labs-and-Performance-Plus-Marketing-sellers-of-2ONE-Nicotine-Pouches-Allege-Fraud-and-Seek-Damages-in-Zone-Trademark-Infringement-Case-Against-Imperial-Brands.html",
+              "title": "2ONE Labs and Performance Plus Marketing, sellers of 2ONE",
+              "publishedAt": "2024-10-07T00:00:00.000Z",
+              "quote": "The case (number 2:24-cv-08124) is before the US District Court for the Central District of California, and is styled 2ONE Labs, Inc., and Performance Plus Marketing, Inc. vs. ITG Brands, LLC and Imperial Tobacco Limited."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "supply_chain": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "Imperial and BAT sought to strike out a claim by Malawi farmers alleging multi-year exploitation involving child labour and forced labour.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.theguardian.com/business/2021/may/19/tobacco-firms-in-move-to-strike-out-malawi-exploitation-case",
+              "title": "Tobacco firms in move to strike out Malawi exploitation case | Tobacco industry | The Guardian",
+              "publishedAt": "2021-05-19T00:00:00.000Z",
+              "quote": "BAT and Imperial will on Wednesday ask the high court in London to dismiss watershed proceedings"
+            },
+            {
+              "url": "https://www.leighday.co.uk/news/press-releases/2021-news/british-american-tobacco-and-imperial-aim-to-strike-out-claims-by-impoverished-malawi-farmers/",
+              "title": "British American Tobacco and Imperial aim to strike out claims by impoverished Malawi farmers",
+              "publishedAt": "2021-05-19T00:00:00.000Z",
+              "quote": "the companies’ actions, for the sake of maximising profits, have resulted over many years in their systemic exploitation."
+            },
+            {
+              "url": "https://www.leighday.co.uk/news/press-releases/2021-news/british-american-tobacco-and-imperial-aim-to-strike-out-claims-by-impoverished-malawi-farmers/",
+              "title": "British American Tobacco and Imperial aim to strike out claims by impoverished Malawi farmers",
+              "publishedAt": "2021-05-19T00:00:00.000Z",
+              "quote": "Their conditions of work amount to child labour, forced labour, unlawful compulsory labour and exploitation under Malawian law."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    }
+  }
+}

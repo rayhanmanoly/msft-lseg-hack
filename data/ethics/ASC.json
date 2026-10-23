@@ -1,0 +1,73 @@
+{
+  "ticker": "ASC",
+  "generatedAt": "2026-10-23T13:31:07.145Z",
+  "coverage": "full",
+  "causes": {
+    "climate_emissions": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "Following a CMA investigation into its green claims, ASOS signed a formal agreement in March 2024 to use accurate and clear environmental claims and change how it promotes its green credentials.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.gov.uk/cma-cases/asos-boohoo-and-asda-greenwashing-investigation",
+              "title": "Fashion greenwashing: investigation into ASOS, Boohoo and Asda",
+              "quote": "27 March 2024: ASOS, Boohoo and George at Asda have signed formal agreements to use only accurate and clear green claims."
+            },
+            {
+              "url": "https://www.gov.uk/cma-cases/asos-boohoo-and-asda-greenwashing-investigation",
+              "title": "Fashion greenwashing: investigation into ASOS, Boohoo and Asda",
+              "quote": "The undertakings secured by the CMA commit ASOS, Boohoo and George at Asda to change the way they display, describe, and promote their green credentials, meaning millions of customers can expect to see clear and accurate green claims."
+            },
+            {
+              "url": "https://www.manifest.co.uk/asos-boohoo-and-george-at-asda-commit-to-clear-green-claims/",
+              "title": "ASOS, Boohoo and George at Asda commit to clear green claims - Minerva-Manifest",
+              "publishedAt": "2024-03-27T00:00:00.000Z",
+              "quote": "All three firms must regularly provide the CMA with reports on how they are complying with the commitments and how they are taking steps to improve their internal processes."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": [
+        "ASOS announced that success in reducing waste and carbon would be linked to future management pay."
+      ]
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2017,
+          "summary": "GMB accused ASOS of refusing to discuss unionisation and recognising a more sympathetic union with a no-strike agreement at its Barnsley warehouse, where workers had alleged bullying and other welfare problems.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.business-humanrights.org/en/latest-news/uk-asos-boohoo-warehouse-workers-struggle-for-union-recognition-includes-company-comments/",
+              "title": "UK: ASOS & Boohoo warehouse workers struggle for union recognition; Includes company comments - Business and Human Rights Centre",
+              "publishedAt": "2020-03-20T00:00:00.000Z",
+              "quote": "Workers who alleged bullying and racism, worsening mental health conditions, and even one who had a heart attack... all hoped to gain union recognition..."
+            },
+            {
+              "url": "https://www.business-humanrights.org/en/latest-news/uk-asos-boohoo-warehouse-workers-struggle-for-union-recognition-includes-company-comments/",
+              "title": "UK: ASOS & Boohoo warehouse workers struggle for union recognition; Includes company comments - Business and Human Rights Centre",
+              "publishedAt": "2020-03-20T00:00:00.000Z",
+              "quote": "GMB say ASOS wouldn't meet... to discuss the union efforts..."
+            },
+            {
+              "url": "https://www.business-humanrights.org/en/latest-news/uk-asos-boohoo-warehouse-workers-struggle-for-union-recognition-includes-company-comments/",
+              "title": "UK: ASOS & Boohoo warehouse workers struggle for union recognition; Includes company comments - Business and Human Rights Centre",
+              "publishedAt": "2020-03-20T00:00:00.000Z",
+              "quote": "GMB accused ASOS of... recognising a... more sympathetic union... [with] only four members in the warehouse... and that its recognition agreement contains a no-strike clause..."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    }
+  }
+}

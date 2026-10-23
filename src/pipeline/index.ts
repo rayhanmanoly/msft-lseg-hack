@@ -18,7 +18,8 @@ import {
   type VetResult,
 } from '@/lib/schemas';
 import { z } from 'zod';
-import { demoAllocate, demoReport, demoRules, demoScreen, demoVet } from './demo';
+import { demoAllocate, demoRules, demoVet } from './demo';
+import { buildReport, realAllocate, realData, realVet, screenByRules } from './real';
 
 /**
  * The only place that switches between mocks and real implementations.
@@ -27,11 +28,11 @@ import { demoAllocate, demoReport, demoRules, demoScreen, demoVet } from './demo
 
 export async function loadUniverse(): Promise<Company[]> {
   const universe = z.array(companySchema);
-  return useMocks() ? loadFixture('companies.json', universe) : loadJson('data/universe.json', universe);
+  return useMocks() && !realData() ? loadFixture('companies.json', universe) : loadJson('data/universe.json', universe);
 }
 
 export async function screenStage(session: Session): Promise<ScreenResult> {
-  if (demoRules()) return demoScreen(session.profile!, await loadUniverse());
+  if (realData() || demoRules()) return screenByRules(session.profile!, await loadUniverse());
   if (useMocks()) return loadFixture('screen-result.json', screenResultSchema);
   return runScreen(session.profile!, await loadUniverse());
 }
@@ -47,12 +48,21 @@ export function keptTickers(session: Session): string[] {
 }
 
 export async function vetStage(session: Session): Promise<VetResult> {
+  if (realData()) return realVet(session.profile!, keptTickers(session));
   if (demoRules()) return demoVet(session.profile!, keptTickers(session));
   if (useMocks()) return loadFixture('vet-result.json', vetResultSchema);
   return runVet(session.profile!, keptTickers(session));
 }
 
 export async function allocateStage(session: Session): Promise<Portfolio> {
+  if (realData()) {
+    return realAllocate({
+      universe: await loadUniverse(),
+      vet: session.vet!,
+      confirmation: session.vetConfirmation,
+      profile: session.profile!,
+    });
+  }
   if (useMocks() && !demoRules()) return loadFixture('portfolio.json', portfolioSchema);
   const universe = await loadUniverse();
   const vet = session.vet!;
@@ -68,7 +78,7 @@ export async function allocateStage(session: Session): Promise<Portfolio> {
 }
 
 export async function reportStage(session: Session): Promise<ReportSpec> {
-  if (demoRules()) return demoReport({ profile: session.profile!, vet: session.vet!, portfolio: session.portfolio! });
+  if (realData() || demoRules()) return buildReport({ profile: session.profile!, vet: session.vet!, portfolio: session.portfolio! });
   if (useMocks()) return loadFixture('report-spec.json', reportSpecSchema);
   return runReport({ profile: session.profile!, vet: session.vet!, portfolio: session.portfolio! });
 }

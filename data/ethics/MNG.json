@@ -1,0 +1,68 @@
+{
+  "ticker": "MNG",
+  "generatedAt": "2026-10-23T13:23:44.848Z",
+  "coverage": "full",
+  "causes": {
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "The Financial Ombudsman Service found that Ascentric, acquired by M&G in 2020, failed to identify CFB bonds as non-standard, speculative investments during due diligence.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.privatebankerinternational.com/news/mg-action-royal-london-risky/",
+              "title": "M&G initiates legal action against Royal London over risky investments",
+              "publishedAt": "2024-12-26T00:00:00.000Z",
+              "quote": "In March 2024, the FOS concluded that Ascentric’s due diligence failed to identify the CFB bonds as non-standard and speculative, posing a high risk of consumer detriment."
+            },
+            {
+              "url": "https://www.privatebankerinternational.com/news/mg-action-royal-london-risky/",
+              "title": "M&G initiates legal action against Royal London over risky investments",
+              "publishedAt": "2024-12-26T00:00:00.000Z",
+              "quote": "M&G, which announced the acquisition of Ascentric with £15.5bn ($19.42bn) in assets in 2020, is now facing regulatory pressure to compensate affected clients."
+            },
+            {
+              "url": "https://www.privatebankerinternational.com/news/mg-action-royal-london-risky/",
+              "title": "M&G initiates legal action against Royal London over risky investments",
+              "publishedAt": "2024-12-26T00:00:00.000Z",
+              "quote": "M&G’s lawsuit states that these bonds lacked a liquid market outside of IFDL’s platform, leading to customer complaints about the inability to sell them and their classification as “minibonds,” which are known for being high-risk."
+            }
+          ],
+          "severity": 1
+        },
+        {
+          "year": 2023,
+          "summary": "M&G faced a formal FCA complaint alleging that it failed to defend Eros Media World bondholders’ interests while acting as trustee.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.thisismoney.co.uk/money/markets/article-12229693/M-G-fire-Eros-Media-World-Bollywood-bond-drama.html",
+              "title": "M&G under fire over Eros Media World Bollywood bond drama | This is Money",
+              "publishedAt": "2023-06-24T00:00:00.000Z",
+              "quote": "M&G, which manages more than £340 billion of investors' cash, has been accused of failing to defend the interests of bondholders."
+            },
+            {
+              "url": "https://www.thisismoney.co.uk/money/markets/article-12229693/M-G-fire-Eros-Media-World-Bollywood-bond-drama.html",
+              "title": "M&G under fire over Eros Media World Bollywood bond drama | This is Money",
+              "publishedAt": "2023-06-24T00:00:00.000Z",
+              "quote": "Now a formal complaint against the firm has been lodged with Britain's main financial regulator, the Financial Conduct Authority."
+            },
+            {
+              "url": "https://www.thisismoney.co.uk/money/markets/article-12229693/M-G-fire-Eros-Media-World-Bollywood-bond-drama.html",
+              "title": "M&G under fire over Eros Media World Bollywood bond drama | This is Money",
+              "publishedAt": "2023-06-24T00:00:00.000Z",
+              "quote": "M&G was appointed as trustee within weeks of the new bond proposal. It was tasked with coordinating and representing bondholders should the need arise."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

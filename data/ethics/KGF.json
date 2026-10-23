@@ -1,0 +1,19 @@
+{
+  "ticker": "KGF",
+  "generatedAt": "2026-10-23T13:21:28.545Z",
+  "coverage": "full",
+  "causes": {
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Kingfisher reduced operational Scope 1 and 2 emissions by 66% since 2016, exceeding its science-based target of 37.8% by 2025."
+      ]
+    },
+    "biodiversity": {
+      "incidents": [],
+      "positives": [
+        "Bioregional reports that 98% of Kingfisher’s wood and paper is sustainably sourced."
+      ]
+    }
+  }
+}

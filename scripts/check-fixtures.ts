@@ -16,6 +16,7 @@ import {
 async function main() {
   const checks: [string, z.ZodType][] = [
     ['fixtures/companies.json', z.array(companySchema)],
+    ['data/universe.json', z.array(companySchema)],
     ['fixtures/screen-result.json', screenResultSchema],
     ['fixtures/vet-result.json', vetResultSchema],
     ['fixtures/portfolio.json', portfolioSchema],

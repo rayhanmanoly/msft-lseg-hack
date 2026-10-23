@@ -1,0 +1,19 @@
+{
+  "ticker": "MTLN",
+  "generatedAt": "2026-10-23T13:23:21.360Z",
+  "coverage": "full",
+  "causes": {
+    "supply_chain": {
+      "incidents": [],
+      "positives": [
+        "Metlen’s Metallurgy Sector in Greece achieved recertification to the Aluminium Stewardship Initiative’s Chain of Custody Standard V2."
+      ]
+    },
+    "anti_corruption": {
+      "incidents": [],
+      "positives": [
+        "Metlen received conformity attestations from independent body TÜV HELLAS for ISO 37002 whistleblowing management and ISO 37008 internal investigation standards."
+      ]
+    }
+  }
+}

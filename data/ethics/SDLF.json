@@ -1,0 +1,50 @@
+{
+  "ticker": "SDLF",
+  "generatedAt": "2026-10-23T13:28:37.412Z",
+  "coverage": "full",
+  "causes": {
+    "diversity_inclusion": {
+      "incidents": [
+        {
+          "year": 2007,
+          "summary": "Standard Life's head of life and pensions used a racist phrase during an office presentation and apologised, but remained in his role without disciplinary action.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Standard_Life",
+              "title": "Standard Life",
+              "quote": "In January 2007, the head of Standard Life's life and pensions business, Trevor Matthews, used the racist phrase \"nigger in the woodpile\" while giving a presentation at one of the company's Edinburgh offices."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Standard_Life",
+              "title": "Standard Life",
+              "quote": "After issuing an apology, Mr Matthews remained in his job and no disciplinary action was taken."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "supply_chain": {
+      "incidents": [],
+      "positives": [
+        "Standard Life Aberdeen sold most of its Boohoo holdings following allegations of unsafe working conditions and illegally low pay in Boohoo's supply chain."
+      ]
+    },
+    "customer_practices": {
+      "incidents": [],
+      "positives": [
+        "Standard Life Master Trust was onboarding 7,000 victims of pensions fraud."
+      ]
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Standard Life met its 2025 climate goals, including a 25% reduction in the emissions intensity of its listed equity and credit portfolio."
+      ]
+    }
+  }
+}

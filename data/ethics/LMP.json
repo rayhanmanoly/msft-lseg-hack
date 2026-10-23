@@ -1,0 +1,14 @@
+{
+  "ticker": "LMP",
+  "generatedAt": "2026-10-23T13:22:27.961Z",
+  "coverage": "full",
+  "causes": {
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "A 275kWp solar installation was completed at LondonMetric’s Coventry warehouse leased to Aubrey Allen.",
+        "LondonMetric’s revolving credit facilities linked borrowing costs to sustainability targets covering energy ratings, renewable installations and building standards."
+      ]
+    }
+  }
+}

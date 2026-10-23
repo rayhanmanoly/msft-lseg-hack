@@ -1,0 +1,114 @@
+{
+  "ticker": "STAN",
+  "generatedAt": "2026-10-23T13:29:12.964Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2019,
+          "summary": "Standard Chartered paid $1.1 billion over money-laundering control deficiencies and sanctions violations in 2019, and settled a related investor lawsuit in 2025 for an undisclosed amount.",
+          "relativeScale": 5,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Standard_Chartered",
+              "title": "Standard Chartered",
+              "quote": "On 9 April 2019, Standard Chartered paid $1.1 billion to the United Kingdom Government and the United States of America's Department of the Treasury over deficiencies in the bank's money laundering control regime and for violating financial sanctions against Myanmar, Zimbabwe, Cuba, Sudan, Syria, and Iran."
+            },
+            {
+              "url": "https://www.reuters.com/business/finance/stanchart-loses-bid-cut-us-sanctions-breach-claims-uk-lawsuit-2024-06-17/",
+              "title": "StanChart loses bid to cut US sanctions breach claims from UK lawsuit | Reuters",
+              "publishedAt": "2024-06-17T00:00:00.000Z",
+              "quote": "More than 200 investors are suing Standard Chartered (STAN.L), opens new tab at London's High Court for allegedly untrue statements about its sanctions non-compliance between 2007 and 2019."
+            },
+            {
+              "url": "https://www.bloomberg.com/news/articles/2025-12-05/stanchart-settles-1-5-billion-iranian-sanction-suit-in-london",
+              "title": "StanChart Settles £1.5 Billion Iranian Sanction Suit in London - Bloomberg",
+              "publishedAt": "2025-12-05T00:00:00.000Z",
+              "quote": "Standard Chartered Plc has settled an investor lawsuit worth £1.5 billion ($2 billion) over allegations it systematically breached sanctions against Iran to win new business."
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2012,
+          "summary": "Standard Chartered agreed to pay $667 million in two 2012 sanctions-related penalties over hidden transactions involving Iran and other countries.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Standard_Chartered",
+              "title": "Standard Chartered",
+              "quote": "In August 2012, Standard Chartered agreed to pay $340 million to the New York State Department of Financial Services over charges that the bank worked with the government of Iran to hide $250 billion in transactions in order to evade sanctions."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Standard_Chartered",
+              "title": "Standard Chartered",
+              "quote": "In December 2012, Standard Chartered agreed to pay a $327 million fine for having hidden similar transactions with Iran, Myanmar, Libya, and Sudan."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2025,
+          "summary": "Liquidators sued Standard Chartered over allegedly enabling 1MDB-related fraud causing more than $2.7 billion in losses, and a Singapore court rejected the bank's application to strike out the lawsuit.",
+          "relativeScale": 4,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/business/finance/liquidators-file-legal-proceedings-against-standard-chartered-bank-over-1mdb-2025-07-01/",
+              "title": "Standard Chartered Bank faces $2.7 billion lawsuit over alleged role in 1MDB fraud | Reuters",
+              "publishedAt": "2025-07-01T00:00:00.000Z",
+              "quote": "Liquidators trying to recover money from Malaysia's sovereign wealth fund 1MDB have sued Standard Chartered Bank in Singapore, alleging it enabled fraud that led to more than $2.7 billion in financial losses more than 10 years ago."
+            },
+            {
+              "url": "https://www.reuters.com/business/finance/singapore-court-clears-way-27-bln-suit-against-standard-chartered-over-alleged-2025-11-24/",
+              "title": "Singapore court clears way for $2.7 bln suit against Standard Chartered over alleged role in 1MDB fraud | Reuters",
+              "publishedAt": "2025-11-24T00:00:00.000Z",
+              "quote": "Singapore High Court dismisses Standard Chartered's application to strike out lawsuit"
+            },
+            {
+              "url": "https://www.reuters.com/business/finance/singapore-court-clears-way-27-bln-suit-against-standard-chartered-over-alleged-2025-11-24/",
+              "title": "Singapore court clears way for $2.7 bln suit against Standard Chartered over alleged role in 1MDB fraud | Reuters",
+              "publishedAt": "2025-11-24T00:00:00.000Z",
+              "quote": "Standard Chartered to appeal the decision, says claims \"brought by shell companies\""
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "Market Forces criticised Standard Chartered's financing of fossil-fuel expansion projects in 2021 as undermining its net-zero commitment.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.banktrack.org/article/analysis_standard_chartered_funds_fossil_fuel_projects_in_2021_that_will_emit_five_times_the_entire_uk_s_annual_emissions",
+              "title": "Standard Chartered funded fossil fuel projects in 2021 that will emit ...",
+              "quote": "In 2021 Standard Chartered funded fossil fuel expansion projects that will emit seven times the entire UK’s annual carbon emissions across their project lifetimes"
+            },
+            {
+              "url": "https://www.banktrack.org/article/analysis_standard_chartered_funds_fossil_fuel_projects_in_2021_that_will_emit_five_times_the_entire_uk_s_annual_emissions",
+              "title": "Standard Chartered funded fossil fuel projects in 2021 that will emit ...",
+              "quote": "This research shows how despite having committed to net zero by 2050, Standard Chartered continues to undermine this goal through its financing."
+            }
+          ],
+          "severity": 4
+        }
+      ],
+      "positives": [
+        "Standard Chartered obtained independent EY verification of the scenarios and mathematical rigour underlying its interim climate targets."
+      ]
+    }
+  }
+}

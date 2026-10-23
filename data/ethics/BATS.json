@@ -1,0 +1,115 @@
+{
+  "ticker": "BATS",
+  "generatedAt": "2026-10-23T13:14:56.390Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "BAT faced a payment of more than US$635 million in a North Korea sanctions case and subsequently faced a shareholder lawsuit alleging inadequate disclosure of the sanctions breaches.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/legal/british-american-tobacco-plc-plead-guilty-nkorea-sanctions-violations-court-2023-04-25/",
+              "title": "British American Tobacco Plc to pay more than $635 mln in North Korea sanctions case | Reuters",
+              "publishedAt": "2023-04-25T00:00:00.000Z",
+              "quote": "British American Tobacco Plc to pay more than $635 mln in North Korea sanctions case"
+            },
+            {
+              "url": "https://www.reuters.com/sustainability/boards-policy-regulation/british-american-tobacco-faces-uk-shareholders-lawsuit-over-north-korea-2026-03-04/",
+              "title": "British American Tobacco faces UK shareholders' lawsuit over North Korea sanctions breaches | Reuters",
+              "publishedAt": "2026-03-04T00:00:00.000Z",
+              "quote": "British American Tobacco faces UK shareholders' lawsuit over North Korea sanctions breaches"
+            }
+          ],
+          "severity": 4
+        }
+      ],
+      "positives": []
+    },
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2012,
+          "summary": "A Canadian tobacco class action involving BAT subsidiary Imperial Tobacco Canada produced an award exceeding C$15 billion against three companies in 2015, while Reuters reported in February 2025 that the case remained unresolved.",
+          "relativeScale": 5,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/British_American_Tobacco",
+              "title": "British American Tobacco",
+              "quote": "The three largest Canadian tobacco companies, Imperial Tobacco Canada (a division of British American Tobacco), JTI-Macdonald Corp and Rothmans Benson & Hedges, were the subject of the largest class action lawsuit in Canadian history."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/British_American_Tobacco",
+              "title": "British American Tobacco",
+              "quote": "On 1 June 2015, Quebec Superior Court Justice Brian Riordan has awarded more than $15 billion to Quebec smokers in a landmark case that pitted them against three Canadian cigarette giants, including JTI-Macdonald Corp."
+            },
+            {
+              "url": "https://www.reuters.com/business/retail-consumer/bat-takes-near-8-billion-charge-over-canada-lawsuit-headwinds-loom-2025-02-13/",
+              "title": "BAT takes $8 bln charge for Canadian settlement, warns on 2025 sales",
+              "publishedAt": "2025-02-13T00:00:00.000Z",
+              "quote": "Company takes almost $8 bln provision, case still unresolved"
+            }
+          ],
+          "severity": 5
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2008,
+          "summary": "A BBC documentary examined BAT's marketing to younger Africans, and BAT's Head of Science and Regulation acknowledged advertisements targeting children in three African countries as disappointing.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/British_American_Tobacco",
+              "title": "British American Tobacco",
+              "quote": "Many of the practices uncovered by Bannatyne appeared to break BAT's own code of conduct and company standards."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/British_American_Tobacco",
+              "title": "British American Tobacco",
+              "quote": "Towards the end of the programme, Bannatyne interviewed Chris Proctor, Head of Science and Regulation, in which Proctor admitted that advertisements targeting children from three African countries were 'disappointing'."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "tax_transparency": {
+      "incidents": [
+        {
+          "year": 2014,
+          "summary": "HMRC fined BAT £650,000 for oversupplying the Belgian tobacco market with products likely to return illegally to the UK without UK excise taxes being paid; BAT denied the allegations.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/British_American_Tobacco",
+              "title": "British American Tobacco",
+              "quote": "In November 2014, Her Majesty's Revenue and Customs (HMRC) fined BAT £650,000 after it determined that the company glutted the Belgian market with tobacco products with the likelihood these products would illegally find themselves back into the UK, with UK excise taxes not paid."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/British_American_Tobacco",
+              "title": "British American Tobacco",
+              "quote": "BAT denied all claims and described the allegation and fine as \"unjustified\"."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

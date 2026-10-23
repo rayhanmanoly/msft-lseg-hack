@@ -1,0 +1,187 @@
+{
+  "ticker": "GLEN",
+  "generatedAt": "2026-10-23T13:19:13.600Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "Glencore agreed to US penalties exceeding $700 million for foreign bribery, was ordered to pay more than £280 million in the UK, and agreed to a $180 million Congo settlement.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.justice.gov/archives/opa/pr/glencore-entered-guilty-pleas-foreign-bribery-and-market-manipulation-schemes",
+              "title": "Glencore Entered Guilty Pleas to Foreign Bribery and Market ...",
+              "quote": "Pursuant to a plea agreement, Glencore has agreed to a criminal fine of more than $428 million and to criminal forfeiture and disgorgement of more than $272 million."
+            },
+            {
+              "url": "https://apnews.com/article/europe-africa-business-south-sudan-ivory-coast-d48781ac83cbdd796e8805f3e606dc10",
+              "title": "UK orders Glencore to pay millions over African oil bribes | AP News",
+              "publishedAt": "2022-11-03T00:00:00.000Z",
+              "quote": "A British court on Thursday, Nov. 3, 2022, ordered Glencore to pay more than 280 million pounds ($313 million) for using bribes to bolster its oil profits in five African countries."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Glencore",
+              "title": "Glencore",
+              "quote": "From 2007 to 2018, Glencore paid $27.5 million to third parties to bribe government officials in Congo. In December 2022, the company agreed to pay $180 million to Congo to settle the case."
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2022,
+          "summary": "Glencore Ltd. admitted a multi-year fuel-oil price manipulation scheme at two US shipping ports and agreed to fines and forfeiture exceeding $485 million.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.justice.gov/archives/opa/pr/glencore-entered-guilty-pleas-foreign-bribery-and-market-manipulation-schemes",
+              "title": "Glencore Entered Guilty Pleas to Foreign Bribery and Market ...",
+              "quote": "Separately, Glencore Ltd. admitted to engaging in a multi-year scheme to manipulate fuel oil prices at two of the busiest commercial shipping ports in the U.S."
+            },
+            {
+              "url": "https://www.justice.gov/archives/opa/pr/glencore-entered-guilty-pleas-foreign-bribery-and-market-manipulation-schemes",
+              "title": "Glencore Entered Guilty Pleas to Foreign Bribery and Market ...",
+              "quote": "As part of the plea agreement, Glencore Ltd. agreed to pay a criminal fine of over $341 million, pay forfeiture of over $144 million, and retain an independent compliance monitor for three years."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2026,
+          "summary": "Radiant World and related companies sued Glencore in Singapore, seeking more than $2 billion over allegations of fraud, breach of contract and conspiracy.",
+          "relativeScale": 4,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/sustainability/boards-policy-regulation/radiant-world-seeks-2-billion-glencore-lawsuit-2026-09-16/",
+              "title": "Radiant World seeks $2 billion from Glencore in lawsuit | Reuters",
+              "publishedAt": "2026-09-16T00:00:00.000Z",
+              "quote": "Iron ore trader Radiant World Corp and related companies have filed a lawsuit against commodities giant Glencore in Singapore's High Court, seeking more than $2 ​billion in damages over allegations of fraud, breach of contract and conspiracy."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "human_rights": {
+      "incidents": [
+        {
+          "year": 2011,
+          "summary": "A Colombian court accepted former paramilitaries' evidence that they stole land to sell to Glencore subsidiary Prodeco and concluded that coal was the motive for the massacre, a ruling Glencore disputed.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Glencore",
+              "title": "Glencore",
+              "quote": "In 2011, a Colombian court was told by former paramilitaries that they stole the land so they could sell it to Glencore's subsidiary Prodeco, to start an open-cast coal mine; the court accepted their evidence and concluded that coal was the motive for the massacre."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Glencore",
+              "title": "Glencore",
+              "quote": "Glencore disputed the court's ruling."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Glencore",
+              "title": "Glencore",
+              "quote": "From 1996 to 2006, residents of the Cesar mining region of Colombia, from which European power utilities source most of their coal, have suffered greatly from paramilitary violence"
+            }
+          ],
+          "severity": 4
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2013,
+          "summary": "An advocacy report alleged that Glencore's Antapaccay mine had caused excessive air pollution since 2013 and identified river contaminants and toxic metals in surrounding plants and animals.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://news.mongabay.com/2023/12/reports-allege-abuses-by-glencore-in-peru-and-colombia-and-the-banks-funding-them/",
+              "title": "Reports allege abuses by Glencore in Peru and Colombia, and the banks funding them",
+              "publishedAt": "2023-12-27T00:00:00.000Z",
+              "quote": "Since 2013 and continuing to this day, Glenore’s Antapaccay copper mine in the Peruvian province of Espinar has reportedly led to air pollution levels that exceed international safe limits."
+            },
+            {
+              "url": "https://news.mongabay.com/2023/12/reports-allege-abuses-by-glencore-in-peru-and-colombia-and-the-banks-funding-them/",
+              "title": "Reports allege abuses by Glencore in Peru and Colombia, and the banks funding them",
+              "publishedAt": "2023-12-27T00:00:00.000Z",
+              "quote": "The Peruvian NGO CooperAcción, an author of one of the reports, detailed high concentrations of chlorides and sulfates in many of the surrounding rivers, such as the Salado, as well as toxic metals in local plants and animals."
+            }
+          ],
+          "severity": 4
+        },
+        {
+          "year": 2018,
+          "summary": "The UK National Contact Point found in 2024 that Glencore UK breached due-diligence responsibilities concerning a 2018 wastewater spill at its subsidiary's Badila oilfield in Chad.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://raid-uk.org/ncp-oecd-glencore-uk-violated-business-guidelines-at-its-oil-operation-in-chad-environment-pollution/",
+              "title": "British government finds Glencore UK violated business guidelines at its oil operation in Chad - RAID",
+              "publishedAt": "2024-11-21T00:00:00.000Z",
+              "quote": "It found that Glencore UK had a business relationship with PCM, and that although Glencore UK was not directly responsible for the spill, it breached its due diligence responsibilities."
+            },
+            {
+              "url": "https://raid-uk.org/ncp-oecd-glencore-uk-violated-business-guidelines-at-its-oil-operation-in-chad-environment-pollution/",
+              "title": "British government finds Glencore UK violated business guidelines at its oil operation in Chad - RAID",
+              "publishedAt": "2024-11-21T00:00:00.000Z",
+              "quote": "Eighty-five million litres of wastewater (the equivalent of 34 Olympic-sized swimming pools) flooded agricultural fields before pouring into the Nya Pende River."
+            },
+            {
+              "url": "https://www.rfi.fr/en/africa/20210202-chadian-villagers-confront-mining-giant-glencore-over-abuses-linked-to-oil-spill",
+              "title": "Chadian villagers confront mining giant Glencore over abuses linked to oil spill - RFI",
+              "publishedAt": "2021-02-02T00:00:00.000Z",
+              "quote": "At least 15 people suffered burns in September 2018 when an earth bank supporting a wastewater basin the size of 34 Olympic-sized pools collapsed."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2025,
+          "summary": "Reporting linked Glencore's Cerrejón mine to river pollution and described residents abandoning river water after experiencing skin diseases they attributed to mine dust.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.thebureauinvestigates.com/stories/2025-05-01/dirty-water-toxic-air-life-beside-colombias-mammoth-coal-mine",
+              "title": "Colombia’s Cerrejón coal mine wreaks ‘damage that cannot be… | TBIJ",
+              "publishedAt": "2025-05-01T00:00:00.000Z",
+              "quote": "The Cerrejón mine in northern Colombia has polluted rivers and threatened public health."
+            },
+            {
+              "url": "https://www.thebureauinvestigates.com/stories/2025-05-01/dirty-water-toxic-air-life-beside-colombias-mammoth-coal-mine",
+              "title": "Colombia’s Cerrejón coal mine wreaks ‘damage that cannot be… | TBIJ",
+              "publishedAt": "2025-05-01T00:00:00.000Z",
+              "quote": "Cerrejón, Latin America’s largest open-pit coal mine, which is owned and operated by the UK-listed mining company Glencore."
+            },
+            {
+              "url": "https://www.thebureauinvestigates.com/stories/2025-05-01/dirty-water-toxic-air-life-beside-colombias-mammoth-coal-mine",
+              "title": "Colombia’s Cerrejón coal mine wreaks ‘damage that cannot be… | TBIJ",
+              "publishedAt": "2025-05-01T00:00:00.000Z",
+              "quote": "The Ranchería is one of them – but people stopped using it when they began to suffer skin diseases, which they attribute to dust from Cerrejón."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "ticker": "INVP",
+  "generatedAt": "2026-10-23T13:21:49.533Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2011,
+          "summary": "Investec faces scrutiny over its alleged financing of fraudulent German dividend-tax refunds and formal claims from the German Federal Tax Office.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.dailymaverick.co.za/article/2025-07-31-multibillion-cum-ex-tax-fraud-conviction-tightens-noose-around-investec/",
+              "title": "Multibillion ‘cum-ex’ tax fraud conviction tightens noose around Investec",
+              "publishedAt": "2025-07-31T00:00:00.000Z",
+              "quote": "The basic mechanism of the scam was to claim tax refunds on dividend tax that was never paid. This required large amounts of upfront funding, which Investec provided to some key fraudsters."
+            },
+            {
+              "url": "https://amabhungane.org/investec-defends-secret-financial-provisions-in-german-tax-fraud-probe/",
+              "title": "AmaBhungane Centre for Investigative Journalism",
+              "publishedAt": "2024-09-19T00:00:00.000Z",
+              "quote": "In its 2024 annual report, Investec Bank remained steadfast in providing extremely limited information on ‘formal claims’ from the German Federal Tax Office in relation to its involvement in the so-called cum-ex scandal that rocked European financial markets several years ago."
+            },
+            {
+              "url": "https://amabhungane.org/investec-defends-secret-financial-provisions-in-german-tax-fraud-probe/",
+              "title": "AmaBhungane Centre for Investigative Journalism",
+              "publishedAt": "2024-09-19T00:00:00.000Z",
+              "quote": "In a brief note in its financial statements, Investec said it was cooperating with the German authorities and continues to conduct its own internal investigation."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "Investec admitted a calculation error and restated its 2021 financed-emissions disclosures after reporting aviation emissions approximately a thousand times below the corrected figure.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.businessday.co.za/bd/companies/financial-services/2023-07-05-investec-climate-report-reveals-huge-calculation-error/",
+              "title": "Investec climate report reveals huge calculation error",
+              "publishedAt": "2023-07-05T00:00:00.000Z",
+              "quote": "The chief culprit was Investec’s disclosures for total financed emissions for the aviation sector in the 2021 financial year, which were actually a thousand times greater than it initially reported."
+            },
+            {
+              "url": "https://www.businessday.co.za/bd/companies/financial-services/2023-07-05-investec-climate-report-reveals-huge-calculation-error/",
+              "title": "Investec climate report reveals huge calculation error",
+              "publishedAt": "2023-07-05T00:00:00.000Z",
+              "quote": "In fact, it should have been 1,430,788 tonnes, which was the figure it reported in its latest climate-related financial disclosures report unveiled last week."
+            },
+            {
+              "url": "https://www.businessday.co.za/bd/companies/financial-services/2023-07-05-investec-climate-report-reveals-huge-calculation-error/",
+              "title": "Investec climate report reveals huge calculation error",
+              "publishedAt": "2023-07-05T00:00:00.000Z",
+              "quote": "“Last year was the first time we disclosed our financed emissions so we had no baseline figures with which to make comparisons. We made a mistake, but we have admitted the mistake and we are learning,”"
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": [
+        "Investec disclosed financed emissions across asset classes, assessing the 68% of its loan portfolio for which material emissions data were available."
+      ]
+    }
+  }
+}

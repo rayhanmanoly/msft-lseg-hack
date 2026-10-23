@@ -1,0 +1,40 @@
+{
+  "ticker": "CCH",
+  "generatedAt": "2026-10-23T13:15:38.733Z",
+  "coverage": "full",
+  "causes": {
+    "climate_emissions": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "The Hungarian Competition Authority opened an investigation involving Coca-Cola HBC Magyarország over allegedly misleading environmental claims about beverage bottles.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.legal500.com/intelligence/hungary/environment/greenwashing-under-fire-claims-regarding-pet-bottles-investigated-by-hungarian-authority",
+              "title": "Greenwashing Under Fire: Claims Regarding PET Bottles Investigated By Hungarian Authority",
+              "publishedAt": "2024-09-16T00:00:00.000Z",
+              "quote": "Following a BEUC complaint, on 12 August 2024 the Hungarian Competition Authority (HCA) opened an investigation"
+            },
+            {
+              "url": "https://www.legal500.com/intelligence/hungary/environment/greenwashing-under-fire-claims-regarding-pet-bottles-investigated-by-hungarian-authority",
+              "title": "Greenwashing Under Fire: Claims Regarding PET Bottles Investigated By Hungarian Authority",
+              "publishedAt": "2024-09-16T00:00:00.000Z",
+              "quote": "Coca-Cola HBC Magyarország Kft., Coca-Cola Magyarország Szolgáltató Kft. and The Coca Cola Company for making misleading claims regarding their respective soft drink and mineral water bottles."
+            },
+            {
+              "url": "https://www.legal500.com/intelligence/hungary/environment/greenwashing-under-fire-claims-regarding-pet-bottles-investigated-by-hungarian-authority",
+              "title": "Greenwashing Under Fire: Claims Regarding PET Bottles Investigated By Hungarian Authority",
+              "publishedAt": "2024-09-16T00:00:00.000Z",
+              "quote": "It remains to be seen what sanctions, if any, will be applied in these proceedings."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

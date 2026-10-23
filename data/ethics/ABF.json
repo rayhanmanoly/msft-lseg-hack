@@ -1,0 +1,40 @@
+{
+  "ticker": "ABF",
+  "generatedAt": "2026-10-23T13:13:10.585Z",
+  "coverage": "full",
+  "causes": {
+    "community_impact": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "Kanseche residents are suing ABF and its subsidiary Illovo over allegations that plantation flood defences worsened flooding that destroyed their village and killed seven people; ABF denies responsibility.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.lexology.com/library/detail.aspx?g=d86d61e6-3a88-4e61-9cac-512cba33ef41",
+              "title": "Malawian villagers take legal action against Primark owner Associated British Foods after flooding destroyed their village and left seven people dead",
+              "publishedAt": "2025-05-04T00:00:00.000Z",
+              "quote": "The 1,729 residents of Kanseche village in southern Malawi claim flood defences built to protect the sugar estate from the nearby Mwanza River and the effects of climate change diverted floodwater into the village in January 2022 with devastating consequences."
+            },
+            {
+              "url": "https://www.investigative-malawi.org/1948/climate-change-4/",
+              "title": "Sweet Deals, Sour Outcomes: UK Brands linked to Malawi Flood Disaster - Center for Investigative Journalism Malawi",
+              "publishedAt": "2025-05-07T00:00:00.000Z",
+              "quote": "They allege that flood defenses built by Illovo to protect its Nchalo Sugar Estate were responsible for the devastating floods that struck in January 2022, killing seven people and destroying homes."
+            },
+            {
+              "url": "https://www.lifegate.com/malawi-flood-cause",
+              "title": "A group of Malawian citizens takes British multinational ABF to court",
+              "publishedAt": "2026-07-18T00:00:00.000Z",
+              "quote": "ABF denies any responsibility."
+            }
+          ],
+          "severity": 5
+        }
+      ],
+      "positives": []
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "ticker": "INF",
+  "generatedAt": "2026-10-23T13:20:36.238Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "A False Claims Act lawsuit filed in 2024 and unsealed in July 2026 alleges that Informa and three other publishers defrauded the U.S. government through excessive article-processing charges.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://retractionwatch.com/2026/07/31/federal-lawsuit-major-publishers-article-processing-charges-false-claims-act/",
+              "title": "Federal lawsuit accuses four major publishers of extorting article processing charges – Retraction Watch",
+              "publishedAt": "2026-07-31T00:00:00.000Z",
+              "quote": "A lawsuit filed under the U.S. False Claims Act accuses four major publishers of perpetrating a decade-long scheme to defraud the government by charging exorbitant article processing charges."
+            },
+            {
+              "url": "https://retractionwatch.com/2026/07/31/federal-lawsuit-major-publishers-article-processing-charges-false-claims-act/",
+              "title": "Federal lawsuit accuses four major publishers of extorting article processing charges – Retraction Watch",
+              "publishedAt": "2026-07-31T00:00:00.000Z",
+              "quote": "The case, which became unsealed July 30, claims Elsevier, Springer Nature, Wiley and Informa forced U.S. research institutions to submit false claims to the government for reimbursement through article fees up to 10 times the cost of processing the articles."
+            },
+            {
+              "url": "https://retractionwatch.com/2026/07/31/federal-lawsuit-major-publishers-article-processing-charges-false-claims-act/",
+              "title": "Federal lawsuit accuses four major publishers of extorting article processing charges – Retraction Watch",
+              "publishedAt": "2026-07-31T00:00:00.000Z",
+              "quote": "He and his attorneys originally filed the case under seal in March 2024."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "Reports criticised Informa's Microsoft content-access deal because authors reportedly were not consulted or informed and had no opportunity to opt out or receive payment.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://theconversation.com/an-academic-publisher-has-struck-an-ai-data-deal-with-microsoft-without-their-authors-knowledge-235203",
+              "title": "An academic publisher has struck an AI data deal with Microsoft – without their authors’ knowledge",
+              "publishedAt": "2024-07-23T00:00:00.000Z",
+              "quote": "In May, a multibillion-dollar UK-based multinational called Informa announced in a trading update that it had signed a deal with Microsoft involving “access to advanced learning content and data, and a partnership to explore AI expert applications”."
+            },
+            {
+              "url": "https://theconversation.com/an-academic-publisher-has-struck-an-ai-data-deal-with-microsoft-without-their-authors-knowledge-235203",
+              "title": "An academic publisher has struck an AI data deal with Microsoft – without their authors’ knowledge",
+              "publishedAt": "2024-07-23T00:00:00.000Z",
+              "quote": "According to reports published last week, the authors of the content do not appear to have been asked or even informed about the deal."
+            },
+            {
+              "url": "https://theconversation.com/an-academic-publisher-has-struck-an-ai-data-deal-with-microsoft-without-their-authors-knowledge-235203",
+              "title": "An academic publisher has struck an AI data deal with Microsoft – without their authors’ knowledge",
+              "publishedAt": "2024-07-23T00:00:00.000Z",
+              "quote": "What’s more, they say they had no opportunity to opt out of the deal, and will not see any money from it."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "Informa Exhibitions disclosed a 2025 Oracle-system breach affecting 5,959 individuals, with compromised employee information including names and Social Security numbers.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.teiss.co.uk/news/oracle-ebs-data-breach-compromised-close-to-6000-informa-employees-17482",
+              "title": "teiss - News - Oracle EBS data breach compromised close to 6,000 Informa employees",
+              "publishedAt": "2026-05-11T00:00:00.000Z",
+              "quote": "Informa Exhibitions, which organises trade shows, conferences and exhibitions in the United States, said the data breach occurred between August 11 and August 18, 2025, and involved hackers exploiting the Oracle application to gain access to an Informa Oracle system."
+            },
+            {
+              "url": "https://www.teiss.co.uk/news/oracle-ebs-data-breach-compromised-close-to-6000-informa-employees-17482",
+              "title": "teiss - News - Oracle EBS data breach compromised close to 6,000 Informa employees",
+              "publishedAt": "2026-05-11T00:00:00.000Z",
+              "quote": "Informa Exhibitions notified the office of the Attorney General of Maine that the compromised data included the information that current and former employees had shared with the company as part of their employment, including their names and Social Security numbers."
+            },
+            {
+              "url": "https://www.teiss.co.uk/news/oracle-ebs-data-breach-compromised-close-to-6000-informa-employees-17482",
+              "title": "teiss - News - Oracle EBS data breach compromised close to 6,000 Informa employees",
+              "publishedAt": "2026-05-11T00:00:00.000Z",
+              "quote": "The company added that the security incident impacted 5,959 individuals."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "An external report stated that 97% of Informa offices were powered by renewable electricity."
+      ]
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "ticker": "IGG",
+  "generatedAt": "2026-10-23T13:20:00.836Z",
+  "coverage": "full",
+  "causes": {
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "Piper Alderman filed a class action against IG Markets alleging that it promoted CFDs to inexperienced traders without adequate safeguards.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/IG_Group",
+              "title": "IG Group",
+              "quote": "In May 2023, the law firm Piper Alderman filed a class action against IG Markets, accusing the company of promoting contracts for difference (CFDs) to inexperienced traders without proper safeguards."
+            },
+            {
+              "url": "https://tradeinformer.com/newsletter/ig-are-getting-sued",
+              "title": "IG are getting sued - TradeInformer",
+              "publishedAt": "2022-10-24T00:00:00.000Z",
+              "quote": "The lawyers said the total losses of investors with IG Markets exceed [AUD]$800 million."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2025,
+          "summary": "The Supreme Court of Western Australia ruled that IG's manifest-error clause was unfair and void, requiring it to pay a customer AU$5.5 million.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/IG_Group",
+              "title": "IG Group",
+              "quote": "In November 2025, in Tomasso v IG Markets Ltd (Supreme Court of Western Australia), the court ruled that IG's \"manifest error\" contract clause was unfair and therefore void under Australian consumer law."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/IG_Group",
+              "title": "IG Group",
+              "quote": "IG was required to pay a customer AU$5.5 million after it attempted to cancel trades under that clause."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2015,
+          "summary": "Following a trading-platform failure that caused significant losses to more than 370 clients, the Financial Ombudsman Service ordered IG to compensate affected customers around £1 million.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/IG_Group",
+              "title": "IG Group",
+              "quote": "In January 2015, more than 370 clients incurred significant losses following a failure of IG's trading platform during a volatile market event."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/IG_Group",
+              "title": "IG Group",
+              "quote": "In June 2015, the Financial Ombudsman Service ordered IG to compensate affected customers around £1 million in total."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "FINRA fined IG subsidiary tastytrade $30,000 for inadequate supervision of employees' outside securities accounts over a two-year period.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.financemagnates.com/forex/regulation/finra-sanctions-ig-groups-tastytrade-for-two-year-compliance-lapse/",
+              "title": "FINRA Sanctions IG Group's tastytrade for Alleged Two-Year Compliance Lapse",
+              "publishedAt": "2024-11-28T00:00:00.000Z",
+              "quote": "FINRA has imposed a $30,000 fine on tastytrade, a Chicago-based retail trading platform and the US subsidiary of publicly listed broker IG Group (LSE: IGG), for failing to properly supervise its employees' outside securities accounts over a two-year period."
+            },
+            {
+              "url": "https://www.financemagnates.com/forex/regulation/finra-sanctions-ig-groups-tastytrade-for-two-year-compliance-lapse/",
+              "title": "FINRA Sanctions IG Group's tastytrade for Alleged Two-Year Compliance Lapse",
+              "publishedAt": "2024-11-28T00:00:00.000Z",
+              "quote": "The Chicago-based retail trading platform agreed to settle without admitting or denying the findings."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "IG Securities disclosed that 162,879 customers' personal data may have been accessible within IG Group, while reporting no detected leakage outside the group.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/IG_Group",
+              "title": "IG Group",
+              "quote": "In April 2026, IG Securities, IG's Japanese subsidiary, disclosed that personal data of 162,879 customers may have been accessible within the IG group."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/IG_Group",
+              "title": "IG Group",
+              "quote": "Records of 29,734 customers had been stored on an external server, but the company said it had not detected any data leakage outside IG Group."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "community_impact": {
+      "incidents": [],
+      "positives": [
+        "An independent report states that IG directed over £3.8 million to community initiatives in fiscal 2025."
+      ]
+    }
+  }
+}

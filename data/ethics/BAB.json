@@ -1,0 +1,66 @@
+{
+  "ticker": "BAB",
+  "generatedAt": "2026-10-23T13:13:22.996Z",
+  "coverage": "full",
+  "causes": {
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "The Royal Navy ordered an investigation after glue was discovered to have been used by Babcock engineers to fix broken bolts in a Trident submarine's nuclear reactor.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Babcock_International",
+              "title": "Babcock International",
+              "quote": "In February 2023, the British Royal Navy ordered an investigation into the repairs made by Babcock International engineers on a Trident submarine after it was discovered that glue had been used to fix broken bolts in the nuclear reactor."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "Babcock's Italian subsidiary lost its first-instance appeal against a €51 million competition fine relating to a trade association's publicly available tariff list.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.proactiveinvestors.co.uk/companies/news/919925/babcock-international-loses-appeal-against-italian-anti-trust-fine-919925.html",
+              "title": "Babcock International loses appeal against Italian anti-trust fine | LSE:BAB",
+              "publishedAt": "2020-05-19T00:00:00.000Z",
+              "quote": "Babcock International Group Plc (LON:BAB) has told investors its first instance appeal against a competition decision in Italy has been unsuccessful."
+            },
+            {
+              "url": "https://www.proactiveinvestors.co.uk/companies/news/919925/babcock-international-loses-appeal-against-italian-anti-trust-fine-919925.html",
+              "title": "Babcock International loses appeal against Italian anti-trust fine | LSE:BAB",
+              "publishedAt": "2020-05-19T00:00:00.000Z",
+              "quote": "The Italian Competition Authority previously fined Babcock Mission Critical Services (BMCS) Italia €51mln, along with fines on seven other companies, in relation to a publicly available tariff list produced by a trade association of which BMCS Italy was a member."
+            },
+            {
+              "url": "https://www.proactiveinvestors.co.uk/companies/news/919925/babcock-international-loses-appeal-against-italian-anti-trust-fine-919925.html",
+              "title": "Babcock International loses appeal against Italian anti-trust fine | LSE:BAB",
+              "publishedAt": "2020-05-19T00:00:00.000Z",
+              "quote": "Babcock added that it BMCS Italy considers compliance with antitrust laws to be of the highest priority and that previously the ICA reduced the fine imposed on BMCS to “reflect the quality and robustness of its antitrust compliance programme.”"
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Babcock LGE received Lloyd's Register approval in principle for its onboard carbon capture system."
+      ]
+    }
+  }
+}

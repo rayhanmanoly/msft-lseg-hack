@@ -1,0 +1,184 @@
+{
+  "ticker": "DGE",
+  "generatedAt": "2026-10-23T13:16:53.005Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "Diageo agreed to pay a $5 million civil fine to settle SEC charges that it pressured distributors to buy excess inventory to boost its results.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/article/us-diageo-sec/diageo-to-pay-5-million-to-settle-sec-charges-over-disclosure-failures-idUKKBN20D24G/?il=0",
+              "title": "Diageo to pay £3.84 million to settle SEC charges it concealed liquor overshipments",
+              "publishedAt": "2020-02-19T00:00:00.000Z",
+              "quote": "(Reuters) - Diageo Plc agreed to pay a $5 million(£3.84 million) civil fine to settle U.S. Securities and Exchange Commission charges that the global liquor company quietly pressured distributors to buy excess inventory to boost its results in a flagging market."
+            },
+            {
+              "url": "https://www.reuters.com/article/us-diageo-sec/diageo-to-pay-5-million-to-settle-sec-charges-over-disclosure-failures-idUKKBN20D24G/?il=0",
+              "title": "Diageo to pay £3.84 million to settle SEC charges it concealed liquor overshipments",
+              "publishedAt": "2020-02-19T00:00:00.000Z",
+              "quote": "The London-based company - whose brands include Johnnie Walker Scotch whisky, Smirnoff vodka, Tanqueray gin and Guinness beer - did not admit or deny wrongdoing, but agreed to cease and desist from further violations, the SEC said on Wednesday."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "Diageo was fined £537,500 after pleading guilty to safety failures following a distillery incident that left an employee with burns to 30% of his body.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.foodmanufacture.co.uk/Article/2024/12/17/diageo-fined-537k-after-worker-suffered-burns-at-distillery/",
+              "title": "Diageo fined £537k after worker suffered burns at distillery",
+              "quote": "The former employee, Michael Thomson, sustained burns to 30% of his body following an incident where a faulty valve caused 10,000 litres of 104 centigrade liquid to engulf him."
+            },
+            {
+              "url": "https://www.foodmanufacture.co.uk/Article/2024/12/17/diageo-fined-537k-after-worker-suffered-burns-at-distillery/",
+              "title": "Diageo fined £537k after worker suffered burns at distillery",
+              "quote": "During a hearing at Inverness Sheriff Court, Diageo pleaded guilty to failing to take the necessary steps to ensure that work equipment was safely built and adapted, along with other failures."
+            },
+            {
+              "url": "https://www.foodmanufacture.co.uk/Article/2024/12/17/diageo-fined-537k-after-worker-suffered-burns-at-distillery/",
+              "title": "Diageo fined £537k after worker suffered burns at distillery",
+              "quote": "The manufacturer, which owns brands such as Guinness and Johnnie Walker, was fined £537,500."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "A proposed US class action alleged that Diageo falsely labeled Casamigos and Don Julio tequilas as entirely agave-derived despite containing other alcohols.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.foodandwine.com/diageo-class-action-lawsuit-tequila-purity-claims-11730902",
+              "title": "Federal Lawsuit Accuses Diageo of Adulterating Its Tequilas",
+              "publishedAt": "2025-05-08T00:00:00.000Z",
+              "quote": "A class action lawsuit filed in the U.S. District Court for the Eastern District of New York accuses Diageo of falsely labeling Casamigos and Don Julio tequilas as “100% agave,” alleging the presence of non-agave alcohols like cane spirits."
+            },
+            {
+              "url": "https://www.foodandwine.com/diageo-class-action-lawsuit-tequila-purity-claims-11730902",
+              "title": "Federal Lawsuit Accuses Diageo of Adulterating Its Tequilas",
+              "publishedAt": "2025-05-08T00:00:00.000Z",
+              "quote": "Diageo strongly denies the allegations, asserting its tequilas meet all regulatory standards and are certified by the CRT and U.S. authorities."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "Indian authorities seized thousands of Diageo whisky and vodka bottles in a food safety crackdown and inspected a factory of its subsidiary in Bengaluru.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/legal/litigation/india-seizes-thousands-diageo-whisky-vodka-bottles-food-safety-crackdown-2026-08-10/",
+              "title": "EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown | Reuters",
+              "publishedAt": "2026-08-10T00:00:00.000Z",
+              "quote": "India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown"
+            },
+            {
+              "url": "https://www.reuters.com/legal/litigation/india-seizes-thousands-diageo-whisky-vodka-bottles-food-safety-crackdown-2026-08-10/",
+              "title": "EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown | Reuters",
+              "publishedAt": "2026-08-10T00:00:00.000Z",
+              "quote": "Indian officials inspected a factory of Diageo unit in Bengaluru"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "tax_transparency": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "Indian authorities investigated whether Diageo incorrectly classified bulk Scotch imports to obtain lower tariffs under the India-UK trade pact.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.investing.com/news/stock-market-news/exclusiveindia-probingpernod-diageo-scotch-imports-under-indiauk-trade-pact-sources-say-4957842",
+              "title": "Exclusive-India probing Pernod, Diageo Scotch imports under India-UK trade pact, sources say By Reuters",
+              "publishedAt": "2026-10-19T13:54:20.000Z",
+              "quote": "The other two people said Diageo is also being investigated for how it classifies some Scotch imports."
+            },
+            {
+              "url": "https://www.investing.com/news/stock-market-news/exclusiveindia-probingpernod-diageo-scotch-imports-under-indiauk-trade-pact-sources-say-4957842",
+              "title": "Exclusive-India probing Pernod, Diageo Scotch imports under India-UK trade pact, sources say By Reuters",
+              "publishedAt": "2026-10-19T13:54:20.000Z",
+              "quote": "Diageo, also in a statement, said it is cooperating with Indian authorities, and has always complied with local laws."
+            },
+            {
+              "url": "https://www.investing.com/news/stock-market-news/exclusiveindia-probingpernod-diageo-scotch-imports-under-indiauk-trade-pact-sources-say-4957842",
+              "title": "Exclusive-India probing Pernod, Diageo Scotch imports under India-UK trade pact, sources say By Reuters",
+              "publishedAt": "2026-10-19T13:54:20.000Z",
+              "quote": "In its stock exchange disclosure, it said it had provided all documents and clarifications."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "A toxic spill associated with Diageo's Cardhu distillery killed thousands of fish and other wildlife in Knockando Burn, prompting an apology, updated controls and an ongoing SEPA investigation.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.insurancejournal.com/news/international/2026/10/19/889505.htm",
+              "title": "Diageo’s Toxic Spill Hits a Pristine River in Scottish Whisky Country",
+              "publishedAt": "2026-10-19T00:00:00.000Z",
+              "quote": "Earlier this year, a toxic chemical spill into a critical spawning tributary killed thousands of fish and other wildlife, blighting fishing in the area for decades."
+            },
+            {
+              "url": "https://www.just-drinks.com/news/diageo-faces-probe-over-toxic-spill-in-scotland/",
+              "title": "Diageo faces probe over toxic spill in Scotland - Just Drinks",
+              "publishedAt": "2026-10-20T00:00:00.000Z",
+              "quote": "Diageo confirmed to Just Drinks that this incident concerns the Cardhu distillery."
+            },
+            {
+              "url": "https://www.just-drinks.com/news/diageo-faces-probe-over-toxic-spill-in-scotland/",
+              "title": "Diageo faces probe over toxic spill in Scotland - Just Drinks",
+              "publishedAt": "2026-10-20T00:00:00.000Z",
+              "quote": "They added: “We have updated controls in place, are continuing to fully engage with SEPA as they carry out their investigation and are in discussions on a long-term plan to support regeneration and restoration in the area.”"
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    }
+  }
+}

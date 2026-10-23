@@ -1,0 +1,41 @@
+{
+  "ticker": "CCC",
+  "generatedAt": "2026-10-23T13:15:51.095Z",
+  "coverage": "full",
+  "causes": {
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "A former Computacenter manager filed a $25 million lawsuit alleging he was unfairly fired after reporting a colleague's unauthorized guest access to Deutsche Bank's server rooms.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.datacenterdynamics.com/en/news/computacenter-employee-let-girlfriend-into-deutsche-banks-server-room-says-ex-manager/",
+              "title": "Computacenter employee let girlfriend into Deutsche Bank's server room, says ex-manager - DCD",
+              "publishedAt": "2026-07-14T00:00:00.000Z",
+              "quote": "First reported by The Register, former service delivery manager at Computacenter, James Papa, has filed a lawsuit against Deutsche Bank, Computacenter, and his ex-supervisor for $25 million in New York state, claiming he was unfairly fired."
+            },
+            {
+              "url": "https://www.theregister.com/special-features/2025/05/06/it-guy-let-lover-into-deutsche-bank-datacenter-lawsuit/426114",
+              "title": "IT guy let lover into Deutsche Bank datacenter – lawsuit",
+              "publishedAt": "2025-05-06T00:00:00.000Z",
+              "quote": "The New Jersey man claims he was fired in July that year after raising concerns that one of the Computacenter workers he supervised at Deutsche Bank repeatedly had let his Chinese girlfriend, Jenny, into the bank's server rooms without permission."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "SBTi approved Computacenter's near-term emissions-reduction targets and its target to cut absolute Scope 1, 2 and 3 emissions by 90% by 2040.",
+        "Computacenter achieved Silver and Gold EcoVadis sustainability status in its operating countries."
+      ]
+    }
+  }
+}

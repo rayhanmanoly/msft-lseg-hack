@@ -1,0 +1,96 @@
+{
+  "ticker": "UU",
+  "generatedAt": "2026-10-23T13:29:18.481Z",
+  "coverage": "full",
+  "causes": {
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2018,
+          "summary": "United Utilities was fined £800,000 for illegally abstracting 22 billion litres of water in Lancashire and made a £3 million voluntary contribution to environmental improvement projects.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.kentonline.co.uk/news/national/united-utilities-fined-800-000-for-over-abstracting-water-in-lancashire-96273/",
+              "title": "United Utilities fined £800,000 for over-abstracting water in Lancashire",
+              "publishedAt": "2023-08-16T08:53:34.000Z",
+              "quote": "United Utilities has been fined £800,000 after illegally abstracting 22 billion litres of water in Lancashire five years ago, the Environment Agency (EA) has said."
+            },
+            {
+              "url": "https://www.kentonline.co.uk/news/national/united-utilities-fined-800-000-for-over-abstracting-water-in-lancashire-96273/",
+              "title": "United Utilities fined £800,000 for over-abstracting water in Lancashire",
+              "publishedAt": "2023-08-16T08:53:34.000Z",
+              "quote": "The over-abstraction during a period of very dry weather in 2018 means the aquifer will take years to recover, the EA said."
+            },
+            {
+              "url": "https://www.kentonline.co.uk/news/national/united-utilities-fined-800-000-for-over-abstracting-water-in-lancashire-96273/",
+              "title": "United Utilities fined £800,000 for over-abstracting water in Lancashire",
+              "publishedAt": "2023-08-16T08:53:34.000Z",
+              "quote": "We took action straight away, pleaded guilty and also made a £3 million voluntary contribution to local environmental improvement projects"
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2024,
+          "summary": "Campaigners analysing United Utilities operational data alleged 140 illegal sewage-spill days into Windermere in 2024, findings the company disputed.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.bbc.com/news/articles/cvg19q7pjdeo",
+              "title": "Record number of illegal sewage spills in Windermere last year",
+              "publishedAt": "2025-03-31T00:00:00.000Z",
+              "quote": "The analysis, which the BBC had exclusive access to, used United Utilities operational data to establish when the company was discharging sewage into Windermere when it should by law have been treating some of it."
+            },
+            {
+              "url": "https://www.bbc.com/news/articles/cvg19q7pjdeo",
+              "title": "Record number of illegal sewage spills in Windermere last year",
+              "publishedAt": "2025-03-31T00:00:00.000Z",
+              "quote": "The campaigners from Windrush Against Sewage Pollution (WASP) and Save Windermere identified 140 illegal spill days in 2024, more than in any of the three previous years."
+            },
+            {
+              "url": "https://www.bbc.com/news/articles/cvg19q7pjdeo",
+              "title": "Record number of illegal sewage spills in Windermere last year",
+              "publishedAt": "2025-03-31T00:00:00.000Z",
+              "quote": "United Utilities told BBC News that the campaigners' findings were \"inaccurate\" and some of the data \"erroneous\"."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2023,
+          "summary": "United Utilities admitted sewage discharges caused by a fractured pipe near Fleetwood, with the resulting leak prompting bathing restrictions along 14 miles of coastline for more than two weeks.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://inews.co.uk/news/burst-pipes-sewage-leaks-unfixed-united-utilities-staff-strike-2445620",
+              "title": "Burst pipes and sewage leaks could go unfixed as United Utilities staff vote to go on strike",
+              "publishedAt": "2023-06-30T00:00:00.000Z",
+              "quote": "It comes as the company, which has monopoly on supplying water to around 7 million people in the North West, faces an Environment Agency investigation over a major sewage leak near Blackpool which led to 14 miles of coastline being closed to bathers for more than two weeks."
+            },
+            {
+              "url": "https://inews.co.uk/news/burst-pipes-sewage-leaks-unfixed-united-utilities-staff-strike-2445620",
+              "title": "Burst pipes and sewage leaks could go unfixed as United Utilities staff vote to go on strike",
+              "publishedAt": "2023-06-30T00:00:00.000Z",
+              "quote": "Councils were forced to issue advice for people not to enter the water after the company admitted it had discharged sewage into the sea on two occasions as a result of a fractured pipe which reduced capacity at the Fleetwood wastewater treatment plant."
+            },
+            {
+              "url": "https://inews.co.uk/news/burst-pipes-sewage-leaks-unfixed-united-utilities-staff-strike-2445620",
+              "title": "Burst pipes and sewage leaks could go unfixed as United Utilities staff vote to go on strike",
+              "publishedAt": "2023-06-30T00:00:00.000Z",
+              "quote": "Engineers have been working 24 hours a day to build an overground pipe as a temporary fix."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    }
+  }
+}

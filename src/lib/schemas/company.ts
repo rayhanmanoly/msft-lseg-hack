@@ -48,6 +48,9 @@ export const companySchema = z.object({
   /** One or two sentences, used for bucket rationales. */
   description: z.string(),
   marketCapGbpBn: z.number().optional(),
+  /** How deeply the ethics cache researches it: deep = 4 searches over 7 years, basic = 1 search (coverage capped at partial). */
+  tier: z.enum(['deep', 'basic']).optional(),
+  index: z.enum(['FTSE100', 'FTSE250', 'SmallCap']).optional(),
 });
 
 export type Company = z.infer<typeof companySchema>;

@@ -1,0 +1,139 @@
+{
+  "ticker": "AV",
+  "generatedAt": "2026-10-23T13:13:26.005Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2017,
+          "summary": "Indian tax authorities ordered Aviva India to pay $7.5 million in back taxes and penalties over fake invoices used to pay illegal commissions and claim incorrect tax credits; the company said it would appeal.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://theprint.in/india/avivas-india-arm-hit-with-7-5-million-fine-for-fake-invoice-scheme-order-shows/2497322/",
+              "title": "Aviva's India arm hit with $7.5 million fine for fake invoice scheme, order shows – ThePrint – ReutersFeed",
+              "publishedAt": "2025-02-16T00:00:00.000Z",
+              "quote": "Indian authorities have ordered British insurer Aviva’s local unit to pay $7.5 million in back taxes and penalties after an investigation found it created fake invoices to pay illegal commissions and claimed incorrect tax credits, an order shows."
+            },
+            {
+              "url": "https://theprint.in/india/avivas-india-arm-hit-with-7-5-million-fine-for-fake-invoice-scheme-order-shows/2497322/",
+              "title": "Aviva's India arm hit with $7.5 million fine for fake invoice scheme, order shows – ThePrint – ReutersFeed",
+              "publishedAt": "2025-02-16T00:00:00.000Z",
+              "quote": "Aviva India paid about $26 million between 2017 and 2023 to vendors who purportedly provided marketing services, but they were only a front to give Aviva’s agents excess commissions beyond regulatory limits"
+            },
+            {
+              "url": "https://theprint.in/india/avivas-india-arm-hit-with-7-5-million-fine-for-fake-invoice-scheme-order-shows/2497322/",
+              "title": "Aviva's India arm hit with $7.5 million fine for fake invoice scheme, order shows – ThePrint – ReutersFeed",
+              "publishedAt": "2025-02-16T00:00:00.000Z",
+              "quote": "In a statement to Reuters, Aviva India said it “will contest the latest order through an appeal. The order will have no impact on its operations.”"
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2023,
+          "summary": "The PRA fined Aviva subsidiary U K Insurance £10.6 million for a Solvency II balance-sheet miscalculation in 2023 and 2024, before Aviva acquired Direct Line Group.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.insurancejournal.com/news/international/2026/03/11/861469.htm",
+              "title": "UK Watchdog Fines Aviva Unit $14 Million Over Solvency ...",
+              "quote": "Britain’s banking stability watchdog has fined U K Insurance Ltd., now part of Aviva, 10.6 million pounds ($14.2 million) over a miscalculation in its Solvency II balance sheet for 2023 and 2024."
+            },
+            {
+              "url": "https://www.insurancejournal.com/news/international/2026/03/11/861469.htm",
+              "title": "UK Watchdog Fines Aviva Unit $14 Million Over Solvency ...",
+              "quote": "Aviva said in a statement that the miscalculation happened before its acquisition of DLG in July 2025, adding that it had taken extensive action to enhance financial reporting controls in the part of the business identified."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2018,
+          "summary": "Aviva reversed its plan to cancel preference shares below market value and paid £14 million in compensation to investors who had sold below their true value.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://news.sky.com/story/aviva-faces-fca-rebuke-over-450m-preference-share-debacle-12104803",
+              "title": "Aviva faces FCA rebuke over £450m preference share debacle | Money News | Sky News",
+              "publishedAt": "2020-10-15T00:00:00.000Z",
+              "quote": "Sky News has learnt that the results of a probe by the Financial Conduct Authority (FCA) into Aviva's plan to cancel £450m of preference shares in 2018 are close to being made public."
+            },
+            {
+              "url": "https://news.sky.com/story/aviva-faces-fca-rebuke-over-450m-preference-share-debacle-12104803",
+              "title": "Aviva faces FCA rebuke over £450m preference share debacle | Money News | Sky News",
+              "publishedAt": "2020-10-15T00:00:00.000Z",
+              "quote": "The insurance giant, which owns the old Norwich Union business and is one of the City's largest asset managers through its Aviva Investors division, performed an abrupt U-turn within days."
+            },
+            {
+              "url": "https://news.sky.com/story/aviva-faces-fca-rebuke-over-450m-preference-share-debacle-12104803",
+              "title": "Aviva faces FCA rebuke over £450m preference share debacle | Money News | Sky News",
+              "publishedAt": "2020-10-15T00:00:00.000Z",
+              "quote": "It ended up having to pay £14m in compensation to investors who sold their preference shares for less than their true value."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2017,
+          "summary": "Singlife Financial Advisers accepted a regulatory fine for supervisory breaches committed at its predecessor Aviva Financial Advisers between November 2017 and March 2020.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://singlife.com/en/about-us/newsroom/2025/singlife-financial-advisers-has-enhanced-controls-and-has-stringent-audits-remains-confident-it-can-meet-all-regulatory-obligations",
+              "title": "Singlife Financial Advisers has enhanced controls and has stringent audits – remains confident it can meet all regulatory obligations",
+              "publishedAt": "2025-09-16T00:00:00.000Z",
+              "quote": "Singlife Financial Advisers Pte. Ltd. (SFA), a wholly owned subsidiary of Singlife, has accepted a fine by the Monetary Authority of Singapore (MAS), for breaches committed between November 2017 and March 2020 by supervisors of Aviva Financial Advisers (Aviva FA)."
+            },
+            {
+              "url": "https://singlife.com/en/about-us/newsroom/2025/singlife-financial-advisers-has-enhanced-controls-and-has-stringent-audits-remains-confident-it-can-meet-all-regulatory-obligations",
+              "title": "Singlife Financial Advisers has enhanced controls and has stringent audits – remains confident it can meet all regulatory obligations",
+              "publishedAt": "2025-09-16T00:00:00.000Z",
+              "quote": "This led to commissions not being properly assessed under the Balanced Scorecard Framework of the Financial Advisers Act, and undermined adequate supervision and training of the representatives."
+            },
+            {
+              "url": "https://singlife.com/en/about-us/newsroom/2025/singlife-financial-advisers-has-enhanced-controls-and-has-stringent-audits-remains-confident-it-can-meet-all-regulatory-obligations",
+              "title": "Singlife Financial Advisers has enhanced controls and has stringent audits – remains confident it can meet all regulatory obligations",
+              "publishedAt": "2025-09-16T00:00:00.000Z",
+              "quote": "SFA has implemented controls and processes to prevent such breaches from recurring."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [],
+      "positives": [
+        "Aviva incorporated Trase supply-chain data into its deforestation risk assessments in 2023."
+      ]
+    },
+    "fair_wages": {
+      "incidents": [],
+      "positives": [
+        "Aviva offered lower-paid employees pro-rata cost-of-living payments of £300–£1,000."
+      ]
+    },
+    "labour_rights": {
+      "incidents": [],
+      "positives": [
+        "A union campaign secured removal of staff parking charges at Aviva sites in Sheffield, York and Norwich."
+      ]
+    }
+  }
+}

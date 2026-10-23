@@ -1,0 +1,94 @@
+{
+  "ticker": "EXPN",
+  "generatedAt": "2026-10-23T13:17:42.667Z",
+  "coverage": "full",
+  "causes": {
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "The Dutch Data Protection Authority fined Experian Netherlands €2.7 million for collecting and using personal data without properly informing individuals or obtaining their consent.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.infosecurity-magazine.com/news/experian-fined-gdpr-breach/",
+              "title": "Experian Fined €2.7m For GDPR Breach in Netherlands - Infosecurity Magazine",
+              "publishedAt": "2025-10-20T00:00:00.000Z",
+              "quote": "Experian Netherlands has been fined €2.7m by the Dutch Data Protection Authority (AP) for breaching the General Data Protection Regulation (GDPR)."
+            },
+            {
+              "url": "https://www.infosecurity-magazine.com/news/experian-fined-gdpr-breach/",
+              "title": "Experian Fined €2.7m For GDPR Breach in Netherlands - Infosecurity Magazine",
+              "publishedAt": "2025-10-20T00:00:00.000Z",
+              "quote": "The regulator found that the credit reporting and analytics company collected and used personal data from public and private sources without properly informing individuals or obtaining their consent."
+            },
+            {
+              "url": "https://www.infosecurity-magazine.com/news/experian-fined-gdpr-breach/",
+              "title": "Experian Fined €2.7m For GDPR Breach in Netherlands - Infosecurity Magazine",
+              "publishedAt": "2025-10-20T00:00:00.000Z",
+              "quote": "The AP launched its investigation after receiving complaints from consumers who said they faced unusually high deposits or were denied installment plans by service providers."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2023,
+          "summary": "Experian Consumer Services agreed to a $650,000 civil penalty and compliance with the CAN-SPAM Act to settle FTC allegations that its marketing emails lacked an opt-out mechanism.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://consumer.ftc.gov/consumer-alerts/2023/08/ftc-lawsuit-reminds-businesses-can-spam-means-cant-spam",
+              "title": "FTC lawsuit reminds businesses: CAN-SPAM means CAN’T spam | Consumer Advice",
+              "publishedAt": "2023-08-14T00:00:00.000Z",
+              "quote": "Experian Consumer Services agreed to pay a $650,000 civil penalty and comply with the CAN-SPAM Act to settle an FTC lawsuit."
+            },
+            {
+              "url": "https://consumer.ftc.gov/consumer-alerts/2023/08/ftc-lawsuit-reminds-businesses-can-spam-means-cant-spam",
+              "title": "FTC lawsuit reminds businesses: CAN-SPAM means CAN’T spam | Consumer Advice",
+              "publishedAt": "2023-08-14T00:00:00.000Z",
+              "quote": "The FTC says the emails didn’t include a way for people to opt out of getting them, in violation of the CAN-SPAM Act."
+            }
+          ],
+          "severity": 1
+        },
+        {
+          "year": 2026,
+          "summary": "Experian settled Tyreese Learmond’s lawsuit alleging that it charged him $24.99 twice after he cancelled his ExperianCreditWorks subscription.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Experian",
+              "title": "Experian",
+              "quote": "He alleged that they improperly charged him $24.99 twice after he cancelled his ExperianCreditWorks membership subscription."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Experian",
+              "title": "Experian",
+              "quote": "Experian and Learmond settled out of court before trial, formally releasing them from the case while Fidelity remained in the case hoping to compel arbitration under the Federal Arbitration Act."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Selected greenhouse-gas reporting for the year ended 31 March 2025 received independent limited assurance, with no material preparation issues identified against the stated reporting criteria.",
+        "Experian Group received an A- rating from CDP Ireland, as reported in May 2025."
+      ]
+    }
+  }
+}

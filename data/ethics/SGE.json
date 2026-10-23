@@ -1,0 +1,73 @@
+{
+  "ticker": "SGE",
+  "generatedAt": "2026-10-23T13:26:39.024Z",
+  "coverage": "full",
+  "causes": {
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "Delaware River Waterfront Corporation sued Sage Software, alleging that a security loophole in its accounting software enabled a former employee to embezzle $2.4 million.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://hallapproved.com/pa/cases/federal/district/2022/9937979/",
+              "title": "DELAWARE RIVER WATERFRONT CORPORATION v. THE SAGE GROUP PLC (2022)",
+              "publishedAt": "2022-12-22T00:00:00.000Z",
+              "quote": "DRWC brought this action to recover $2.4 million dollars that a former employee embezzled using the software."
+            },
+            {
+              "url": "https://hallapproved.com/pa/cases/federal/district/2022/9937979/",
+              "title": "DELAWARE RIVER WATERFRONT CORPORATION v. THE SAGE GROUP PLC (2022)",
+              "publishedAt": "2022-12-22T00:00:00.000Z",
+              "quote": "It contends that Wellspring misrepresented PrintBoss’s security in its marketing materials and on its website, and that Sage’s software program had a security loophole that enabled the embezzlement scheme."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "Sage acknowledged that its Copilot assistant showed unrelated business information to a small number of customers, temporarily suspended the service and reported implementing a fix.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.theregister.com/software/2025/01/20/sage-copilot-grounded-briefly-to-fix-ai-misbehavior/380151",
+              "title": "Sage Copilot grounded briefly to fix AI misbehavior",
+              "publishedAt": "2025-01-20T00:00:00.000Z",
+              "quote": "Sage Group plc has confirmed it temporarily suspended its Sage Copilot, an AI assistant for the UK-based business software maker's accounting tools, this month after it blurted customer information to other users."
+            },
+            {
+              "url": "https://www.theregister.com/software/2025/01/20/sage-copilot-grounded-briefly-to-fix-ai-misbehavior/380151",
+              "title": "Sage Copilot grounded briefly to fix AI misbehavior",
+              "publishedAt": "2025-01-20T00:00:00.000Z",
+              "quote": "The issue showed unrelated business information to a very small number of customers. At no point were any invoices exposed."
+            },
+            {
+              "url": "https://www.theregister.com/software/2025/01/20/sage-copilot-grounded-briefly-to-fix-ai-misbehavior/380151",
+              "title": "Sage Copilot grounded briefly to fix AI misbehavior",
+              "publishedAt": "2025-01-20T00:00:00.000Z",
+              "quote": "The fix is fully implemented and Sage Copilot is performing as expected."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "SBTi validated Sage's target to halve emissions across all scopes by 2030 against a 2019 baseline, aligned with a 1.5°C pathway."
+      ]
+    }
+  }
+}

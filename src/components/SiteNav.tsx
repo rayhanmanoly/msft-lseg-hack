@@ -51,7 +51,7 @@ export function SiteFooter() {
     <footer className="foot">
       <b>Ethos</b> · Invest with purpose. Grow with confidence.
       <br />
-      An educational hackathon prototype using a sample set of companies. Not financial advice.
+      An educational hackathon prototype. Ethical assessments use a growing evidence base and portfolio weights are a placeholder. Not financial advice.
     </footer>
   );
 }

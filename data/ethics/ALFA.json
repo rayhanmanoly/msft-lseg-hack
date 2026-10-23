@@ -1,0 +1,13 @@
+{
+  "ticker": "ALFA",
+  "generatedAt": "2026-10-23T13:30:16.036Z",
+  "coverage": "full",
+  "causes": {
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Alfa’s emission reduction targets were validated by SBTi, including a commitment to reduce Scope 1 and Scope 2 emissions by 42% by 2030."
+      ]
+    }
+  }
+}

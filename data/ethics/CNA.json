@@ -1,0 +1,199 @@
+{
+  "ticker": "CNA",
+  "generatedAt": "2026-10-23T13:15:59.906Z",
+  "coverage": "full",
+  "causes": {
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2018,
+          "summary": "British Gas settled Ofgem's investigation into forced prepayment-meter installations affecting vulnerable customers, an issue first flagged in 2018, agreeing £20m for redress and compensation within a package costing up to £112m.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.bbc.com/news/articles/cq8p7l1y59lo",
+              "title": "British Gas pays £20m to settle probe into force-fitting of prepayment meters",
+              "publishedAt": "2026-05-15T00:00:00.000Z",
+              "quote": "British Gas has agreed to pay £20m into a redress fund and compensate customers to settle an investigation by the energy regulator into the forced fitting of prepayment meters."
+            },
+            {
+              "url": "https://www.bbc.com/news/articles/cq8p7l1y59lo",
+              "title": "British Gas pays £20m to settle probe into force-fitting of prepayment meters",
+              "publishedAt": "2026-05-15T00:00:00.000Z",
+              "quote": "British Gas has apologised, and the complete settlement package will cost the company up to £112m in payments, compensation and writing off customers' debt."
+            },
+            {
+              "url": "https://www.bbc.com/news/articles/cq8p7l1y59lo",
+              "title": "British Gas pays £20m to settle probe into force-fitting of prepayment meters",
+              "publishedAt": "2026-05-15T00:00:00.000Z",
+              "quote": "The regulator found that British Gas was first made aware of the issue in 2018 through an external review. The problem was again flagged in an internal audit in 2021 but the company did not suspend the practice until 2023."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2011,
+          "summary": "Ofgem fined British Gas £2.5m for failing to deal properly with customer complaints.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Centrica",
+              "title": "Centrica",
+              "quote": "In July 2011, British Gas was fined £2.5 million by the energy regulator Ofgem for failing to deal properly with customer complaints."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Centrica",
+              "title": "Centrica",
+              "quote": "failed to deal properly with complaints from micro-businesses because it had not implemented the necessary processes and practices."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Centrica",
+              "title": "Centrica",
+              "quote": "A spokesperson for British Gas said the company felt that finding it in breach of rules for failing to provide adequate information to consumers about the energy ombudsman was \"disproportionate to the mistake\"."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "fair_wages": {
+      "incidents": [
+        {
+          "year": 2015,
+          "summary": "Centrica was named among employers fined for minimum-wage underpayments, having underpaid 356 workers by £167,815 through payroll errors between 2015 and 2019, with affected staff subsequently reimbursed.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c4g7zrmpld0o",
+              "title": "Centrica and Holland & Barrett fined for underpaying staff - BBC News",
+              "publishedAt": "2025-10-16T00:00:00.000Z",
+              "quote": "Centrica, which owns British Gas, was eighth on DBT's list having failed to pay £167,815 to 356 workers."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c4g7zrmpld0o",
+              "title": "Centrica and Holland & Barrett fined for underpaying staff - BBC News",
+              "publishedAt": "2025-10-16T00:00:00.000Z",
+              "quote": "A spokesperson for the company said it supported fair pay and pointed to technical faults in its payroll system between 2015 and 2019."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/c4g7zrmpld0o",
+              "title": "Centrica and Holland & Barrett fined for underpaying staff - BBC News",
+              "publishedAt": "2025-10-16T00:00:00.000Z",
+              "quote": "All three firms blamed past payroll problems for the underpayments and said all affected staff had been remunerated."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [
+        {
+          "year": 2011,
+          "summary": "Ofgem fined British Gas Business £1m for misreporting electricity supplied under the government's renewables obligation, which the company attributed to human error and said it had reported itself.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Centrica",
+              "title": "Centrica",
+              "quote": "British Gas Business was fined £1 million in July 2011 after Ofgem's investigation found the company had misreported the amount of electricity supplied under the British government's renewables obligation."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Centrica",
+              "title": "Centrica",
+              "quote": "British Gas claims it spotted the problem – it said an over-reporting of the amount of renewable energy it was supplying caused by human error – and notified the regulator."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2020,
+          "summary": "Sky News reported that 44% of Centrica's carbon credits purchased between July 2020 and June 2022 came from a supplier of widely discredited HFC-23 offsets banned from regulated emissions trading systems.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://news.sky.com/story/half-of-centricas-carbon-offsets-banned-by-eu-emissions-trading-scheme-in-2013-12708141",
+              "title": "Half of Centrica's carbon offsets banned by EU emissions trading system in 2013 | Sky News",
+              "publishedAt": "2022-09-30T00:00:00.000Z",
+              "quote": "Now records provided by Centrica to the Open Democracy news website and shared exclusively with Sky News, reveal that 44% of Centrica's credits purchased between July 2020 and June 2022 come from a Chinese chemical company called Shandong Dongyue Chemical Company."
+            },
+            {
+              "url": "https://news.sky.com/story/half-of-centricas-carbon-offsets-banned-by-eu-emissions-trading-scheme-in-2013-12708141",
+              "title": "Half of Centrica's carbon offsets banned by EU emissions trading system in 2013 | Sky News",
+              "publishedAt": "2022-09-30T00:00:00.000Z",
+              "quote": "Shandong Dongyue and other manufacturers denied this, but the offsets were widely discredited and eventually banned by a number of tightly regulated Emissions Trading System in the EU and elsewhere."
+            },
+            {
+              "url": "https://news.sky.com/story/half-of-centricas-carbon-offsets-banned-by-eu-emissions-trading-scheme-in-2013-12708141",
+              "title": "Half of Centrica's carbon offsets banned by EU emissions trading system in 2013 | Sky News",
+              "publishedAt": "2022-09-30T00:00:00.000Z",
+              "quote": "There is no suggestion that Centrica has done anything illegal."
+            }
+          ],
+          "severity": 1
+        },
+        {
+          "year": 2008,
+          "summary": "The Advertising Standards Authority upheld a complaint about British Gas's claim that its Zero Carbon tariff was the greenest domestic tariff.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Centrica",
+              "title": "Centrica",
+              "quote": "British Gas was accused of greenwashing in the advertising of its Zero Carbon tariff in January 2008, after the Advertising Standards Authority upheld a complaint about the 'greenest domestic tariff' claim."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "Centrica's drilling work at Hereford County Hospital flushed clay sludge into approximately 800 metres of Eign Brook, prompting a formal warning from the Environment Agency.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.herefordtimes.com/news/19569662.hereford-brook-polluted-works-hospital/",
+              "title": "Heartbreak over pollution of Hereford stream | Hereford Times",
+              "publishedAt": "2021-09-11T00:00:00.000Z",
+              "quote": "Work carried out at the Hereford County Hospital by Centrica, an energy and services company, led to clay sludge being flushed into the Eign Brook, which runs adjacent to the hospital car park."
+            },
+            {
+              "url": "https://www.herefordtimes.com/news/19569662.hereford-brook-polluted-works-hospital/",
+              "title": "Heartbreak over pollution of Hereford stream | Hereford Times",
+              "publishedAt": "2021-09-11T00:00:00.000Z",
+              "quote": "This resulted in fine silty clay sludge being flushed into the brook, contaminating some 800m of watercourse."
+            },
+            {
+              "url": "https://www.herefordtimes.com/news/19569662.hereford-brook-polluted-works-hospital/",
+              "title": "Heartbreak over pollution of Hereford stream | Hereford Times",
+              "publishedAt": "2021-09-11T00:00:00.000Z",
+              "quote": "Centrica have been issued a formal warning letter in this instance."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ticker": "MRO",
+  "generatedAt": "2026-10-23T13:23:41.246Z",
+  "coverage": "full",
+  "causes": {
+    "community_impact": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "An overheating chemical tank at GKN Aerospace's Garden Grove plant prompted the evacuation of 50,000 residents, with a $125 million settlement contingent on court approval.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/news/melrose-shares-climb-on-garden-grove-plant-reopening-timeline-ce7858d8d98cfe2c",
+              "title": "Melrose shares climb on Garden Grove plant reopening timeline | MarketScreener",
+              "publishedAt": "2026-08-25T00:00:00.000Z",
+              "quote": "GKN Aerospace halted production in late May at a suburban Los Angeles plant after an overheating tank raised fears of an explosion and prompted the evacuation of 50,000 nearby residents for several days."
+            },
+            {
+              "url": "https://www.sharecast.com/news/news-and-announcements/ftse-ftse-100-melrose-industries-gkn-aerospace-garden-grove--23835654.html",
+              "title": "Melrose's GKN Aerospace reaches $125m settlement for Garden Grove incident",
+              "publishedAt": "2026-10-13T00:00:00.000Z",
+              "quote": "The settlement comprises a claims programme of up to $100m for eligible residents and businesses, civil enforcement penalties of $15m and claims received to date by emergency services and relevant authorities of $10m."
+            },
+            {
+              "url": "https://www.sharecast.com/news/news-and-announcements/ftse-ftse-100-melrose-industries-gkn-aerospace-garden-grove--23835654.html",
+              "title": "Melrose's GKN Aerospace reaches $125m settlement for Garden Grove incident",
+              "publishedAt": "2026-10-13T00:00:00.000Z",
+              "quote": "The settlement is contingent upon court approval and the claims programme is expected to open within days of court approval."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "A report stated that management immediately dismissed 422 workers at GKN's Campi Bisenzio plant by text message.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://marxist.com/gkn-dispute-in-florence-italian-workers-are-fighting-back.htm",
+              "title": "GKN dispute in Florence – Italian workers are fighting back",
+              "publishedAt": "2021-09-27T00:00:00.000Z",
+              "quote": "On 9 July 2021, 422 workers at the Campi Bisenzio GKN plant near Florence received a text message."
+            },
+            {
+              "url": "https://marxist.com/gkn-dispute-in-florence-italian-workers-are-fighting-back.htm",
+              "title": "GKN dispute in Florence – Italian workers are fighting back",
+              "publishedAt": "2021-09-27T00:00:00.000Z",
+              "quote": "It came from the British multinational’s management, communicating that the workers were immediately and collectively dismissed."
+            },
+            {
+              "url": "https://marxist.com/gkn-dispute-in-florence-italian-workers-are-fighting-back.htm",
+              "title": "GKN dispute in Florence – Italian workers are fighting back",
+              "publishedAt": "2021-09-27T00:00:00.000Z",
+              "quote": "The answer is found in the fact that Melrose Industries PLC bought up GKN in 2018."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    }
+  }
+}

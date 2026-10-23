@@ -1,0 +1,52 @@
+{
+  "ticker": "GAW",
+  "generatedAt": "2026-10-23T13:18:40.403Z",
+  "coverage": "full",
+  "causes": {
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "Games Workshop admitted that some sellers were wrongly included in its trademark-enforcement lawsuit and removed them after the enforcement action froze accused sellers’ stores and funds.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://spikeybits.com/gw-dismisses-warhammer-suit-against-sellers-says-sorry/",
+              "title": "GW Drops Warhammer Suit Against Some Sellers, Says “Sorry”",
+              "publishedAt": "2025-06-03T00:00:00.000Z",
+              "quote": "After swinging hard with a lawsuit against 280 online sellers for Warhammer trademark infringement, they’re now admitting some of those targets shouldn’t have been on the list."
+            },
+            {
+              "url": "https://spikeybits.com/gw-dismisses-warhammer-suit-against-sellers-says-sorry/",
+              "title": "GW Drops Warhammer Suit Against Some Sellers, Says “Sorry”",
+              "publishedAt": "2025-06-03T00:00:00.000Z",
+              "quote": "Brickell IP Group executed this enforcement on behalf of Games Workshop, and the result was frozen online stores and funds for accused sellers, often before they even knew they were being sued."
+            },
+            {
+              "url": "https://spikeybits.com/games-workshop-freezes-assets-amid-world-wide-seller-takedown/",
+              "title": "GW Granted $10m Final Judgment in Warhammer Seller Case",
+              "publishedAt": "2025-08-11T00:00:00.000Z",
+              "quote": "GW quietly removed some wrongly accused sellers from the case"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [],
+      "positives": [
+        "Games Workshop launched a recycling programme for plastic sprues and empty paint pots in parts of the UK and subsequently expanded it."
+      ]
+    },
+    "fair_wages": {
+      "incidents": [],
+      "positives": [
+        "Games Workshop paid employees £18 million in cash payments following a strong year of sales and profits."
+      ]
+    }
+  }
+}

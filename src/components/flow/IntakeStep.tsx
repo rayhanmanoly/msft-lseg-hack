@@ -90,6 +90,7 @@ export function IntakeStep({
 
   const [saved, setSaved] = useState(false);
   const turned = useRef(false);
+  const [exchanged, setExchanged] = useState(false);
 
   useEffect(() => {
     try {
@@ -120,6 +121,7 @@ export function IntakeStep({
   const send = (text: string) => {
     if (!text.trim() || busy || saved) return;
     turned.current = true;
+    setExchanged(true);
     sendMessage({ text });
     setInput('');
   };
@@ -207,10 +209,21 @@ export function IntakeStep({
       </div>
       {onCancel && (
         <div className="actions">
+          {exchanged && !saved && !busy && (
+            <button className="btn" onClick={() => send('Yes, that is right. Please apply these changes now.')}>
+              Apply these changes
+            </button>
+          )}
           <button className="btn ghost" onClick={onCancel} disabled={busy}>
-            Back to results
+            {exchanged && !saved ? 'Discard and go back' : 'Back to results'}
           </button>
-          <small>Changing your preferences clears the results below and re-runs the checks.</small>
+          <small>
+            {saved
+              ? 'Saved. Your results are being recalculated.'
+              : exchanged
+                ? 'Your results only change once the changes are applied.'
+                : 'Clear changes are applied straight away, then your results are recalculated.'}
+          </small>
         </div>
       )}
     </section>

@@ -1,0 +1,103 @@
+{
+  "ticker": "MKS",
+  "generatedAt": "2026-10-23T13:24:01.042Z",
+  "coverage": "full",
+  "causes": {
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "An April cyberattack stole M&S customers’ personal data, prompting collective legal action, while the company attributed the incident to human error.",
+          "relativeScale": 5,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://news.stv.tv/scotland/ms-cyber-attack-class-action-over-data-breach-affecting-millions",
+              "title": "M&S cyber attack: Class action over data breach affecting millions | STV News",
+              "publishedAt": "2025-07-08T00:00:00.000Z",
+              "quote": "Thompsons Solicitors said it is launching a class action lawsuit against the retail giant after a catastrophic data breach in April that saw personal details belonging to millions of customers stolen by cyber criminals."
+            },
+            {
+              "url": "https://news.stv.tv/scotland/ms-cyber-attack-class-action-over-data-breach-affecting-millions",
+              "title": "M&S cyber attack: Class action over data breach affecting millions | STV News",
+              "publishedAt": "2025-07-08T00:00:00.000Z",
+              "quote": "M&S has since admitted that the incident was the result of “human error” and said the fallout is expected to cost the company around £300m."
+            },
+            {
+              "url": "https://news.stv.tv/scotland/ms-cyber-attack-class-action-over-data-breach-affecting-millions",
+              "title": "M&S cyber attack: Class action over data breach affecting millions | STV News",
+              "publishedAt": "2025-07-08T00:00:00.000Z",
+              "quote": "The stolen information included names, email addresses, postal addresses, and dates of birth."
+            }
+          ],
+          "severity": 4
+        }
+      ],
+      "positives": []
+    },
+    "supply_chain": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "Labour groups accused M&S of continuing relationships with Thai suppliers linked to unresolved wage theft and failing to conduct adequate due diligence.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.business-humanrights.org/en/latest-news/thailand-over-900-garment-workers-denied-76-million-severance-as-global-brands-face-accountability-calls/",
+              "title": "Thailand: Over 900 garment workers denied $7.6 million severance as global brands face accountability calls - Business and Human Rights Centre",
+              "publishedAt": "2025-09-16T00:00:00.000Z",
+              "quote": "Next and Marks & Spencer were accused of continuing business relationships with factories linked to unresolved wage theft in Thailand, despite long-standing ties to Body Fashion Limited."
+            },
+            {
+              "url": "https://www.business-humanrights.org/en/latest-news/thailand-over-900-garment-workers-denied-76-million-severance-as-global-brands-face-accountability-calls/",
+              "title": "Thailand: Over 900 garment workers denied $7.6 million severance as global brands face accountability calls - Business and Human Rights Centre",
+              "publishedAt": "2025-09-16T00:00:00.000Z",
+              "quote": "Labour groups allege the brands failed to conduct adequate due diligence while sourcing from Robert Ng–owned suppliers implicated in rights violations affecting over 900 workers."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2021,
+          "summary": "An M&S–Oxfam supply-chain study identified weak worker voice, inadequate social support, unfair promotion processes and working poverty among workers in India and the UK.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.wearehumanlevel.com/content-hub/want-to-know-how-workers-feel-about-working-conditions-ask-them",
+              "title": "Want to know how workers feel about working conditions? Ask them",
+              "publishedAt": "2021-01-18T00:00:00.000Z",
+              "quote": "UK-based retailer Marks & Spencer and non-profit Oxfam undertook a unique partnership to learn about human rights and worker well-being from workers in the company’s supply chain from food manufacturing sites in the UK and footwear factories in India."
+            },
+            {
+              "url": "https://www.wearehumanlevel.com/content-hub/want-to-know-how-workers-feel-about-working-conditions-ask-them",
+              "title": "Want to know how workers feel about working conditions? Ask them",
+              "publishedAt": "2021-01-18T00:00:00.000Z",
+              "quote": "a lack of effective worker voice, fears about speaking out and raising concerns to managers, inadequate social supports like sick pay, a lack of transparency and fairness in promotion processes"
+            },
+            {
+              "url": "https://www.wearehumanlevel.com/content-hub/want-to-know-how-workers-feel-about-working-conditions-ask-them",
+              "title": "Want to know how workers feel about working conditions? Ask them",
+              "publishedAt": "2021-01-18T00:00:00.000Z",
+              "quote": "the prevalence of workers living in “working poverty,” i.e. not earning enough to adequately support themselves and their families."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": [
+        "M&S partnered with Oxfam to study supply-chain workers’ experiences and publicly shared the findings."
+      ]
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "M&S invested £1 million in a cattle-diet initiative intended to reduce methane emissions."
+      ]
+    }
+  }
+}

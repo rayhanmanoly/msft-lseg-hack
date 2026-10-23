@@ -1,0 +1,106 @@
+{
+  "ticker": "SMIN",
+  "generatedAt": "2026-10-23T13:27:56.381Z",
+  "coverage": "full",
+  "causes": {
+    "fair_wages": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "Smiths Detection faced a proposed employee class action alleging unpaid wages and meal and rest break violations, which remained in federal court.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://news.bloomberglaw.com/daily-labor-report/smiths-detection-employees-wage-suit-proceeds-in-federal-court",
+              "title": "Smiths Detection Employee’s Wage Suit Proceeds in Federal Court",
+              "publishedAt": "2022-03-10T00:00:00.000Z",
+              "quote": "Security-tech company Smiths Detection Inc. convinced a federal judge in California to retain jurisdiction over an employee’s proposed class action alleging state law wage and breaks violations."
+            },
+            {
+              "url": "https://news.bloomberglaw.com/daily-labor-report/smiths-detection-employees-wage-suit-proceeds-in-federal-court",
+              "title": "Smiths Detection Employee’s Wage Suit Proceeds in Federal Court",
+              "publishedAt": "2022-03-10T00:00:00.000Z",
+              "quote": "In addition to the alleged break violations, the lawsuit claims that Smiths failed to pay all regular and overtime wages owed, and timely pay final wages."
+            },
+            {
+              "url": "https://news.bloomberglaw.com/daily-labor-report/smiths-detection-employees-wage-suit-proceeds-in-federal-court",
+              "title": "Smiths Detection Employee’s Wage Suit Proceeds in Federal Court",
+              "publishedAt": "2022-03-10T00:00:00.000Z",
+              "quote": "The company established that the case is worth about $5.3 million based on its payroll data and reasonable assumptions about the number of violations experienced by each potential class member"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "Smiths Group’s John Crane unit remained a co-defendant in litigation concerning legacy asbestos-containing products, while Smiths launched a process to sell its US asbestos liability.",
+          "relativeScale": 4,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://live.euronext.com/en/financial-news/uks-smiths-group-beats-profit-forecasts-seeks-sale-us-asbestos-liability",
+              "title": "UK's Smiths Group beats profit forecasts, seeks sale of US asbestos liability | live",
+              "publishedAt": "2026-09-22T00:00:00.000Z",
+              "quote": "Smiths' John Crane unit is among numerous co-defendants in litigation relating to legacy products that contained asbestos."
+            },
+            {
+              "url": "https://live.euronext.com/en/financial-news/uks-smiths-group-beats-profit-forecasts-seeks-sale-us-asbestos-liability",
+              "title": "UK's Smiths Group beats profit forecasts, seeks sale of US asbestos liability | live",
+              "publishedAt": "2026-09-22T00:00:00.000Z",
+              "quote": "The company had set aside £153 million in fiscal 2026 to cover expected future legal costs and adverse judgements, down from £191 million a year earlier."
+            },
+            {
+              "url": "https://live.euronext.com/en/financial-news/uks-smiths-group-beats-profit-forecasts-seeks-sale-us-asbestos-liability",
+              "title": "UK's Smiths Group beats profit forecasts, seeks sale of US asbestos liability | live",
+              "publishedAt": "2026-09-22T00:00:00.000Z",
+              "quote": "British engineering firm Smiths Group beat expectations with its full-year operating profit on Tuesday and launched a process to sell its US asbestos liability"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "Smiths Group reported unauthorised access to its systems and isolated affected systems while working with experts to recover them and assess wider impacts.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://wsau.com/2025/01/28/uk-engineering-firm-smiths-group-hit-by-cyber-attack/",
+              "title": "UK engineering firm Smiths Group hit by cyber attack | WSAU News/Talk 550 AM · 99.9 FM | Wausau, Stevens Point",
+              "publishedAt": "2025-01-28T00:00:00.000Z",
+              "quote": "British engineering firm Smiths Group is managing a cybersecurity incident that involved unauthorised access to its systems, the company said on Tuesday"
+            },
+            {
+              "url": "https://wsau.com/2025/01/28/uk-engineering-firm-smiths-group-hit-by-cyber-attack/",
+              "title": "UK engineering firm Smiths Group hit by cyber attack | WSAU News/Talk 550 AM · 99.9 FM | Wausau, Stevens Point",
+              "publishedAt": "2025-01-28T00:00:00.000Z",
+              "quote": "The company, best known for making baggage-screening kits and explosive detectors, said it had isolated the affected systems when it became aware of the incident."
+            },
+            {
+              "url": "https://wsau.com/2025/01/28/uk-engineering-firm-smiths-group-hit-by-cyber-attack/",
+              "title": "UK engineering firm Smiths Group hit by cyber attack | WSAU News/Talk 550 AM · 99.9 FM | Wausau, Stevens Point",
+              "publishedAt": "2025-01-28T00:00:00.000Z",
+              "quote": "Smiths Group said it was working with experts to recover its systems and to determine any wider impact."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

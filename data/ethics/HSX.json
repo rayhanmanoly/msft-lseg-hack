@@ -1,0 +1,73 @@
+{
+  "ticker": "HSX",
+  "generatedAt": "2026-10-23T13:18:42.631Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2019,
+          "summary": "A Hiscox manager faces a criminal charge in Greece over allegedly false evidence submitted in 2019 and 2020 to support a former colleague’s extradition, and denies wrongdoing.",
+          "relativeScale": 1,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.insurancejournal.com/news/international/2026/03/20/862732.htm",
+              "title": "Hiscox Manager Faces Greek Perjury Charge Over Extradition Case",
+              "publishedAt": "2026-03-20T00:00:00.000Z",
+              "quote": "A manager at London-listed insurer Hiscox faces a criminal charge of providing false testimony during an attempted extradition of a former colleague from Greece to Bermuda, court proceedings and filings seen by Reuters show."
+            },
+            {
+              "url": "https://www.royalgazette.com/court/news/article/20260321/hiscox-manager-faces-charge-in-greece-over-bermuda-case/",
+              "title": "Hiscox manager faces charge in Greece over Bermuda case - The Royal Gazette | Bermuda News, Business, Sports, Events, &amp; Community |",
+              "publishedAt": "2026-03-21T00:00:00.000Z",
+              "quote": "An Athens prosecutor alleges the manager submitted false evidence in 2019 and 2020 in support of a request to extradite Yuval Abraham, a former Hiscox Services Ltd chief financial officer, to Bermuda, according to court filings seen by Reuters."
+            },
+            {
+              "url": "https://www.insurancejournal.com/news/international/2026/03/20/862732.htm",
+              "title": "Hiscox Manager Faces Greek Perjury Charge Over Extradition Case",
+              "publishedAt": "2026-03-20T00:00:00.000Z",
+              "quote": "A lawyer for the Hiscox manager told an Athens court hearing on March 4 that his client denied wrongdoing and that the case should be struck out because a court summons had been served in Greek rather than English."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "Hiscox exited a lawsuit concerning allegedly mishandled motor insurance claims through a settlement after being accused of voiding a broker’s indemnity policy.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.law360.com/articles/1314622/hiscox-drops-out-of-9m-motor-claims-suit-with-settlement",
+              "title": "Hiscox Drops Out Of £9M Motor Claims Suit With Settlement - Law360",
+              "publishedAt": "2020-09-30T00:00:00.000Z",
+              "quote": "Hiscox Drops Out Of £9M Motor Claims Suit With Settlement"
+            },
+            {
+              "url": "https://www.law360.com/articles/1314622/hiscox-drops-out-of-9m-motor-claims-suit-with-settlement",
+              "title": "Hiscox Drops Out Of £9M Motor Claims Suit With Settlement - Law360",
+              "publishedAt": "2020-09-30T00:00:00.000Z",
+              "quote": "Hiscox has dropped out of an £8.8 million ($11 million) London lawsuit over allegedly mishandled motor insurance claims, months after being accused of voiding a broker's indemnity policy."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Hiscox ruled out insurance for Adani’s Carmichael coal mine project."
+      ]
+    }
+  }
+}

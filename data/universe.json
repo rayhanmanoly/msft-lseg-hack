@@ -1,0 +1,4382 @@
+[
+  {
+    "ticker": "III",
+    "name": "3i",
+    "sector": "Financials",
+    "industries": [
+      "Private equity",
+      "Infrastructure investment"
+    ],
+    "activityTags": [],
+    "description": "3i invests in private equity and infrastructure businesses, with a major holding in discount retailer Action.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "ABDN",
+    "name": "Aberdeen Group",
+    "sector": "Financials",
+    "industries": [
+      "Asset management",
+      "Investment platforms"
+    ],
+    "activityTags": [],
+    "description": "Aberdeen Group provides investment management, financial planning and investment platform services to institutional and individual clients.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "ADM",
+    "name": "Admiral Group",
+    "sector": "Financials",
+    "industries": [
+      "Property and casualty insurance"
+    ],
+    "activityTags": [],
+    "description": "Admiral Group provides motor, household and other insurance products, alongside consumer lending.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "AAF",
+    "name": "Airtel Africa",
+    "sector": "Communication Services",
+    "industries": [
+      "Wireless telecommunications",
+      "Mobile money"
+    ],
+    "activityTags": [],
+    "description": "Airtel Africa provides mobile telecommunications, data and mobile money services across sub-Saharan Africa.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "AAL",
+    "name": "Anglo American plc",
+    "sector": "Materials",
+    "industries": [
+      "Diversified mining"
+    ],
+    "activityTags": [],
+    "description": "Anglo American mines and processes commodities including copper and iron ore.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "ANTO",
+    "name": "Antofagasta plc",
+    "sector": "Materials",
+    "industries": [
+      "Copper mining"
+    ],
+    "activityTags": [],
+    "description": "Antofagasta operates copper mines in Chile, producing copper and associated by-products including gold and molybdenum.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "ABF",
+    "name": "Associated British Foods",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Food production",
+      "Apparel retail"
+    ],
+    "activityTags": [
+      "fast_fashion"
+    ],
+    "description": "Associated British Foods operates grocery, sugar, ingredients and agricultural businesses, alongside clothing retailer Primark.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "AZN",
+    "name": "AstraZeneca",
+    "sector": "Health Care",
+    "industries": [
+      "Pharmaceuticals",
+      "Biotechnology"
+    ],
+    "activityTags": [
+      "animal_testing"
+    ],
+    "description": "AstraZeneca researches, develops and markets medicines for cancer, cardiovascular, respiratory, rare and other diseases.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "AUTO",
+    "name": "Autotrader Group",
+    "sector": "Communication Services",
+    "industries": [
+      "Online classifieds",
+      "Digital automotive marketplaces"
+    ],
+    "activityTags": [],
+    "description": "Auto Trader operates a digital automotive marketplace connecting vehicle buyers with dealers and private sellers.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "AV",
+    "name": "Aviva",
+    "sector": "Financials",
+    "industries": [
+      "Multiline insurance",
+      "Retirement services"
+    ],
+    "activityTags": [],
+    "description": "Aviva provides general insurance, life insurance, pensions and investment services.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "BAB",
+    "name": "Babcock International",
+    "sector": "Industrials",
+    "industries": [
+      "Defence engineering",
+      "Technical support services"
+    ],
+    "activityTags": [
+      "weapons",
+      "nuclear"
+    ],
+    "description": "Babcock provides defence engineering, naval vessel maintenance, nuclear infrastructure services and technical support.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "BA",
+    "name": "BAE Systems",
+    "sector": "Industrials",
+    "industries": [
+      "Aerospace and defence"
+    ],
+    "activityTags": [
+      "weapons"
+    ],
+    "description": "BAE Systems develops and manufactures military aircraft, naval vessels, armoured vehicles, weapons and electronic systems.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "BBY",
+    "name": "Balfour Beatty",
+    "sector": "Industrials",
+    "industries": [
+      "Construction and engineering",
+      "Infrastructure investment"
+    ],
+    "activityTags": [],
+    "description": "Balfour Beatty builds, maintains and invests in transport, energy and other infrastructure.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "BARC",
+    "name": "Barclays",
+    "sector": "Financials",
+    "industries": [
+      "Diversified banking",
+      "Investment banking"
+    ],
+    "activityTags": [],
+    "description": "Barclays provides retail and corporate banking, credit cards, investment banking and wealth management services.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "BTRW",
+    "name": "Barratt Redrow",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Homebuilding"
+    ],
+    "activityTags": [],
+    "description": "Barratt Redrow develops and sells residential homes across Britain under the Barratt, David Wilson and Redrow brands.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "BP",
+    "name": "BP",
+    "sector": "Energy",
+    "industries": [
+      "Integrated oil and gas"
+    ],
+    "activityTags": [
+      "fossil_fuels"
+    ],
+    "description": "BP explores for, produces, refines and markets oil and gas, and operates fuel retail and trading businesses.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "BATS",
+    "name": "British American Tobacco",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Tobacco",
+      "Nicotine products"
+    ],
+    "activityTags": [
+      "tobacco"
+    ],
+    "description": "British American Tobacco manufactures and markets cigarettes, vaping products, heated tobacco and oral nicotine products.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "BLND",
+    "name": "British Land",
+    "sector": "Real Estate",
+    "industries": [
+      "Diversified REIT",
+      "Property development"
+    ],
+    "activityTags": [],
+    "description": "British Land owns, develops and manages commercial property, including London campuses and retail parks.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "BTA",
+    "name": "BT Group",
+    "sector": "Communication Services",
+    "industries": [
+      "Integrated telecommunications"
+    ],
+    "activityTags": [],
+    "description": "BT Group provides fixed-line, broadband, mobile and business telecommunications services, including through EE and Openreach.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "BNZL",
+    "name": "Bunzl",
+    "sector": "Industrials",
+    "industries": [
+      "Business supplies distribution"
+    ],
+    "activityTags": [],
+    "description": "Bunzl distributes packaging, cleaning, safety, healthcare and foodservice supplies to business customers.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "BRBY",
+    "name": "Burberry Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Luxury apparel",
+      "Accessories"
+    ],
+    "activityTags": [],
+    "description": "Burberry designs, markets and sells luxury clothing, outerwear, leather goods and accessories.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "CNA",
+    "name": "Centrica",
+    "sector": "Utilities",
+    "industries": [
+      "Energy supply",
+      "Power generation"
+    ],
+    "activityTags": [
+      "fossil_fuels",
+      "nuclear"
+    ],
+    "description": "Centrica supplies gas and electricity, provides energy services, and holds interests in gas production, storage and nuclear generation.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "CCEP",
+    "name": "Coca-Cola Europacific Partners",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Soft drinks",
+      "Beverage bottling"
+    ],
+    "activityTags": [],
+    "description": "Coca-Cola Europacific Partners produces, distributes and sells Coca-Cola and other non-alcoholic beverages across Europe and Asia-Pacific.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "CCH",
+    "name": "Coca-Cola HBC",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Soft drinks",
+      "Beverage bottling"
+    ],
+    "activityTags": [],
+    "description": "Coca-Cola HBC produces, distributes and sells Coca-Cola and other beverages across markets in Europe and Africa.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "CPG",
+    "name": "Compass Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Contract catering",
+      "Food services"
+    ],
+    "activityTags": [],
+    "description": "Compass Group provides contract catering and related support services to workplaces, schools, hospitals and other institutions.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "CCC",
+    "name": "Computacenter",
+    "sector": "Information Technology",
+    "industries": [
+      "IT services",
+      "Technology distribution"
+    ],
+    "activityTags": [],
+    "description": "Computacenter supplies IT infrastructure, consulting and managed technology services to businesses and public-sector organisations.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "CTEC",
+    "name": "Convatec",
+    "sector": "Health Care",
+    "industries": [
+      "Medical devices",
+      "Medical supplies"
+    ],
+    "activityTags": [],
+    "description": "Convatec develops and manufactures products for wound care, ostomy care, continence care and infusion therapy.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "CRDA",
+    "name": "Croda International",
+    "sector": "Materials",
+    "industries": [
+      "Specialty chemicals"
+    ],
+    "activityTags": [],
+    "description": "Croda produces specialty ingredients for consumer care, pharmaceuticals and industrial applications.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "DCC",
+    "name": "DCC Energy",
+    "sector": "Energy",
+    "industries": [
+      "Energy distribution",
+      "Energy services"
+    ],
+    "activityTags": [
+      "fossil_fuels"
+    ],
+    "description": "DCC distributes liquefied petroleum gas, liquid fuels and other energy products, alongside energy management and related services.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "DGE",
+    "name": "Diageo",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Distillers",
+      "Brewers"
+    ],
+    "activityTags": [
+      "alcohol"
+    ],
+    "description": "Diageo produces and markets spirits and beer, including Johnnie Walker, Smirnoff and Guinness.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "DPLM",
+    "name": "Diploma",
+    "sector": "Industrials",
+    "industries": [
+      "Industrial distribution",
+      "Technical products"
+    ],
+    "activityTags": [],
+    "description": "Diploma supplies specialised technical products and services across controls, seals and life sciences markets.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "EZJ",
+    "name": "EasyJet",
+    "sector": "Industrials",
+    "industries": [
+      "Passenger airlines",
+      "Package holidays"
+    ],
+    "activityTags": [],
+    "description": "EasyJet operates a low-cost European airline and sells package holidays through its holidays business.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "EDV",
+    "name": "Endeavour Mining",
+    "sector": "Materials",
+    "industries": [
+      "Gold mining"
+    ],
+    "activityTags": [],
+    "description": "Endeavour Mining operates gold mines and develops gold projects in West Africa.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "EXPN",
+    "name": "Experian",
+    "sector": "Industrials",
+    "industries": [
+      "Credit reporting",
+      "Data analytics"
+    ],
+    "activityTags": [],
+    "description": "Experian provides credit reporting, data analytics and decision-support services to businesses and consumers.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "FCIT",
+    "name": "F & C Investment Trust",
+    "sector": "Financials",
+    "industries": [
+      "Investment trusts"
+    ],
+    "activityTags": [],
+    "description": "F&C Investment Trust invests in a diversified global portfolio of listed equities and private equity investments.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "FRES",
+    "name": "Fresnillo plc",
+    "sector": "Materials",
+    "industries": [
+      "Silver mining",
+      "Gold mining"
+    ],
+    "activityTags": [],
+    "description": "Fresnillo mines silver and gold, principally through operations in Mexico.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "GAW",
+    "name": "Games Workshop",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Leisure products",
+      "Intellectual property licensing"
+    ],
+    "activityTags": [],
+    "description": "Games Workshop designs, manufactures and sells Warhammer miniature figures and tabletop games, and licenses its intellectual property.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "GLEN",
+    "name": "Glencore",
+    "sector": "Materials",
+    "industries": [
+      "Diversified mining",
+      "Commodity trading"
+    ],
+    "activityTags": [
+      "fossil_fuels",
+      "coal"
+    ],
+    "description": "Glencore produces and markets metals, minerals and energy commodities, with substantial coal mining and commodity trading operations.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "GSK",
+    "name": "GSK plc",
+    "sector": "Health Care",
+    "industries": [
+      "Pharmaceuticals",
+      "Vaccines"
+    ],
+    "activityTags": [
+      "animal_testing"
+    ],
+    "description": "GSK researches, develops and manufactures prescription medicines and vaccines for global markets.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "HLN",
+    "name": "Haleon",
+    "sector": "Health Care",
+    "industries": [
+      "Consumer health",
+      "Non-prescription medicines"
+    ],
+    "activityTags": [],
+    "description": "Haleon produces consumer health products spanning oral care, pain relief, respiratory health, digestive health and nutritional supplements.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "HLMA",
+    "name": "Halma plc",
+    "sector": "Information Technology",
+    "industries": [
+      "Electronic instruments",
+      "Safety technology"
+    ],
+    "activityTags": [],
+    "description": "Halma develops safety, environmental monitoring and healthcare technologies through a portfolio of specialist businesses.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "HSX",
+    "name": "Hiscox",
+    "sector": "Financials",
+    "industries": [
+      "Property and casualty insurance",
+      "Reinsurance"
+    ],
+    "activityTags": [],
+    "description": "Hiscox provides specialist insurance for individuals and businesses, alongside reinsurance and London market underwriting.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "HWDN",
+    "name": "Howdens Joinery",
+    "sector": "Industrials",
+    "industries": [
+      "Building products",
+      "Kitchen manufacturing"
+    ],
+    "activityTags": [],
+    "description": "Howdens manufactures and supplies kitchens, joinery products and hardware, primarily to trade customers.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "HSBA",
+    "name": "HSBC",
+    "sector": "Financials",
+    "industries": [
+      "Banking",
+      "Wealth management"
+    ],
+    "activityTags": [],
+    "description": "HSBC provides personal and commercial banking, wealth management and institutional financial services across international markets.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "ICG",
+    "name": "ICG",
+    "sector": "Financials",
+    "industries": [
+      "Alternative asset management",
+      "Private credit"
+    ],
+    "activityTags": [],
+    "description": "ICG manages alternative investments across private debt, private equity, real assets and structured credit.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "IGG",
+    "name": "IG Group",
+    "sector": "Financials",
+    "industries": [
+      "Online brokerage",
+      "Derivatives trading"
+    ],
+    "activityTags": [],
+    "description": "IG Group provides online trading and investment platforms for derivatives, shares and other financial instruments.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "IHG",
+    "name": "IHG Hotels & Resorts",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Hotels",
+      "Hotel franchising"
+    ],
+    "activityTags": [],
+    "description": "IHG franchises and manages hotels under brands including InterContinental, Holiday Inn and Crowne Plaza.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "IMI",
+    "name": "IMI",
+    "sector": "Industrials",
+    "industries": [
+      "Industrial machinery",
+      "Flow control"
+    ],
+    "activityTags": [],
+    "description": "IMI designs and manufactures precision fluid-control equipment for industrial automation, energy and other engineering applications.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "IMB",
+    "name": "Imperial Brands",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Tobacco",
+      "Nicotine products"
+    ],
+    "activityTags": [
+      "tobacco"
+    ],
+    "description": "Imperial Brands manufactures and markets cigarettes, other tobacco products and alternative nicotine products.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "INF",
+    "name": "Informa",
+    "sector": "Communication Services",
+    "industries": [
+      "Business events",
+      "Academic publishing"
+    ],
+    "activityTags": [],
+    "description": "Informa operates business exhibitions and conferences, provides specialist information services, and publishes academic research through Taylor & Francis.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "IAG",
+    "name": "International Airlines Group",
+    "sector": "Industrials",
+    "industries": [
+      "Airlines"
+    ],
+    "activityTags": [],
+    "description": "Airline group operating British Airways, Iberia, Aer Lingus, Vueling and LEVEL, providing passenger and cargo transport.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "ITRK",
+    "name": "Intertek",
+    "sector": "Industrials",
+    "industries": [
+      "Testing and inspection",
+      "Certification services"
+    ],
+    "activityTags": [],
+    "description": "Provides assurance, testing, inspection and certification services to businesses across manufacturing, trade and consumer markets.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "INVP",
+    "name": "Investec",
+    "sector": "Financials",
+    "industries": [
+      "Specialist banking",
+      "Wealth management"
+    ],
+    "activityTags": [],
+    "description": "Provides specialist banking and wealth management services, principally in South Africa and the United Kingdom.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "ITH",
+    "name": "Ithaca Energy",
+    "sector": "Energy",
+    "industries": [
+      "Oil and gas production"
+    ],
+    "activityTags": [
+      "fossil_fuels"
+    ],
+    "description": "Explores for, develops and produces oil and natural gas from offshore fields in the UK North Sea.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "JD",
+    "name": "JD Sports",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Sportswear retail",
+      "Footwear retail"
+    ],
+    "activityTags": [],
+    "description": "International retailer of branded athletic footwear, sportswear and accessories through JD and other retail chains.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "BGEO",
+    "name": "Lion Finance Group",
+    "sector": "Financials",
+    "industries": [
+      "Banking"
+    ],
+    "activityTags": [],
+    "description": "Banking group operating Bank of Georgia and Armenia's Ameriabank, serving retail customers and businesses.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "KGF",
+    "name": "Kingfisher plc",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Home improvement retail"
+    ],
+    "activityTags": [],
+    "description": "Operates home improvement retailers including B&Q, Screwfix and Castorama, selling building materials, tools and household improvement products.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "LAND",
+    "name": "Land Securities",
+    "sector": "Real Estate",
+    "industries": [
+      "Commercial REIT",
+      "Property development"
+    ],
+    "activityTags": [],
+    "description": "Owns, manages and develops UK commercial property, including offices, shopping centres and mixed-use destinations.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "LGEN",
+    "name": "Legal & General",
+    "sector": "Financials",
+    "industries": [
+      "Life insurance",
+      "Asset management"
+    ],
+    "activityTags": [],
+    "description": "Provides retirement products, life insurance and investment management services to individuals and institutional clients.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "LLOY",
+    "name": "Lloyds Banking Group",
+    "sector": "Financials",
+    "industries": [
+      "Banking",
+      "Insurance"
+    ],
+    "activityTags": [],
+    "description": "UK financial services group providing retail and commercial banking, lending and insurance through brands including Lloyds, Halifax and Scottish Widows.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "LMP",
+    "name": "LondonMetric Property",
+    "sector": "Real Estate",
+    "industries": [
+      "Commercial REIT",
+      "Logistics property"
+    ],
+    "activityTags": [],
+    "description": "UK real estate investment trust owning logistics facilities and other commercial properties leased to business tenants.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "LSEG",
+    "name": "London Stock Exchange Group",
+    "sector": "Financials",
+    "industries": [
+      "Financial data",
+      "Exchanges and clearing"
+    ],
+    "activityTags": [],
+    "description": "Provides financial market data, analytics, trading venues and clearing services, including the London Stock Exchange and LCH.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "MNG",
+    "name": "M&G",
+    "sector": "Financials",
+    "industries": [
+      "Asset management",
+      "Life insurance"
+    ],
+    "activityTags": [],
+    "description": "Provides investment management, savings and retirement products through M&G Investments and Prudential-branded UK insurance operations.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "MKS",
+    "name": "Marks & Spencer",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Food retail",
+      "Clothing and home retail"
+    ],
+    "activityTags": [],
+    "description": "British retailer selling food, clothing and home products through stores and online channels.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "MRO",
+    "name": "Melrose Industries",
+    "sector": "Industrials",
+    "industries": [
+      "Aerospace components",
+      "Defence aerospace"
+    ],
+    "activityTags": [
+      "weapons"
+    ],
+    "description": "Owns GKN Aerospace, supplying aircraft structures and engine components for commercial aviation and military aircraft programmes.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "MTLN",
+    "name": "Metlen Energy & Metals",
+    "sector": "Utilities",
+    "industries": [
+      "Integrated energy",
+      "Aluminium production"
+    ],
+    "activityTags": [
+      "fossil_fuels",
+      "renewables"
+    ],
+    "description": "Operates power generation, energy supply and renewable development businesses alongside aluminium and alumina production.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "NG",
+    "name": "National Grid plc",
+    "sector": "Utilities",
+    "industries": [
+      "Electricity networks",
+      "Gas distribution"
+    ],
+    "activityTags": [
+      "fossil_fuels"
+    ],
+    "description": "Owns and operates electricity transmission and distribution networks in Britain and electricity and natural gas networks in the northeastern United States.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "NWG",
+    "name": "NatWest Group",
+    "sector": "Financials",
+    "industries": [
+      "Banking"
+    ],
+    "activityTags": [],
+    "description": "Provides retail, commercial and private banking services through brands including NatWest, Royal Bank of Scotland and Coutts.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "NXT",
+    "name": "Next plc",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Clothing retail",
+      "Online retail"
+    ],
+    "activityTags": [],
+    "description": "Retailer selling clothing, footwear and home products through stores and online, also providing e-commerce services for partner brands.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "PSON",
+    "name": "Pearson plc",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Education services",
+      "Educational publishing"
+    ],
+    "activityTags": [],
+    "description": "Provides educational content, digital learning platforms, assessments and qualifications to learners, institutions and employers.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "PSH",
+    "name": "Pershing Square Holdings",
+    "sector": "Financials",
+    "industries": [
+      "Closed-end investment fund"
+    ],
+    "activityTags": [],
+    "description": "Closed-end investment company managed by Pershing Square Capital Management, holding a concentrated portfolio primarily of listed equities.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "PRU",
+    "name": "Prudential plc",
+    "sector": "Financials",
+    "industries": [
+      "Life insurance",
+      "Asset management"
+    ],
+    "activityTags": [],
+    "description": "Provides life and health insurance and asset management services, principally across Asia and Africa.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "RKT",
+    "name": "Reckitt",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Household products",
+      "Consumer health products"
+    ],
+    "activityTags": [],
+    "description": "Produces branded consumer health, hygiene and household products, including Dettol, Lysol, Durex and Nurofen.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "REL",
+    "name": "RELX",
+    "sector": "Industrials",
+    "industries": [
+      "Information and analytics",
+      "Professional services"
+    ],
+    "activityTags": [],
+    "description": "Provides information and analytics for scientific, legal and risk-management customers, and organises trade exhibitions.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "RTO",
+    "name": "Rentokil Initial",
+    "sector": "Industrials",
+    "industries": [
+      "Pest control",
+      "Hygiene services"
+    ],
+    "activityTags": [],
+    "description": "Provides pest control and commercial hygiene services to businesses and households internationally.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "RIO",
+    "name": "Rio Tinto",
+    "sector": "Materials",
+    "industries": [
+      "Diversified mining",
+      "Metals production"
+    ],
+    "activityTags": [],
+    "description": "Rio Tinto mines and processes iron ore, aluminium, copper and other minerals worldwide.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "RR",
+    "name": "Rolls-Royce Holdings",
+    "sector": "Industrials",
+    "industries": [
+      "Aerospace and defence",
+      "Power systems"
+    ],
+    "activityTags": [
+      "weapons",
+      "nuclear"
+    ],
+    "description": "Rolls-Royce develops aircraft engines, defence propulsion systems, submarine nuclear reactors and power systems.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "SGE",
+    "name": "Sage Group",
+    "sector": "Information Technology",
+    "industries": [
+      "Business software",
+      "Accounting software"
+    ],
+    "activityTags": [],
+    "description": "Sage provides accounting, payroll and business management software, primarily for small and medium-sized businesses.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "SBRY",
+    "name": "Sainsbury's",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Grocery retail",
+      "General merchandise retail"
+    ],
+    "activityTags": [],
+    "description": "Sainsbury's operates supermarkets and convenience stores and owns general merchandise retailer Argos.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "SMT",
+    "name": "Scottish Mortgage Investment Trust",
+    "sector": "Financials",
+    "industries": [
+      "Investment trusts",
+      "Global equity investing"
+    ],
+    "activityTags": [],
+    "description": "Scottish Mortgage is an investment trust investing in listed and private growth companies worldwide.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "SGRO",
+    "name": "Segro",
+    "sector": "Real Estate",
+    "industries": [
+      "Industrial REITs",
+      "Logistics property"
+    ],
+    "activityTags": [],
+    "description": "Segro owns, develops and manages warehouses and industrial properties across the UK and continental Europe.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "SVT",
+    "name": "Severn Trent",
+    "sector": "Utilities",
+    "industries": [
+      "Water utilities",
+      "Wastewater services"
+    ],
+    "activityTags": [],
+    "description": "Severn Trent provides regulated water supply and wastewater services, principally in England and Wales.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "SHEL",
+    "name": "Shell plc",
+    "sector": "Energy",
+    "industries": [
+      "Integrated oil and gas",
+      "LNG"
+    ],
+    "activityTags": [
+      "fossil_fuels"
+    ],
+    "description": "Shell produces, processes and markets oil, natural gas, liquefied natural gas, fuels and petrochemicals worldwide.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "SMIN",
+    "name": "Smiths Group",
+    "sector": "Industrials",
+    "industries": [
+      "Industrial technology",
+      "Detection systems"
+    ],
+    "activityTags": [],
+    "description": "Smiths Group supplies industrial technologies including mechanical seals, security detection equipment and specialised components.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "SN",
+    "name": "Smith & Nephew",
+    "sector": "Health Care",
+    "industries": [
+      "Medical devices",
+      "Orthopaedics and wound care"
+    ],
+    "activityTags": [],
+    "description": "Smith & Nephew manufactures orthopaedic implants, surgical equipment, sports medicine products and advanced wound care products.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "SPX",
+    "name": "Spirax Group",
+    "sector": "Industrials",
+    "industries": [
+      "Thermal management",
+      "Fluid handling equipment"
+    ],
+    "activityTags": [],
+    "description": "Spirax Group supplies steam systems, electric thermal solutions and precision fluid handling equipment to industrial customers.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "SSE",
+    "name": "SSE plc",
+    "sector": "Utilities",
+    "industries": [
+      "Electric utilities",
+      "Power generation"
+    ],
+    "activityTags": [
+      "fossil_fuels",
+      "renewables"
+    ],
+    "description": "SSE operates electricity networks and generates power from renewable sources and gas-fired plants.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "STAN",
+    "name": "Standard Chartered",
+    "sector": "Financials",
+    "industries": [
+      "Banking",
+      "Corporate and consumer finance"
+    ],
+    "activityTags": [],
+    "description": "Standard Chartered provides banking and financial services, with a strong presence in Asia, Africa and the Middle East.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "SDLF",
+    "name": "Standard Life",
+    "sector": "Financials",
+    "industries": [
+      "Life insurance",
+      "Pensions and savings"
+    ],
+    "activityTags": [],
+    "description": "Standard Life provides pensions, retirement savings and life insurance products.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "STJ",
+    "name": "St. James's Place",
+    "sector": "Financials",
+    "industries": [
+      "Wealth management",
+      "Financial advice"
+    ],
+    "activityTags": [],
+    "description": "St. James's Place provides financial advice and manages investments, pensions and other wealth products through its adviser network.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "TSCO",
+    "name": "Tesco",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Grocery retail",
+      "Food wholesale"
+    ],
+    "activityTags": [],
+    "description": "Tesco operates supermarkets and convenience stores and supplies food and other goods through its Booker wholesale business.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "BBOX",
+    "name": "Tritax Big Box REIT",
+    "sector": "Real Estate",
+    "industries": [
+      "Industrial REITs",
+      "Logistics property"
+    ],
+    "activityTags": [],
+    "description": "Tritax Big Box REIT owns and develops large logistics warehouses and distribution facilities in the UK.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "ULVR",
+    "name": "Unilever",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Household and personal products",
+      "Packaged foods"
+    ],
+    "activityTags": [
+      "palm_oil"
+    ],
+    "description": "Unilever manufactures branded personal care, household and food products, using palm oil and its derivatives across numerous product categories.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "UU",
+    "name": "United Utilities",
+    "sector": "Utilities",
+    "industries": [
+      "Water utilities",
+      "Wastewater services"
+    ],
+    "activityTags": [],
+    "description": "United Utilities supplies regulated water and wastewater services across northwest England.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "VOD",
+    "name": "Vodafone Group",
+    "sector": "Communication Services",
+    "industries": [
+      "Mobile telecommunications",
+      "Fixed connectivity"
+    ],
+    "activityTags": [],
+    "description": "Vodafone provides mobile and fixed telecommunications, broadband and business connectivity services across European and African markets.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "WEIR",
+    "name": "Weir",
+    "sector": "Industrials",
+    "industries": [
+      "Mining equipment",
+      "Industrial engineering"
+    ],
+    "activityTags": [],
+    "description": "Weir supplies mining equipment, including pumps, crushing systems and wear-resistant components, alongside aftermarket services.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "WTB",
+    "name": "Whitbread",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Hotels",
+      "Hospitality"
+    ],
+    "activityTags": [],
+    "description": "Whitbread operates Premier Inn hotels and associated food and beverage services, principally in the UK and Germany.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "WPP",
+    "name": "WPP",
+    "sector": "Communication Services",
+    "industries": [
+      "Advertising",
+      "Marketing services"
+    ],
+    "activityTags": [],
+    "description": "WPP provides advertising, media planning and buying, public relations and other marketing services to clients worldwide.",
+    "tier": "deep",
+    "index": "FTSE100"
+  },
+  {
+    "ticker": "3IN",
+    "name": "3i Infrastructure",
+    "sector": "Financials",
+    "industries": [
+      "Investment companies",
+      "Infrastructure investing"
+    ],
+    "activityTags": [],
+    "description": "3i Infrastructure is an investment company holding a portfolio of infrastructure businesses, principally in Europe.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "FOUR",
+    "name": "4imprint",
+    "sector": "Communication Services",
+    "industries": [
+      "Advertising services",
+      "Promotional merchandise"
+    ],
+    "activityTags": [],
+    "description": "4imprint sells customised promotional merchandise to businesses and organisations, primarily in North America.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "AEP",
+    "name": "AEP Plantations",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Plantations",
+      "Palm oil production"
+    ],
+    "activityTags": [
+      "palm_oil"
+    ],
+    "description": "Operates plantations in Indonesia and Malaysia, producing palm oil and other agricultural commodities.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ALFA",
+    "name": "Alfa Financial Software",
+    "sector": "Information Technology",
+    "industries": [
+      "Application software",
+      "Financial software"
+    ],
+    "activityTags": [],
+    "description": "Develops software for asset finance businesses, supporting equipment and vehicle financing operations.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "AMRQ",
+    "name": "Amaroq",
+    "sector": "Materials",
+    "industries": [
+      "Gold mining",
+      "Mineral exploration"
+    ],
+    "activityTags": [],
+    "description": "Develops gold mining and mineral exploration projects in Greenland, including the Nalunaq gold mine.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "AO",
+    "name": "AO World",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Online retail",
+      "Electrical appliances"
+    ],
+    "activityTags": [],
+    "description": "Retails household appliances and consumer electronics online, with delivery, installation and appliance recycling services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "APN",
+    "name": "Applied Nutrition",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Sports nutrition",
+      "Nutritional supplements"
+    ],
+    "activityTags": [],
+    "description": "Develops, manufactures and markets sports nutrition products, including protein powders, supplements and hydration products.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ASHM",
+    "name": "Ashmore Group",
+    "sector": "Financials",
+    "industries": [
+      "Asset management"
+    ],
+    "activityTags": [],
+    "description": "Manages investments specialising in emerging markets across debt, equities and other asset classes.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ASC",
+    "name": "ASOS",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Online fashion retail"
+    ],
+    "activityTags": [
+      "fast_fashion"
+    ],
+    "description": "Sells own-brand and third-party fashion, footwear and beauty products through its online retail platform.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ATYM",
+    "name": "Atalaya Mining",
+    "sector": "Materials",
+    "industries": [
+      "Copper mining"
+    ],
+    "activityTags": [],
+    "description": "Produces copper concentrate from mining operations in Spain, principally the Riotinto mine.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ATG",
+    "name": "Auction Technology Group",
+    "sector": "Information Technology",
+    "industries": [
+      "Auction software",
+      "Online marketplaces"
+    ],
+    "activityTags": [],
+    "description": "Provides online auction marketplaces and technology for auctioneers selling industrial equipment, art, antiques and other goods.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "AVON",
+    "name": "Avon Technologies",
+    "sector": "Industrials",
+    "industries": [
+      "Defence equipment",
+      "Protective equipment"
+    ],
+    "activityTags": [
+      "weapons"
+    ],
+    "description": "Supplies respiratory protection systems and protective helmets to military, law enforcement and first responder customers.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "BME",
+    "name": "B&M",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Discount retail",
+      "General merchandise"
+    ],
+    "activityTags": [],
+    "description": "Operates discount stores selling household goods, groceries and general merchandise, alongside the Heron Foods grocery chain.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "BCG",
+    "name": "Baltic Classifieds",
+    "sector": "Communication Services",
+    "industries": [
+      "Online classifieds",
+      "Digital marketplaces"
+    ],
+    "activityTags": [],
+    "description": "Operates online classifieds platforms across the Baltic states for vehicles, property, jobs and general goods.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "BAG",
+    "name": "A.G. Barr",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Soft drinks"
+    ],
+    "activityTags": [],
+    "description": "Produces and markets soft drinks, including IRN-BRU, Rubicon and other branded beverages.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "AJB",
+    "name": "AJ Bell",
+    "sector": "Financials",
+    "industries": [
+      "Investment platforms",
+      "Brokerage"
+    ],
+    "activityTags": [],
+    "description": "Provides investment platforms, pensions and dealing services for retail investors and financial advisers.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "BWY",
+    "name": "Bellway",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Homebuilding"
+    ],
+    "activityTags": [],
+    "description": "Builds and sells residential homes across the United Kingdom.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "BKG",
+    "name": "Berkeley Group Holdings",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Homebuilding",
+      "Urban regeneration"
+    ],
+    "activityTags": [],
+    "description": "Develops residential properties, focusing on brownfield regeneration projects in London and southern England.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "BYG",
+    "name": "Big Yellow Group",
+    "sector": "Real Estate",
+    "industries": [
+      "Self-storage REIT"
+    ],
+    "activityTags": [],
+    "description": "Owns and operates self-storage facilities in the United Kingdom for household and business customers.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "BMY",
+    "name": "Bloomsbury Publishing",
+    "sector": "Communication Services",
+    "industries": [
+      "Book publishing",
+      "Academic publishing"
+    ],
+    "activityTags": [],
+    "description": "Publishes consumer, academic and professional books and provides digital resources for educational institutions.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "BOY",
+    "name": "Bodycote",
+    "sector": "Industrials",
+    "industries": [
+      "Thermal processing",
+      "Industrial services"
+    ],
+    "activityTags": [],
+    "description": "Provides heat treatment, metal joining and surface technology services that improve the properties of industrial components.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "BREE",
+    "name": "Breedon Group",
+    "sector": "Materials",
+    "industries": [
+      "Construction materials",
+      "Cement and aggregates"
+    ],
+    "activityTags": [],
+    "description": "Produces aggregates, cement, asphalt and ready-mixed concrete, and provides road surfacing services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "BPT",
+    "name": "Bridgepoint Group",
+    "sector": "Financials",
+    "industries": [
+      "Private equity",
+      "Alternative asset management"
+    ],
+    "activityTags": [],
+    "description": "Manages private equity, infrastructure and credit investments for institutional and other investors.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "BYIT",
+    "name": "Bytes Technology Group",
+    "sector": "Information Technology",
+    "industries": [
+      "IT services",
+      "Software distribution"
+    ],
+    "activityTags": [],
+    "description": "Provides software licensing, cloud services, cybersecurity solutions and IT advisory services to businesses and public sector organisations.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "CWR",
+    "name": "Ceres Power",
+    "sector": "Industrials",
+    "industries": [
+      "Fuel cell technology",
+      "Electrolysis technology"
+    ],
+    "activityTags": [],
+    "description": "Develops and licenses solid oxide fuel cell and electrolysis technology for power generation and hydrogen production.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "CHG",
+    "name": "Chemring Group",
+    "sector": "Industrials",
+    "industries": [
+      "Aerospace and defence",
+      "Countermeasures"
+    ],
+    "activityTags": [
+      "weapons"
+    ],
+    "description": "Produces military countermeasures, energetic materials and defence technologies, including sensors and electronic warfare systems.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "CSN",
+    "name": "Chesnara",
+    "sector": "Financials",
+    "industries": [
+      "Life insurance",
+      "Pension products"
+    ],
+    "activityTags": [],
+    "description": "Operates and acquires life insurance and pension businesses in the United Kingdom and continental Europe.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "CKN",
+    "name": "Clarkson",
+    "sector": "Industrials",
+    "industries": [
+      "Shipbroking",
+      "Maritime services"
+    ],
+    "activityTags": [],
+    "description": "Clarkson provides shipbroking, maritime financial services, research and logistical support to the global shipping industry.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "CBG",
+    "name": "Close Brothers Group",
+    "sector": "Financials",
+    "industries": [
+      "Merchant banking",
+      "Specialist lending"
+    ],
+    "activityTags": [],
+    "description": "Close Brothers provides specialist lending, deposit-taking and securities trading services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "CMCX",
+    "name": "CMC Markets",
+    "sector": "Financials",
+    "industries": [
+      "Online brokerage",
+      "Trading platforms"
+    ],
+    "activityTags": [],
+    "description": "CMC Markets provides online platforms for leveraged trading and stockbroking services to retail and institutional clients.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "COA",
+    "name": "Coats Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Textiles",
+      "Industrial threads"
+    ],
+    "activityTags": [],
+    "description": "Coats manufactures industrial sewing threads and footwear components for apparel, footwear and other end markets.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "COST",
+    "name": "Costain Group",
+    "sector": "Industrials",
+    "industries": [
+      "Infrastructure engineering",
+      "Construction"
+    ],
+    "activityTags": [],
+    "description": "Costain delivers infrastructure engineering, construction and consulting services across transport, water, energy and other sectors.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "CWK",
+    "name": "Cranswick",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Food processing",
+      "Meat products"
+    ],
+    "activityTags": [],
+    "description": "Cranswick produces pork, poultry and other food products for retailers, foodservice customers and export markets.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "CURY",
+    "name": "Currys",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Electronics retail",
+      "Technology services"
+    ],
+    "activityTags": [],
+    "description": "Currys sells consumer electronics and domestic appliances, alongside repair, installation and related technology services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "CVSG",
+    "name": "CVS Group",
+    "sector": "Health Care",
+    "industries": [
+      "Veterinary services"
+    ],
+    "activityTags": [],
+    "description": "CVS Group operates veterinary practices, diagnostic laboratories and related animal healthcare services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "DLN",
+    "name": "Derwent London",
+    "sector": "Real Estate",
+    "industries": [
+      "Office REIT",
+      "Property development"
+    ],
+    "activityTags": [],
+    "description": "Derwent London owns, develops and manages a portfolio of predominantly central London office properties.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "DSCV",
+    "name": "discoverIE",
+    "sector": "Information Technology",
+    "industries": [
+      "Electronic components",
+      "Custom electronics"
+    ],
+    "activityTags": [],
+    "description": "discoverIE designs and manufactures customised electronic components for industrial, medical, transport and renewable energy applications.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "DOM",
+    "name": "Domino's Pizza",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Restaurants",
+      "Pizza franchising"
+    ],
+    "activityTags": [],
+    "description": "Domino's Pizza Group operates and franchises pizza delivery and takeaway stores in the United Kingdom and Ireland.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "DRX",
+    "name": "Drax Group",
+    "sector": "Utilities",
+    "industries": [
+      "Electricity generation",
+      "Biomass production"
+    ],
+    "activityTags": [
+      "renewables"
+    ],
+    "description": "Drax generates electricity from biomass and hydropower, produces wood pellets and supplies energy to business customers.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "DOCS",
+    "name": "Dr. Martens",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Footwear",
+      "Branded consumer goods"
+    ],
+    "activityTags": [],
+    "description": "Dr. Martens designs and sells branded boots, shoes and accessories through wholesale, stores and online channels.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "DNLM",
+    "name": "Dunelm Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Home furnishings retail"
+    ],
+    "activityTags": [],
+    "description": "Dunelm sells home furnishings, bedding, curtains, furniture and household accessories through stores and online.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ELM",
+    "name": "Elementis",
+    "sector": "Materials",
+    "industries": [
+      "Specialty chemicals"
+    ],
+    "activityTags": [],
+    "description": "Elementis manufactures specialty chemical additives and ingredients for personal care, coatings and other industrial applications.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ENOG",
+    "name": "Energean",
+    "sector": "Energy",
+    "industries": [
+      "Oil and gas exploration",
+      "Oil and gas production"
+    ],
+    "activityTags": [
+      "fossil_fuels"
+    ],
+    "description": "Energean explores for, develops and produces natural gas and oil, with a focus on Mediterranean assets.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ENQ",
+    "name": "EnQuest",
+    "sector": "Energy",
+    "industries": [
+      "Oil and gas production"
+    ],
+    "activityTags": [
+      "fossil_fuels"
+    ],
+    "description": "EnQuest develops and operates oil and gas assets, principally in the United Kingdom North Sea and Southeast Asia.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ENT",
+    "name": "Entain",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Sports betting",
+      "Gaming"
+    ],
+    "activityTags": [
+      "gambling"
+    ],
+    "description": "Entain operates online and retail sports betting and gaming businesses through multiple international brands.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "EWG",
+    "name": "Eurowag",
+    "sector": "Financials",
+    "industries": [
+      "Fleet payment services",
+      "Transport technology"
+    ],
+    "activityTags": [],
+    "description": "Eurowag provides fuel and toll payment services, fleet management technology and related solutions for commercial road transport operators.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "FGP",
+    "name": "FirstGroup",
+    "sector": "Industrials",
+    "industries": [
+      "Passenger transportation",
+      "Bus and rail operations"
+    ],
+    "activityTags": [],
+    "description": "FirstGroup operates passenger bus and rail services, primarily in the United Kingdom.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "FSG",
+    "name": "Foresight Group",
+    "sector": "Financials",
+    "industries": [
+      "Asset management",
+      "Infrastructure investment"
+    ],
+    "activityTags": [
+      "renewables"
+    ],
+    "description": "Foresight Group manages investment funds focused on renewable energy infrastructure, other real assets and private equity.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "FRAS",
+    "name": "Frasers Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Sports retail",
+      "Fashion retail"
+    ],
+    "activityTags": [],
+    "description": "Frasers Group operates sports, fashion and luxury retail businesses through stores and online platforms.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "FCH",
+    "name": "Funding Circle",
+    "sector": "Financials",
+    "industries": [
+      "Business lending",
+      "Lending platforms"
+    ],
+    "activityTags": [],
+    "description": "Funding Circle provides small businesses with loans and other financing products through its online platform.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "GFRD",
+    "name": "Galliford Try",
+    "sector": "Industrials",
+    "industries": [
+      "Construction",
+      "Infrastructure engineering"
+    ],
+    "activityTags": [],
+    "description": "Galliford Try provides building, infrastructure and specialist construction services to public and private sector clients.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "GAMA",
+    "name": "Gamma Communications",
+    "sector": "Communication Services",
+    "industries": [
+      "Business telecommunications",
+      "Cloud communications"
+    ],
+    "activityTags": [],
+    "description": "Gamma Communications provides cloud-based voice, connectivity and unified communications services to businesses across the United Kingdom and Europe.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "GCP",
+    "name": "GCP Infrastructure Investments",
+    "sector": "Financials",
+    "industries": [
+      "Infrastructure investment",
+      "Infrastructure lending"
+    ],
+    "activityTags": [
+      "renewables"
+    ],
+    "description": "Investment trust providing debt financing for UK infrastructure projects, including renewable energy and social infrastructure.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "GEN",
+    "name": "Genuit Group",
+    "sector": "Industrials",
+    "industries": [
+      "Building products",
+      "Water management"
+    ],
+    "activityTags": [],
+    "description": "Manufactures building products and systems for drainage, ventilation, water management and climate control.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "GNS",
+    "name": "Genus",
+    "sector": "Health Care",
+    "industries": [
+      "Animal biotechnology",
+      "Livestock genetics"
+    ],
+    "activityTags": [],
+    "description": "Develops and supplies livestock genetics and breeding technologies for pig and cattle producers worldwide.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "DATA",
+    "name": "GlobalData",
+    "sector": "Industrials",
+    "industries": [
+      "Business intelligence",
+      "Research and analytics"
+    ],
+    "activityTags": [],
+    "description": "Provides industry data, research and analytics through subscription-based intelligence platforms for businesses and professional users.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "GDWN",
+    "name": "Goodwin",
+    "sector": "Industrials",
+    "industries": [
+      "Industrial engineering",
+      "Metal castings"
+    ],
+    "activityTags": [
+      "weapons"
+    ],
+    "description": "Manufactures engineered castings, valves and other industrial products, serving defence, energy and infrastructure markets.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "GFTU",
+    "name": "Grafton Group",
+    "sector": "Industrials",
+    "industries": [
+      "Building materials distribution",
+      "Building products"
+    ],
+    "activityTags": [],
+    "description": "Distributes building materials and construction products, with additional manufacturing and home improvement retail operations.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "GRI",
+    "name": "Grainger",
+    "sector": "Real Estate",
+    "industries": [
+      "Residential property",
+      "Rental housing"
+    ],
+    "activityTags": [],
+    "description": "Owns, develops and manages residential rental properties in the UK.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "GPE",
+    "name": "Great Portland Estates",
+    "sector": "Real Estate",
+    "industries": [
+      "Office property",
+      "Commercial property development"
+    ],
+    "activityTags": [],
+    "description": "Owns, develops and manages commercial property, primarily offices in central London.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "UKW",
+    "name": "Greencoat UK Wind",
+    "sector": "Financials",
+    "industries": [
+      "Renewable infrastructure investment",
+      "Wind power"
+    ],
+    "activityTags": [
+      "renewables"
+    ],
+    "description": "Investment trust owning stakes in UK onshore and offshore wind farms that generate electricity.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "GNC",
+    "name": "Greencore",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Prepared foods",
+      "Food manufacturing"
+    ],
+    "activityTags": [],
+    "description": "Produces convenience foods, including sandwiches, salads and ready meals, for retailers and foodservice customers.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "GRG",
+    "name": "Greggs",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Quick-service restaurants",
+      "Bakery food retail"
+    ],
+    "activityTags": [],
+    "description": "Operates a UK food-to-go chain selling savoury bakery products, sandwiches, sweet baked goods and drinks.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "HFD",
+    "name": "Halfords",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Automotive retail",
+      "Vehicle servicing"
+    ],
+    "activityTags": [],
+    "description": "Retails motoring and cycling products and provides vehicle servicing, repairs and tyre replacement.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "HMSO",
+    "name": "Hammerson",
+    "sector": "Real Estate",
+    "industries": [
+      "Retail property",
+      "Shopping centres"
+    ],
+    "activityTags": [],
+    "description": "Owns and manages major shopping centres and develops retail-led urban destinations.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "HBR",
+    "name": "Harbour Energy",
+    "sector": "Energy",
+    "industries": [
+      "Oil and gas exploration",
+      "Oil and gas production"
+    ],
+    "activityTags": [
+      "fossil_fuels"
+    ],
+    "description": "Explores for, develops and produces oil and natural gas from international upstream assets.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "HAS",
+    "name": "Hays",
+    "sector": "Industrials",
+    "industries": [
+      "Recruitment",
+      "Staffing services"
+    ],
+    "activityTags": [],
+    "description": "Provides specialist recruitment services for permanent, temporary and contract roles across multiple industries.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "HTWS",
+    "name": "Helios Towers",
+    "sector": "Communication Services",
+    "industries": [
+      "Telecommunications infrastructure",
+      "Tower leasing"
+    ],
+    "activityTags": [],
+    "description": "Owns and operates telecommunications towers, leasing infrastructure to mobile network operators across African and Middle Eastern markets.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "HIK",
+    "name": "Hikma Pharmaceuticals",
+    "sector": "Health Care",
+    "industries": [
+      "Pharmaceuticals",
+      "Generic medicines"
+    ],
+    "activityTags": [],
+    "description": "Develops, manufactures and markets generic, branded and injectable medicines across international markets.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "HILS",
+    "name": "Hill & Smith",
+    "sector": "Industrials",
+    "industries": [
+      "Infrastructure products",
+      "Metal galvanizing"
+    ],
+    "activityTags": [],
+    "description": "Manufactures infrastructure products and provides galvanizing services for transport, utilities and construction markets.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "HFG",
+    "name": "Hilton Food Group",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Food processing",
+      "Meat and seafood packing"
+    ],
+    "activityTags": [],
+    "description": "Processes and packages meat, seafood and other protein products for major grocery retailers.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "HOC",
+    "name": "Hochschild Mining",
+    "sector": "Materials",
+    "industries": [
+      "Precious metals mining",
+      "Gold and silver"
+    ],
+    "activityTags": [],
+    "description": "Explores for, mines and processes precious metals, principally gold and silver, in the Americas.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "BOWL",
+    "name": "Hollywood Bowl Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Leisure facilities",
+      "Ten-pin bowling"
+    ],
+    "activityTags": [],
+    "description": "Operates ten-pin bowling centres and other family leisure venues with associated food, drink and amusement offerings.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "HTG",
+    "name": "Hunting",
+    "sector": "Energy",
+    "industries": [
+      "Oilfield equipment",
+      "Energy technology"
+    ],
+    "activityTags": [
+      "fossil_fuels"
+    ],
+    "description": "Manufactures equipment and precision-engineered components used in oil and gas drilling, well completion and production.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "INCH",
+    "name": "Inchcape",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Automotive distribution",
+      "Vehicle wholesaling"
+    ],
+    "activityTags": [],
+    "description": "Distributes vehicles and automotive parts for manufacturers across international markets, providing associated logistics and aftersales services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "IHP",
+    "name": "IntegraFin Holdings",
+    "sector": "Financials",
+    "industries": [
+      "Investment platforms",
+      "Wealth management services"
+    ],
+    "activityTags": [],
+    "description": "Operates the Transact investment platform, supporting financial advisers with investment administration, custody and tax-wrapper services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "INPP",
+    "name": "International Public Partnerships",
+    "sector": "Financials",
+    "industries": [
+      "Infrastructure investment",
+      "Public infrastructure"
+    ],
+    "activityTags": [],
+    "description": "Investment company holding long-term interests in public and regulated infrastructure, including transport, utilities, education and healthcare assets.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "IWG",
+    "name": "International Workplace Group",
+    "sector": "Real Estate",
+    "industries": [
+      "Flexible workspaces",
+      "Office services"
+    ],
+    "activityTags": [],
+    "description": "International Workplace Group operates flexible offices, coworking spaces and business centres under brands including Regus and Spaces.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "IPO",
+    "name": "IP Group",
+    "sector": "Financials",
+    "industries": [
+      "Venture capital",
+      "University spinout investment"
+    ],
+    "activityTags": [],
+    "description": "IP Group invests in and develops science and technology businesses, particularly companies originating from university research.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ITV",
+    "name": "ITV",
+    "sector": "Communication Services",
+    "industries": [
+      "Broadcasting",
+      "Television production"
+    ],
+    "activityTags": [],
+    "description": "ITV operates television channels and streaming services and produces television programmes for broadcasters and platforms worldwide.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "JMAT",
+    "name": "Johnson Matthey",
+    "sector": "Materials",
+    "industries": [
+      "Specialty chemicals",
+      "Catalysts"
+    ],
+    "activityTags": [],
+    "description": "Johnson Matthey manufactures emissions-control catalysts and industrial process technologies and provides precious-metal refining and recycling services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "JSG",
+    "name": "Johnson Service Group",
+    "sector": "Industrials",
+    "industries": [
+      "Textile rental",
+      "Commercial laundry"
+    ],
+    "activityTags": [],
+    "description": "Johnson Service Group provides workwear rental, linen hire and laundry services to businesses across hospitality and other sectors.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "JUP",
+    "name": "Jupiter Fund Management",
+    "sector": "Financials",
+    "industries": [
+      "Asset management"
+    ],
+    "activityTags": [],
+    "description": "Jupiter Fund Management manages investment funds and portfolios for individual and institutional clients.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "KNOS",
+    "name": "Kainos",
+    "sector": "Information Technology",
+    "industries": [
+      "IT consulting",
+      "Enterprise software services"
+    ],
+    "activityTags": [],
+    "description": "Kainos provides digital transformation services, Workday implementation and support, and software products for enterprise customers.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "KLR",
+    "name": "Keller Group",
+    "sector": "Industrials",
+    "industries": [
+      "Specialist construction",
+      "Geotechnical engineering"
+    ],
+    "activityTags": [],
+    "description": "Keller Group provides specialist geotechnical engineering, including ground improvement, foundations and earth-retention systems for construction projects.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "KIE",
+    "name": "Kier Group",
+    "sector": "Industrials",
+    "industries": [
+      "Construction",
+      "Infrastructure services"
+    ],
+    "activityTags": [],
+    "description": "Kier Group delivers building construction, infrastructure projects, maintenance and related services for public and private customers.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "LRE",
+    "name": "Lancashire Holdings",
+    "sector": "Financials",
+    "industries": [
+      "Specialty insurance",
+      "Reinsurance"
+    ],
+    "activityTags": [],
+    "description": "Lancashire Holdings provides specialty insurance and reinsurance covering property, energy, marine, aviation and other commercial risks.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "MEGP",
+    "name": "ME Group International",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Automated consumer services",
+      "Self-service laundry"
+    ],
+    "activityTags": [],
+    "description": "ME Group International operates automated photobooths, self-service laundry machines and other unattended consumer-service equipment.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "MRC",
+    "name": "Mercantile Investment Trust",
+    "sector": "Financials",
+    "industries": [
+      "Investment trust",
+      "UK equity investment"
+    ],
+    "activityTags": [],
+    "description": "Mercantile Investment Trust invests primarily in UK medium-sized and smaller listed companies.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "MNO",
+    "name": "Meridian Mining",
+    "sector": "Materials",
+    "industries": [
+      "Mineral exploration",
+      "Copper and gold development"
+    ],
+    "activityTags": [],
+    "description": "Meridian Mining explores and develops mineral projects in Brazil, including the Cabaçal copper-gold project.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "MTRO",
+    "name": "Metro Bank",
+    "sector": "Financials",
+    "industries": [
+      "Retail banking",
+      "Commercial banking"
+    ],
+    "activityTags": [],
+    "description": "Metro Bank provides deposit accounts, lending and other banking services to individuals and businesses in the United Kingdom.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "PAGE",
+    "name": "Michael Page",
+    "sector": "Industrials",
+    "industries": [
+      "Recruitment",
+      "Staffing services"
+    ],
+    "activityTags": [],
+    "description": "PageGroup provides permanent, temporary and contract recruitment services through brands including Michael Page, Page Personnel and Page Executive.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "MAB",
+    "name": "Mitchells & Butlers",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Pubs",
+      "Restaurants"
+    ],
+    "activityTags": [
+      "alcohol"
+    ],
+    "description": "Mitchells & Butlers operates pubs, bars and restaurants under brands including All Bar One, Toby Carvery and Harvester.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "MTO",
+    "name": "Mitie",
+    "sector": "Industrials",
+    "industries": [
+      "Facilities management",
+      "Business support services"
+    ],
+    "activityTags": [],
+    "description": "Mitie provides facilities management, engineering maintenance, cleaning, security and other outsourced services to public and private organisations.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "GROW",
+    "name": "Molten Ventures",
+    "sector": "Financials",
+    "industries": [
+      "Venture capital",
+      "Technology investment"
+    ],
+    "activityTags": [],
+    "description": "Molten Ventures invests in privately held technology companies, principally across Europe.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "MNDI",
+    "name": "Mondi",
+    "sector": "Materials",
+    "industries": [
+      "Paper packaging",
+      "Flexible packaging"
+    ],
+    "activityTags": [],
+    "description": "Mondi manufactures paper, corrugated packaging and flexible packaging for industrial and consumer markets.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "MONY",
+    "name": "MONY Group",
+    "sector": "Communication Services",
+    "industries": [
+      "Online comparison platforms",
+      "Digital consumer services"
+    ],
+    "activityTags": [],
+    "description": "MONY Group operates price-comparison and consumer-saving websites, including MoneySuperMarket, MoneySavingExpert and TravelSupermarket.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "MOON",
+    "name": "Moonpig",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Online retail",
+      "Greeting cards and gifts"
+    ],
+    "activityTags": [],
+    "description": "Moonpig sells personalised greeting cards, gifts and flowers online and operates gift-experience brands.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "MGAM",
+    "name": "Morgan Advanced Materials",
+    "sector": "Industrials",
+    "industries": [
+      "Technical ceramics",
+      "Engineered components"
+    ],
+    "activityTags": [],
+    "description": "Morgan Advanced Materials manufactures specialist ceramic and carbon components, thermal insulation and other engineered products for industrial applications.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "MGNS",
+    "name": "Morgan Sindall Group",
+    "sector": "Industrials",
+    "industries": [
+      "Construction",
+      "Urban regeneration"
+    ],
+    "activityTags": [],
+    "description": "Morgan Sindall Group provides construction, infrastructure, fit-out, property services and urban regeneration across the United Kingdom.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "NCC",
+    "name": "NCC Group",
+    "sector": "Information Technology",
+    "industries": [
+      "Cybersecurity",
+      "Software escrow"
+    ],
+    "activityTags": [],
+    "description": "NCC Group provides cybersecurity consulting, testing and managed services, alongside software escrow and technology continuity services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "NBPE",
+    "name": "Neuberger Private Equity Partners",
+    "sector": "Financials",
+    "industries": [
+      "Investment company",
+      "Private equity"
+    ],
+    "activityTags": [],
+    "description": "NB Private Equity Partners invests in a diversified portfolio of private companies, primarily through private-equity co-investments.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "N91",
+    "name": "Ninety One",
+    "sector": "Financials",
+    "industries": [
+      "Asset management"
+    ],
+    "activityTags": [],
+    "description": "Ninety One manages investments across equities, fixed income, multi-asset strategies and alternatives for institutional and individual clients.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "OCDO",
+    "name": "Ocado Group",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Online grocery retail",
+      "Retail automation"
+    ],
+    "activityTags": [],
+    "description": "Ocado operates an online grocery joint venture and supplies automated fulfilment technology and software to grocery retailers.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "OSB",
+    "name": "OSB Group",
+    "sector": "Financials",
+    "industries": [
+      "Specialist banking",
+      "Mortgage lending"
+    ],
+    "activityTags": [],
+    "description": "OSB Group provides specialist mortgage lending and retail savings through brands including Kent Reliance and Charter Savings Bank.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "OXB",
+    "name": "Oxford Biomedica",
+    "sector": "Health Care",
+    "industries": [
+      "Biotechnology",
+      "Contract development and manufacturing"
+    ],
+    "activityTags": [],
+    "description": "Oxford Biomedica develops and manufactures viral vectors for pharmaceutical and biotechnology companies producing cell and gene therapies.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "OXIG",
+    "name": "Oxford Instruments",
+    "sector": "Information Technology",
+    "industries": [
+      "Scientific instruments",
+      "Electronic equipment"
+    ],
+    "activityTags": [],
+    "description": "Oxford Instruments supplies scientific instruments and systems for materials analysis, microscopy, semiconductor processing and quantum technology research.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ONT",
+    "name": "Oxford Nanopore Technologies",
+    "sector": "Health Care",
+    "industries": [
+      "Life sciences tools",
+      "DNA sequencing"
+    ],
+    "activityTags": [],
+    "description": "Oxford Nanopore Technologies develops and sells nanopore-based platforms for sequencing DNA and RNA.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "PAF",
+    "name": "Pan African Resources",
+    "sector": "Materials",
+    "industries": [
+      "Gold mining"
+    ],
+    "activityTags": [],
+    "description": "Pan African Resources produces gold from underground mines and surface tailings retreatment operations in South Africa.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "PAG",
+    "name": "Paragon Banking Group",
+    "sector": "Financials",
+    "industries": [
+      "Specialist banking",
+      "Mortgage lending"
+    ],
+    "activityTags": [],
+    "description": "Paragon Banking Group provides buy-to-let mortgages, commercial lending and savings products in the United Kingdom.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "PPET",
+    "name": "Patria Private Equity Trust",
+    "sector": "Financials",
+    "industries": [
+      "Investment trusts",
+      "Private equity"
+    ],
+    "activityTags": [],
+    "description": "Patria Private Equity Trust invests in private equity funds and directly in private companies through co-investments.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "PNN",
+    "name": "Pennon Group",
+    "sector": "Utilities",
+    "industries": [
+      "Water utilities",
+      "Wastewater services"
+    ],
+    "activityTags": [],
+    "description": "Pennon Group provides regulated water and wastewater services through its regional utility businesses in the United Kingdom.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "PSN",
+    "name": "Persimmon",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Housebuilding"
+    ],
+    "activityTags": [],
+    "description": "Persimmon builds and sells new homes across the United Kingdom under the Persimmon Homes, Charles Church and Westbury Partnerships brands.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "PETS",
+    "name": "Pets at Home",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Pet supplies retail",
+      "Veterinary services"
+    ],
+    "activityTags": [],
+    "description": "Pets at Home sells pet food and accessories and provides veterinary and grooming services across the United Kingdom.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "PTEC",
+    "name": "Playtech",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Gambling technology",
+      "Gaming software"
+    ],
+    "activityTags": [
+      "gambling"
+    ],
+    "description": "Playtech supplies software, platforms and services for online casino gaming, sports betting and other gambling activities.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "PLUS",
+    "name": "Plus500",
+    "sector": "Financials",
+    "industries": [
+      "Online brokerage",
+      "Derivatives trading"
+    ],
+    "activityTags": [],
+    "description": "Plus500 operates online trading platforms offering contracts for difference, futures and other financial instruments.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "POLN",
+    "name": "Pollen Street Group",
+    "sector": "Financials",
+    "industries": [
+      "Alternative asset management",
+      "Private credit"
+    ],
+    "activityTags": [],
+    "description": "Pollen Street Group manages private equity and private credit investments, focusing on financial and business services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "PPH",
+    "name": "PPHE Hotel Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Hotels",
+      "Hospitality"
+    ],
+    "activityTags": [],
+    "description": "PPHE Hotel Group owns, develops and operates hotels, resorts and hospitality properties, primarily in Europe.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "PFD",
+    "name": "Premier Foods",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Packaged foods"
+    ],
+    "activityTags": [],
+    "description": "Premier Foods manufactures branded grocery products and cakes, including Mr Kipling, Bisto, Oxo and Ambrosia.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "PHP",
+    "name": "Primary Health Properties",
+    "sector": "Real Estate",
+    "industries": [
+      "Health care REITs"
+    ],
+    "activityTags": [],
+    "description": "Primary Health Properties owns and leases primary healthcare premises, principally to healthcare providers in the United Kingdom and Ireland.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "PRN",
+    "name": "Princes Group",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Packaged foods",
+      "Non-alcoholic beverages"
+    ],
+    "activityTags": [],
+    "description": "Princes Group manufactures and distributes branded and own-label foods and drinks, including canned fish, prepared foods and juices.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "QQ",
+    "name": "Qinetiq",
+    "sector": "Industrials",
+    "industries": [
+      "Aerospace and defence",
+      "Defence technology services"
+    ],
+    "activityTags": [
+      "weapons"
+    ],
+    "description": "QinetiQ provides defence research, engineering, testing and evaluation services, alongside military technology and mission systems.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "QLT",
+    "name": "Quilter",
+    "sector": "Financials",
+    "industries": [
+      "Wealth management",
+      "Investment platforms"
+    ],
+    "activityTags": [],
+    "description": "Quilter provides financial advice, investment platforms and wealth management services to clients primarily in the United Kingdom.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "RNK",
+    "name": "Rank Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Casinos",
+      "Bingo and online gambling"
+    ],
+    "activityTags": [
+      "gambling"
+    ],
+    "description": "Rank Group operates casinos, bingo venues and online gambling businesses through brands including Grosvenor Casinos and Mecca Bingo.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "RPI",
+    "name": "Raspberry Pi Holdings",
+    "sector": "Information Technology",
+    "industries": [
+      "Computer hardware",
+      "Embedded computing"
+    ],
+    "activityTags": [],
+    "description": "Raspberry Pi Holdings designs and sells affordable single-board computers, microcontrollers and related products for industrial, educational and enthusiast applications.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "RAT",
+    "name": "Rathbones",
+    "sector": "Financials",
+    "industries": [
+      "Wealth management",
+      "Asset management"
+    ],
+    "activityTags": [],
+    "description": "Rathbones provides discretionary investment management, financial planning and fund management services for individuals, charities and other clients.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "RSW",
+    "name": "Renishaw",
+    "sector": "Information Technology",
+    "industries": [
+      "Precision measurement equipment",
+      "Industrial metrology"
+    ],
+    "activityTags": [],
+    "description": "Renishaw develops precision measurement, calibration and position-encoding systems, alongside metal additive manufacturing equipment.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "RHIM",
+    "name": "RHI Magnesita",
+    "sector": "Materials",
+    "industries": [
+      "Refractories",
+      "Industrial minerals"
+    ],
+    "activityTags": [],
+    "description": "Produces refractory products and systems used in high-temperature industrial processes, particularly steel, cement and glass manufacturing.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "RMV",
+    "name": "Rightmove",
+    "sector": "Communication Services",
+    "industries": [
+      "Online property portals",
+      "Digital advertising"
+    ],
+    "activityTags": [],
+    "description": "Operates a UK property portal, earning revenue from estate agents, lettings agents and developers advertising properties and related services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ROSE",
+    "name": "Rosebank Industries",
+    "sector": "Industrials",
+    "industries": [
+      "Industrial acquisitions",
+      "Industrial business management"
+    ],
+    "activityTags": [],
+    "description": "Acquires industrial businesses with the aim of improving their operational performance and creating shareholder value.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ROR",
+    "name": "Rotork",
+    "sector": "Industrials",
+    "industries": [
+      "Flow-control equipment",
+      "Industrial automation"
+    ],
+    "activityTags": [],
+    "description": "Manufactures actuators and flow-control equipment used to control valves across energy, water and other industrial markets.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "RS1",
+    "name": "RS Group",
+    "sector": "Industrials",
+    "industries": [
+      "Industrial distribution",
+      "Electronic components"
+    ],
+    "activityTags": [],
+    "description": "Distributes industrial and electronic products and provides procurement, maintenance and technical services to business customers.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SAFE",
+    "name": "Safestore",
+    "sector": "Real Estate",
+    "industries": [
+      "Self-storage REITs"
+    ],
+    "activityTags": [],
+    "description": "Owns and operates self-storage facilities serving household and business customers in the UK and continental Europe.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SAGA",
+    "name": "Saga",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Cruises and holidays",
+      "Insurance services"
+    ],
+    "activityTags": [],
+    "description": "Provides cruises, holidays and insurance services primarily for customers aged over 50.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SVS",
+    "name": "Savills",
+    "sector": "Real Estate",
+    "industries": [
+      "Real estate services",
+      "Property investment management"
+    ],
+    "activityTags": [],
+    "description": "Provides global property advisory, transaction, management and investment management services across residential and commercial real estate.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SOI",
+    "name": "Schroder Oriental Income Fund",
+    "sector": "Financials",
+    "industries": [
+      "Investment trusts",
+      "Asia-Pacific equity income"
+    ],
+    "activityTags": [],
+    "description": "An investment trust investing primarily in Asia-Pacific equities to generate income and capital growth.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SEIT",
+    "name": "SDCL Efficiency Income Trust",
+    "sector": "Financials",
+    "industries": [
+      "Infrastructure investment trusts",
+      "Energy efficiency investments"
+    ],
+    "activityTags": [
+      "renewables"
+    ],
+    "description": "An investment trust owning energy-efficiency and distributed-generation infrastructure, including renewable energy assets.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SEQI",
+    "name": "Sequoia Economic Infrastructure Income Fund",
+    "sector": "Financials",
+    "industries": [
+      "Infrastructure debt",
+      "Investment trusts"
+    ],
+    "activityTags": [],
+    "description": "An investment trust providing debt financing to economic infrastructure projects and businesses across multiple sectors.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SRP",
+    "name": "Serco",
+    "sector": "Industrials",
+    "industries": [
+      "Government outsourcing",
+      "Public service operations"
+    ],
+    "activityTags": [
+      "private_prisons"
+    ],
+    "description": "Provides outsourced public services, including defence support, transport operations, immigration services and prison management.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SHC",
+    "name": "Shaftesbury Capital",
+    "sector": "Real Estate",
+    "industries": [
+      "Retail property REITs",
+      "Mixed-use property"
+    ],
+    "activityTags": [],
+    "description": "Owns and manages mixed-use property in London's West End, including retail, hospitality, office and residential space.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SHAW",
+    "name": "Shawbrook Bank",
+    "sector": "Financials",
+    "industries": [
+      "Specialist banking",
+      "Commercial and consumer lending"
+    ],
+    "activityTags": [],
+    "description": "Provides specialist lending to businesses, property investors and individuals, funded partly through retail savings deposits.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SRE",
+    "name": "Sirius Real Estate",
+    "sector": "Real Estate",
+    "industries": [
+      "Business parks",
+      "Commercial property"
+    ],
+    "activityTags": [],
+    "description": "Owns and operates business parks and flexible commercial properties in Germany and the UK.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SCT",
+    "name": "Softcat",
+    "sector": "Information Technology",
+    "industries": [
+      "IT distribution",
+      "IT services"
+    ],
+    "activityTags": [],
+    "description": "Supplies IT hardware, software, cloud solutions and related services to businesses and public-sector organisations.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SPI",
+    "name": "Spire Healthcare",
+    "sector": "Health Care",
+    "industries": [
+      "Private hospitals",
+      "Healthcare services"
+    ],
+    "activityTags": [],
+    "description": "Operates private hospitals and clinics in the UK, providing diagnostic, surgical and other healthcare services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SSPG",
+    "name": "SSP Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Travel food services",
+      "Restaurants"
+    ],
+    "activityTags": [],
+    "description": "Operates restaurants, cafés and food outlets in airports, railway stations and other travel locations worldwide.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SUPR",
+    "name": "Supermarket Income REIT",
+    "sector": "Real Estate",
+    "industries": [
+      "Retail property REITs",
+      "Supermarket property"
+    ],
+    "activityTags": [],
+    "description": "Owns supermarket properties leased to grocery retailers, generating rental income from long-term leases.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SYNC",
+    "name": "Syncona",
+    "sector": "Financials",
+    "industries": [
+      "Life sciences investment",
+      "Investment trusts"
+    ],
+    "activityTags": [],
+    "description": "An investment company that builds and finances life sciences businesses developing innovative therapies.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "THRL",
+    "name": "Target Healthcare REIT",
+    "sector": "Real Estate",
+    "industries": [
+      "Healthcare REITs",
+      "Care-home property"
+    ],
+    "activityTags": [],
+    "description": "Owns purpose-built care homes in the UK and leases them to care-home operators.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "TATE",
+    "name": "Tate & Lyle",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Food ingredients",
+      "Specialty sweeteners"
+    ],
+    "activityTags": [],
+    "description": "Produces specialty food and beverage ingredients, including sweeteners, texturants and fibres, for manufacturers worldwide.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "TW",
+    "name": "Taylor Wimpey",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Housebuilding",
+      "Residential development"
+    ],
+    "activityTags": [],
+    "description": "Develops and builds residential homes, primarily in the UK, with additional operations in Spain.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "TBCG",
+    "name": "TBC Bank",
+    "sector": "Financials",
+    "industries": [
+      "Banking",
+      "Digital financial services"
+    ],
+    "activityTags": [],
+    "description": "Provides retail and business banking services in Georgia and digital banking services in Uzbekistan.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "TEP",
+    "name": "Telecom Plus",
+    "sector": "Utilities",
+    "industries": [
+      "Multi-utility retail",
+      "Telecommunications services"
+    ],
+    "activityTags": [
+      "fossil_fuels"
+    ],
+    "description": "Operates Utility Warehouse, supplying households with electricity, gas, broadband, mobile and related services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "TMPL",
+    "name": "Temple Bar Investment Trust",
+    "sector": "Financials",
+    "industries": [
+      "Investment trusts",
+      "UK equities"
+    ],
+    "activityTags": [],
+    "description": "Investment trust holding a portfolio primarily of UK equities, with a value-oriented investment approach.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "THG",
+    "name": "THG",
+    "sector": "Consumer Staples",
+    "industries": [
+      "Beauty products",
+      "Nutritional supplements"
+    ],
+    "activityTags": [],
+    "description": "Operates online beauty and sports nutrition businesses, including beauty retail platforms and the Myprotein brand.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "TCAP",
+    "name": "TP ICAP",
+    "sector": "Financials",
+    "industries": [
+      "Interdealer brokerage",
+      "Financial market data"
+    ],
+    "activityTags": [],
+    "description": "Provides brokerage, liquidity and market data services across financial, energy and commodities markets.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "TRN",
+    "name": "Trainline",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Online travel booking",
+      "Rail ticketing"
+    ],
+    "activityTags": [],
+    "description": "Operates digital platforms for booking rail and coach tickets and supplies ticketing technology to transport operators.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "TPK",
+    "name": "Travis Perkins",
+    "sector": "Industrials",
+    "industries": [
+      "Builders' merchants",
+      "Construction supplies distribution"
+    ],
+    "activityTags": [],
+    "description": "Distributes building materials, plumbing supplies and construction products to trade customers through merchant networks.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "TRST",
+    "name": "Trustpilot",
+    "sector": "Information Technology",
+    "industries": [
+      "Review platform software",
+      "Business software"
+    ],
+    "activityTags": [],
+    "description": "Operates an online consumer review platform and sells subscription tools that help businesses collect, manage and analyse reviews.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "UTG",
+    "name": "Unite Group",
+    "sector": "Real Estate",
+    "industries": [
+      "Student accommodation",
+      "Residential REITs"
+    ],
+    "activityTags": [],
+    "description": "Owns, develops and manages purpose-built student accommodation across the UK.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "VSVS",
+    "name": "Vesuvius",
+    "sector": "Materials",
+    "industries": [
+      "Refractory materials",
+      "Steelmaking consumables"
+    ],
+    "activityTags": [],
+    "description": "Supplies refractory products, molten metal flow-control systems and foundry consumables to steelmakers and metal casting businesses.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "VCT",
+    "name": "Victrex",
+    "sector": "Materials",
+    "industries": [
+      "Specialty chemicals",
+      "High-performance polymers"
+    ],
+    "activityTags": [],
+    "description": "Manufactures high-performance polymers, including PEEK, for industrial, aerospace, automotive, electronics and medical applications.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "VEIL",
+    "name": "Vietnam Enterprise Investments",
+    "sector": "Financials",
+    "industries": [
+      "Investment funds",
+      "Vietnamese equities"
+    ],
+    "activityTags": [],
+    "description": "Closed-end investment fund focused primarily on listed Vietnamese equities.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "VOF",
+    "name": "VinaCapital Vietnam Opportunity Fund",
+    "sector": "Financials",
+    "industries": [
+      "Investment funds",
+      "Vietnam investments"
+    ],
+    "activityTags": [],
+    "description": "Closed-end investment fund investing in Vietnamese businesses through listed equities, private equity and other investment opportunities.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "VTY",
+    "name": "Vistry Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Homebuilding",
+      "Partnership housing"
+    ],
+    "activityTags": [],
+    "description": "Develops homes across the UK, specialising in partnership housing with housing associations, local authorities and institutional investors.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "VLX",
+    "name": "Volex",
+    "sector": "Industrials",
+    "industries": [
+      "Electrical components",
+      "Contract manufacturing"
+    ],
+    "activityTags": [],
+    "description": "Manufactures power cords, cables and assemblies, and provides integrated manufacturing services for industrial, medical, automotive and technology customers.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "FAN",
+    "name": "Volution Group",
+    "sector": "Industrials",
+    "industries": [
+      "Ventilation equipment",
+      "Building products"
+    ],
+    "activityTags": [],
+    "description": "Designs and manufactures ventilation equipment and indoor air quality products for residential and commercial buildings.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "WOSG",
+    "name": "Watches of Switzerland",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Luxury watch retail",
+      "Jewellery retail"
+    ],
+    "activityTags": [],
+    "description": "Retails luxury watches and jewellery through stores and online channels, principally in the UK and US.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "JDW",
+    "name": "Wetherspoons",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Pubs",
+      "Hospitality"
+    ],
+    "activityTags": [
+      "alcohol"
+    ],
+    "description": "Operates pubs and some hotels, selling alcoholic drinks, other beverages and food.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "SMWH",
+    "name": "WHSmith",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Travel retail",
+      "Specialty retail"
+    ],
+    "activityTags": [],
+    "description": "Operates travel retail stores selling convenience products, books, stationery and travel essentials in airports, railway stations and hospitals.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "WIX",
+    "name": "Wickes",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Home improvement retail",
+      "Kitchen and bathroom installation"
+    ],
+    "activityTags": [],
+    "description": "Retails home improvement products and provides kitchen and bathroom design and installation services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "WIZZ",
+    "name": "Wizz Air",
+    "sector": "Industrials",
+    "industries": [
+      "Passenger airlines",
+      "Low-cost aviation"
+    ],
+    "activityTags": [],
+    "description": "Operates a low-cost passenger airline serving routes across Europe and neighbouring regions.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "WKP",
+    "name": "Workspace Group",
+    "sector": "Real Estate",
+    "industries": [
+      "Office REITs",
+      "Flexible workspace"
+    ],
+    "activityTags": [],
+    "description": "Owns and manages flexible office and commercial workspace properties in London for businesses.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "XPP",
+    "name": "XP Power",
+    "sector": "Industrials",
+    "industries": [
+      "Electrical equipment",
+      "Power conversion systems"
+    ],
+    "activityTags": [],
+    "description": "Designs and manufactures power conversion products for industrial technology, healthcare and semiconductor manufacturing equipment.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "XPS",
+    "name": "XPS Pensions",
+    "sector": "Financials",
+    "industries": [
+      "Pensions consulting",
+      "Pension administration"
+    ],
+    "activityTags": [],
+    "description": "Provides actuarial, investment consulting and administration services to pension schemes and their sponsoring employers.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "YNGA",
+    "name": "Young's",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Pubs",
+      "Hospitality"
+    ],
+    "activityTags": [
+      "alcohol"
+    ],
+    "description": "Operates a managed pub estate and associated hotels, primarily in London and southern England.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "ZIG",
+    "name": "Zigup",
+    "sector": "Industrials",
+    "industries": [
+      "Vehicle rental",
+      "Fleet services"
+    ],
+    "activityTags": [],
+    "description": "Provides commercial vehicle rental, fleet management, accident management and vehicle repair services.",
+    "tier": "deep",
+    "index": "FTSE250"
+  },
+  {
+    "ticker": "AEWU",
+    "name": "AEW UK REIT",
+    "sector": "Real Estate",
+    "industries": [
+      "Diversified REITs",
+      "Commercial property"
+    ],
+    "activityTags": [],
+    "description": "Invests in UK commercial properties across industrial, office, retail and other property sectors.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "APTD",
+    "name": "Aptitude Software Group",
+    "sector": "Information Technology",
+    "industries": [
+      "Enterprise software",
+      "Financial management software"
+    ],
+    "activityTags": [],
+    "description": "Develops software that helps businesses manage financial data, accounting and finance processes.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "CABP",
+    "name": "CAB Payments",
+    "sector": "Financials",
+    "industries": [
+      "Cross-border payments",
+      "Foreign exchange"
+    ],
+    "activityTags": [],
+    "description": "Provides cross-border payment and foreign exchange services, with a focus on emerging markets.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "CPI",
+    "name": "Capita",
+    "sector": "Industrials",
+    "industries": [
+      "Business process outsourcing",
+      "Public-sector services"
+    ],
+    "activityTags": [],
+    "description": "Provides outsourced business processes, customer management and technology-enabled services to public-sector and corporate clients.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "CAPD",
+    "name": "Capital Limited",
+    "sector": "Materials",
+    "industries": [
+      "Mining services",
+      "Drilling services"
+    ],
+    "activityTags": [],
+    "description": "Provides drilling, mining and laboratory services to mineral exploration and mining companies.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "CNE",
+    "name": "Capricorn Energy",
+    "sector": "Energy",
+    "industries": [
+      "Oil and gas exploration",
+      "Oil and gas production"
+    ],
+    "activityTags": [
+      "fossil_fuels"
+    ],
+    "description": "Explores for and produces oil and gas, with operations focused on Egypt.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "CARD",
+    "name": "Card Factory",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Specialty retail",
+      "Greeting cards"
+    ],
+    "activityTags": [],
+    "description": "Designs, manufactures and sells greeting cards, gifts and celebration products through stores and online channels.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "CLIG",
+    "name": "City of London Investment Group",
+    "sector": "Financials",
+    "industries": [
+      "Asset management"
+    ],
+    "activityTags": [],
+    "description": "Manages investment portfolios for institutional and private clients, with a particular focus on closed-end funds.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "CLI",
+    "name": "CLS Holdings",
+    "sector": "Real Estate",
+    "industries": [
+      "Commercial property investment"
+    ],
+    "activityTags": [],
+    "description": "Owns and manages commercial properties, primarily offices, in the United Kingdom, Germany and France.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "DFS",
+    "name": "DFS Furniture",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Furniture retail",
+      "Upholstered furniture"
+    ],
+    "activityTags": [],
+    "description": "Manufactures and retails sofas and other upholstered furniture through the DFS and Sofology brands.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "EVOK",
+    "name": "Evoke",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Online gambling",
+      "Sports betting"
+    ],
+    "activityTags": [
+      "gambling"
+    ],
+    "description": "Operates online casino, sports betting and retail betting businesses under brands including William Hill, 888 and Mr Green.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "FORT",
+    "name": "Forterra",
+    "sector": "Materials",
+    "industries": [
+      "Building materials",
+      "Bricks and concrete products"
+    ],
+    "activityTags": [],
+    "description": "Manufactures bricks, concrete blocks and precast concrete products for the UK construction industry.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "FOXT",
+    "name": "Foxtons",
+    "sector": "Real Estate",
+    "industries": [
+      "Estate agency",
+      "Residential lettings"
+    ],
+    "activityTags": [],
+    "description": "Provides residential property sales, lettings and property management services, primarily in London.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "FSTA",
+    "name": "Fuller, Smith & Turner",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Pubs",
+      "Hotels"
+    ],
+    "activityTags": [
+      "alcohol"
+    ],
+    "description": "Operates pubs and hotels, selling alcoholic drinks, food and accommodation.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "GMS",
+    "name": "Gulf Marine Services",
+    "sector": "Energy",
+    "industries": [
+      "Offshore energy services",
+      "Support vessels"
+    ],
+    "activityTags": [
+      "fossil_fuels"
+    ],
+    "description": "Operates self-propelled offshore support vessels used for maintenance, construction and well services in offshore energy markets.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "HEAD",
+    "name": "Headlam Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Floorcovering distribution"
+    ],
+    "activityTags": [],
+    "description": "Distributes carpets and other floorcoverings to independent retailers and commercial flooring contractors.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "HLCL",
+    "name": "Helical",
+    "sector": "Real Estate",
+    "industries": [
+      "Property development",
+      "Commercial property investment"
+    ],
+    "activityTags": [],
+    "description": "Develops and invests in commercial property, with a focus on London offices.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "BOOT",
+    "name": "Henry Boot",
+    "sector": "Real Estate",
+    "industries": [
+      "Property development",
+      "Land promotion"
+    ],
+    "activityTags": [],
+    "description": "Operates land promotion, property development and investment businesses alongside construction and plant hire services.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "HSW",
+    "name": "Hostelworld Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Online travel booking",
+      "Hostel accommodation"
+    ],
+    "activityTags": [],
+    "description": "Operates an online travel platform for booking hostels and connecting travellers.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "FSJ",
+    "name": "James Fisher & Sons",
+    "sector": "Industrials",
+    "industries": [
+      "Marine engineering",
+      "Offshore and defence services"
+    ],
+    "activityTags": [
+      "fossil_fuels",
+      "weapons"
+    ],
+    "description": "Provides marine engineering, offshore energy services and specialist naval equipment, including submarine rescue systems.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "KMR",
+    "name": "Kenmare Resources",
+    "sector": "Materials",
+    "industries": [
+      "Mineral sands mining",
+      "Titanium minerals"
+    ],
+    "activityTags": [],
+    "description": "Mines and processes titanium-bearing minerals and zircon at the Moma mineral sands operation in Mozambique.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "LIO",
+    "name": "Liontrust Asset Management",
+    "sector": "Financials",
+    "industries": [
+      "Asset management"
+    ],
+    "activityTags": [],
+    "description": "Manages investment funds and portfolios for individual and institutional investors.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "LSL",
+    "name": "LSL Property Services",
+    "sector": "Real Estate",
+    "industries": [
+      "Property services",
+      "Mortgage services"
+    ],
+    "activityTags": [],
+    "description": "Provides residential surveying, valuation, estate agency franchise support and mortgage-related financial services.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "LUCE",
+    "name": "Luceco",
+    "sector": "Industrials",
+    "industries": [
+      "Electrical equipment",
+      "LED lighting"
+    ],
+    "activityTags": [],
+    "description": "Supplies LED lighting, wiring accessories and portable power products to professional and consumer markets.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "MACF",
+    "name": "Macfarlane Group",
+    "sector": "Materials",
+    "industries": [
+      "Protective packaging",
+      "Packaging distribution"
+    ],
+    "activityTags": [],
+    "description": "Designs, manufactures and distributes protective packaging products for businesses across multiple industries.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "MARS",
+    "name": "Marston's",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Pubs",
+      "Hospitality"
+    ],
+    "activityTags": [
+      "alcohol"
+    ],
+    "description": "Operates a UK pub estate offering alcoholic drinks, food and accommodation.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "MER",
+    "name": "Mears Group",
+    "sector": "Industrials",
+    "industries": [
+      "Housing maintenance",
+      "Property services"
+    ],
+    "activityTags": [],
+    "description": "Mears provides housing maintenance, repairs and housing management services, principally for local authorities and social housing providers.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "GLE",
+    "name": "M J Gleeson",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Housebuilding",
+      "Land development"
+    ],
+    "activityTags": [],
+    "description": "MJ Gleeson builds affordable homes and promotes land for residential development in the UK.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "MOTR",
+    "name": "Motorpoint Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Used vehicle retail"
+    ],
+    "activityTags": [],
+    "description": "Motorpoint sells used cars and light commercial vehicles through UK dealerships and online channels.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "NRR",
+    "name": "NewRiver",
+    "sector": "Real Estate",
+    "industries": [
+      "Retail REIT",
+      "Property management"
+    ],
+    "activityTags": [],
+    "description": "NewRiver owns and manages UK retail properties, including shopping centres and retail parks.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "NXR",
+    "name": "Norcros",
+    "sector": "Industrials",
+    "industries": [
+      "Building products",
+      "Bathroom products"
+    ],
+    "activityTags": [],
+    "description": "Norcros supplies bathroom and kitchen products, including showers, taps, tiles and related building materials.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "OTB",
+    "name": "On The Beach Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Online travel",
+      "Package holidays"
+    ],
+    "activityTags": [],
+    "description": "On the Beach operates an online travel business specialising in short-haul beach package holidays.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "PCA",
+    "name": "Palace Capital",
+    "sector": "Real Estate",
+    "industries": [
+      "Commercial REIT",
+      "Property investment"
+    ],
+    "activityTags": [],
+    "description": "Palace Capital invests in and manages UK commercial property, with a focus on regional office and industrial assets.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "PDL",
+    "name": "Petra Diamonds",
+    "sector": "Materials",
+    "industries": [
+      "Diamond mining"
+    ],
+    "activityTags": [],
+    "description": "Petra Diamonds mines and sells rough diamonds from operations in southern Africa.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "PHAR",
+    "name": "Pharos Energy",
+    "sector": "Energy",
+    "industries": [
+      "Oil and gas exploration",
+      "Oil and gas production"
+    ],
+    "activityTags": [
+      "fossil_fuels"
+    ],
+    "description": "Pharos Energy explores for, develops and produces oil and gas, principally in Vietnam and Egypt.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "PRV",
+    "name": "Porvair",
+    "sector": "Industrials",
+    "industries": [
+      "Filtration equipment",
+      "Laboratory equipment"
+    ],
+    "activityTags": [],
+    "description": "Porvair manufactures specialist filtration, separation and laboratory products for industrial, aerospace, environmental and scientific applications.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "RCH",
+    "name": "Reach",
+    "sector": "Communication Services",
+    "industries": [
+      "Newspaper publishing",
+      "Digital media"
+    ],
+    "activityTags": [],
+    "description": "Reach publishes national and regional newspapers and operates digital news brands in the UK and Ireland.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "REC",
+    "name": "Record",
+    "sector": "Financials",
+    "industries": [
+      "Currency management",
+      "Asset management"
+    ],
+    "activityTags": [],
+    "description": "Record provides currency management and investment management services to institutional clients.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "RWA",
+    "name": "Robert Walters",
+    "sector": "Industrials",
+    "industries": [
+      "Recruitment",
+      "Recruitment outsourcing"
+    ],
+    "activityTags": [],
+    "description": "Robert Walters provides professional recruitment and recruitment outsourcing services across international markets.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "SUS",
+    "name": "S & U",
+    "sector": "Financials",
+    "industries": [
+      "Motor finance",
+      "Property bridging finance"
+    ],
+    "activityTags": [],
+    "description": "S & U provides specialist motor finance and property bridging loans in the UK.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "SBRE",
+    "name": "Sabre Insurance",
+    "sector": "Financials",
+    "industries": [
+      "Motor insurance"
+    ],
+    "activityTags": [],
+    "description": "Sabre Insurance underwrites UK motor insurance distributed through brokers and direct channels.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "STB",
+    "name": "Secure Trust Bank",
+    "sector": "Financials",
+    "industries": [
+      "Banking",
+      "Specialist lending"
+    ],
+    "activityTags": [],
+    "description": "Secure Trust Bank provides savings products and specialist lending to UK consumers and businesses.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "SFR",
+    "name": "Severfield",
+    "sector": "Industrials",
+    "industries": [
+      "Structural steel fabrication",
+      "Construction engineering"
+    ],
+    "activityTags": [],
+    "description": "Severfield designs, fabricates and erects structural steelwork for buildings and infrastructure projects.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "SHI",
+    "name": "SIG",
+    "sector": "Industrials",
+    "industries": [
+      "Building materials distribution"
+    ],
+    "activityTags": [],
+    "description": "SIG distributes specialist construction products, including insulation, roofing and interior materials, across the UK and continental Europe.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "SNWS",
+    "name": "Smiths News",
+    "sector": "Industrials",
+    "industries": [
+      "Newspaper distribution",
+      "Magazine distribution"
+    ],
+    "activityTags": [],
+    "description": "Smiths News wholesales and distributes newspapers and magazines to retailers across the UK.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "SDY",
+    "name": "Speedy Hire",
+    "sector": "Industrials",
+    "industries": [
+      "Equipment rental",
+      "Tool hire"
+    ],
+    "activityTags": [],
+    "description": "Speedy Hire rents tools, plant and specialist equipment and provides related services to construction and industrial customers.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "STVG",
+    "name": "STV Group",
+    "sector": "Communication Services",
+    "industries": [
+      "Television broadcasting",
+      "Content production"
+    ],
+    "activityTags": [],
+    "description": "STV Group operates Scottish television broadcasting and streaming services and produces television content.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "SYNT",
+    "name": "Synthomer",
+    "sector": "Materials",
+    "industries": [
+      "Specialty chemicals",
+      "Polymer manufacturing"
+    ],
+    "activityTags": [],
+    "description": "Synthomer manufactures specialist polymers and chemical materials used in coatings, adhesives, construction and other industrial applications.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "GYM",
+    "name": "The Gym Group",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Fitness centres"
+    ],
+    "activityTags": [],
+    "description": "The Gym Group operates low-cost fitness centres across the UK.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "TPT",
+    "name": "Topps Tiles",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Home improvement retail",
+      "Tile distribution"
+    ],
+    "activityTags": [],
+    "description": "Topps Tiles sells tiles and related products to consumers and trade customers through retail and commercial distribution businesses.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "TET",
+    "name": "Treatt",
+    "sector": "Materials",
+    "industries": [
+      "Specialty ingredients",
+      "Flavour and fragrance ingredients"
+    ],
+    "activityTags": [],
+    "description": "Treatt develops and manufactures flavour, fragrance and botanical ingredients for beverage, food and consumer goods manufacturers.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "TRI",
+    "name": "Trifast",
+    "sector": "Industrials",
+    "industries": [
+      "Industrial fasteners",
+      "Components distribution"
+    ],
+    "activityTags": [],
+    "description": "Trifast manufactures and distributes industrial fasteners and related components for automotive, electronics and other manufacturing markets.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "TTG",
+    "name": "TT Electronics",
+    "sector": "Information Technology",
+    "industries": [
+      "Electronic components",
+      "Engineered electronics"
+    ],
+    "activityTags": [],
+    "description": "TT Electronics designs and manufactures electronic components and systems for aerospace, defence, healthcare and industrial customers.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "ULTP",
+    "name": "Ultimate Products",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Household products",
+      "Small domestic appliances"
+    ],
+    "activityTags": [],
+    "description": "Ultimate Products supplies branded household goods, including small appliances, cookware and laundry products, to retailers.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "VANQ",
+    "name": "Vanquis Banking Group",
+    "sector": "Financials",
+    "industries": [
+      "Consumer finance",
+      "Retail banking"
+    ],
+    "activityTags": [],
+    "description": "Vanquis Banking Group provides credit cards, vehicle finance and savings products, primarily serving UK consumers underserved by mainstream lenders.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "VID",
+    "name": "Videndum",
+    "sector": "Consumer Discretionary",
+    "industries": [
+      "Imaging equipment",
+      "Content creation accessories"
+    ],
+    "activityTags": [],
+    "description": "Videndum designs and manufactures equipment and accessories for professional video, photography, broadcasting and other content creation markets.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "XAR",
+    "name": "Xaar",
+    "sector": "Information Technology",
+    "industries": [
+      "Industrial inkjet technology",
+      "Printing equipment"
+    ],
+    "activityTags": [],
+    "description": "Xaar develops and manufactures industrial inkjet printheads and printing systems used in packaging, product decoration and advanced manufacturing.",
+    "tier": "basic",
+    "index": "SmallCap"
+  },
+  {
+    "ticker": "ZTF",
+    "name": "Zotefoams",
+    "sector": "Materials",
+    "industries": [
+      "Specialty polymers",
+      "Technical foams"
+    ],
+    "activityTags": [],
+    "description": "Zotefoams manufactures lightweight cellular materials and specialty polymer foams for applications including footwear, aviation, insulation and industrial products.",
+    "tier": "basic",
+    "index": "SmallCap"
+  }
+]

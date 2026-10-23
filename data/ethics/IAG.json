@@ -1,0 +1,139 @@
+{
+  "ticker": "IAG",
+  "generatedAt": "2026-10-23T13:20:56.620Z",
+  "coverage": "full",
+  "causes": {
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2018,
+          "summary": "British Airways suffered a breach compromising around 420,000 people's data, received a £20 million regulatory fine and subsequently settled a victims' group action on undisclosed terms.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.infosecurity-magazine.com/news/ba-settles-with-data-breach-victims/",
+              "title": "BA Settles with Data Breach Victims - Infosecurity Magazine",
+              "publishedAt": "2021-07-06T00:00:00.000Z",
+              "quote": "Data belonging to around 420,000 people was compromised in a cyber-attack that went undetected for more than two months."
+            },
+            {
+              "url": "https://www.infosecurity-magazine.com/news/ba-settles-with-data-breach-victims/",
+              "title": "BA Settles with Data Breach Victims - Infosecurity Magazine",
+              "publishedAt": "2021-07-06T00:00:00.000Z",
+              "quote": "BA, which is a subsidiary of International Airlines Group, was initially slapped with a record-breaking fine of £183m by the ICO for violating GDPR. The fine was later reduced to £20m."
+            },
+            {
+              "url": "https://www.infosecurity-magazine.com/news/ba-settles-with-data-breach-victims/",
+              "title": "BA Settles with Data Breach Victims - Infosecurity Magazine",
+              "publishedAt": "2021-07-06T00:00:00.000Z",
+              "quote": "While settling the legal claim brought by some of the data breach victims, British Airways did not admit any liability."
+            }
+          ],
+          "severity": 3
+        }
+      ],
+      "positives": []
+    },
+    "diversity_inclusion": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "Spain's National Court upheld a €90,000 fine against Vueling for inadequate website accessibility for people with disabilities, finding continued violations and insufficient corrective action.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.aviation24.be/airlines/international-airlines-group-iag/vueling/vueling-fined-90000-euros-for-not-facilitating-access-to-people-with-disabilities/",
+              "title": "Vueling fined 90,000 euros for not facilitating access to people with disabilities - Aviation24.be",
+              "publishedAt": "2024-03-22T00:00:00.000Z",
+              "quote": "The National Court of Spain has upheld a fine of €90,000 against Vueling Airlines for failing to provide adequate accessibility for people with disabilities on its website."
+            },
+            {
+              "url": "https://www.aviation24.be/airlines/international-airlines-group-iag/vueling/vueling-fined-90000-euros-for-not-facilitating-access-to-people-with-disabilities/",
+              "title": "Vueling fined 90,000 euros for not facilitating access to people with disabilities - Aviation24.be",
+              "publishedAt": "2024-03-22T00:00:00.000Z",
+              "quote": "Despite Vueling’s claims of good faith, the Court ruled that the sanctions were justified due to the continued violation and lack of corrective action."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "Unions announced strikes at IAG's South Europe Ground Services subsidiary, alleging payroll errors, low salaries, inadequate equipment maintenance and abbreviated training linked to increasing ramp incidents.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.visahq.news/2025-12-21/es/ground-handling-strike-at-madrid-barajas-set-to-hit-christmas-and-new-year-flights-as-unions-target-iags-low-cost-subsidiary/",
+              "title": "Ground-handling strike at Madrid-Barajas set to hit Christmas and New-Year flights as unions target IAG’s low-cost subsidiary",
+              "publishedAt": "2025-12-21T00:00:00.000Z",
+              "quote": "unions USO and CGT confirmed a series of walk-outs at South Europe Ground Services (South), the newly created low-cost handling arm of International Airlines Group (IAG)."
+            },
+            {
+              "url": "https://www.visahq.news/2025-12-21/es/ground-handling-strike-at-madrid-barajas-set-to-hit-christmas-and-new-year-flights-as-unions-target-iags-low-cost-subsidiary/",
+              "title": "Ground-handling strike at Madrid-Barajas set to hit Christmas and New-Year flights as unions target IAG’s low-cost subsidiary",
+              "publishedAt": "2025-12-21T00:00:00.000Z",
+              "quote": "Unions accuse the company of “low-costisation”: rapid hiring on sub-€18,000 salaries, high staff turnover, payroll errors, under-maintained equipment and abbreviated training they say is fuelling a rise in ramp incidents."
+            },
+            {
+              "url": "https://www.visahq.news/2025-12-21/es/ground-handling-strike-at-madrid-barajas-set-to-hit-christmas-and-new-year-flights-as-unions-target-iags-low-cost-subsidiary/",
+              "title": "Ground-handling strike at Madrid-Barajas set to hit Christmas and New-Year flights as unions target IAG’s low-cost subsidiary",
+              "publishedAt": "2025-12-21T00:00:00.000Z",
+              "quote": "Management counters that the model brings efficiency and competitiveness in line with EU market-opening rules."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "fair_wages": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "Around 130 Manchester-based Aer Lingus UK cabin crew escalated a pay dispute, with Unite alleging that starting salaries fell below the minimum wage.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.internationalairportreview.com/manchester-airport-to-face-further-disruption-due-to-strikes/537929.article",
+              "title": "Manchester Airport to face further disruption due to strikes | News | International Airport Review",
+              "publishedAt": "2025-10-27T00:00:00.000Z",
+              "quote": "Unite the union confirmed that around 130 Aer Lingus UK cabin crew, all based at Manchester Airport’s Terminal 2, will stage additional walkouts on 9 to 11 November, 14 November and 16 to 18 November."
+            },
+            {
+              "url": "https://www.internationalairportreview.com/manchester-airport-to-face-further-disruption-due-to-strikes/537929.article",
+              "title": "Manchester Airport to face further disruption due to strikes | News | International Airport Review",
+              "publishedAt": "2025-10-27T00:00:00.000Z",
+              "quote": "According to the union, the starting salary for Manchester-based cabin crew is £17,640.25, which Unite says falls below the minimum wage."
+            },
+            {
+              "url": "https://www.internationalairportreview.com/manchester-airport-to-face-further-disruption-due-to-strikes/537929.article",
+              "title": "Manchester Airport to face further disruption due to strikes | News | International Airport Review",
+              "publishedAt": "2025-10-27T00:00:00.000Z",
+              "quote": "The industrial action follows the rejection of a pay deal offering a nine per cent rise this year and a further three per cent next year."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [],
+      "positives": [
+        "Independent aviation analyst IBA cross-checked IAG's published 2018 and 2019 CO2 emissions against its calculator and found close agreement."
+      ]
+    }
+  }
+}

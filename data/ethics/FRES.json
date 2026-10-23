@@ -1,0 +1,67 @@
+{
+  "ticker": "FRES",
+  "generatedAt": "2026-10-23T13:17:48.688Z",
+  "coverage": "full",
+  "causes": {
+    "human_rights": {
+      "incidents": [
+        {
+          "year": 2013,
+          "summary": "Courts required Fresnillo to compensate the El Bajío community for illegally extracted gold, with a June 2026 decision requiring further justification of the disputed valuation without questioning the rest of the judgment.",
+          "relativeScale": 5,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.source-material.org/fresnillo-soledad-dipolos-dispute/",
+              "title": "Fresnillo faces $630m demand to restore 'illegally mined' gold – SourceMaterial",
+              "publishedAt": "2025-05-29T00:00:00.000Z",
+              "quote": "Since 2013 it has been blocked from mining gold from the Soledad-Dipolos open-pit mine after a court found that it did not have the legal authorisation."
+            },
+            {
+              "url": "https://www.proceso.com.mx/nacional/estados/2026/6/28/fresnillo-plc-posterga-pagar-mas-de-13-mil-millones-de-pesos-a-ejidatarios-de-sonora-375011.html",
+              "title": "Fresnillo plc posterga pagar más de 13 mil millones de pesos a ejidatarios de Sonora | Proceso",
+              "publishedAt": "2026-06-28T00:00:00.000Z",
+              "quote": "Estas cantidades emanaron de una serie de peritajes ordenados por el Tribunal Unitario Agrario No. 28 (TUA 28) y se resumen en una deuda de $13 mil 327 millones 854 mil 806 pesos mexicanos."
+            },
+            {
+              "url": "https://www.proceso.com.mx/nacional/estados/2026/6/28/fresnillo-plc-posterga-pagar-mas-de-13-mil-millones-de-pesos-a-ejidatarios-de-sonora-375011.html",
+              "title": "Fresnillo plc posterga pagar más de 13 mil millones de pesos a ejidatarios de Sonora | Proceso",
+              "publishedAt": "2026-06-28T00:00:00.000Z",
+              "quote": "la resolución del Juzgado Décimo de Distrito con fecha de 18 de junio de 2026 establece que el TUA 28 debe argumentar dicha decisión, más no cuestiona el resto de la sentencia."
+            }
+          ],
+          "severity": 4
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "Fresnillo admitted a spill at its Zacatecas mine that prompted worker evacuation, stating that it was controlled and no employees were harmed.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.jornada.com.mx/2020/08/27/estados/024n2est",
+              "title": "La Jornada: Derrame tóxico en Fresnillo PLC; desalojan a trabajadores",
+              "publishedAt": "2020-08-27T00:00:00.000Z",
+              "quote": "El consorcio admitió el incidente en un comunicado de sólo tres párrafos, en el que aseguró que ningún empleado sufrió daños y se controló el derrame."
+            },
+            {
+              "url": "https://www.jornada.com.mx/2020/08/27/estados/024n2est",
+              "title": "La Jornada: Derrame tóxico en Fresnillo PLC; desalojan a trabajadores",
+              "publishedAt": "2020-08-27T00:00:00.000Z",
+              "quote": "El protocolo estipula el desalojo total del personal hasta que la situación se encuentre bajo control, lo que sucedió minutos después"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "ticker": "AAL",
+  "generatedAt": "2026-10-23T13:07:44.544Z",
+  "coverage": "full",
+  "causes": {
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "Chile's environmental regulator filed three charges against Anglo American's local unit over alleged violations at its El Soldado copper mine.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/sustainability/chile-regulator-charges-anglo-american-mine-over-environmental-violations-2024-12-09/",
+              "title": "Chile regulator charges Anglo American mine over environmental violations",
+              "publishedAt": "2024-12-09T00:00:00.000Z",
+              "quote": "Chile's environmental regulator has filed three charges against miner Anglo American's local unit over alleged violations at its El Soldado copper mine in the Valparaiso region."
+            },
+            {
+              "url": "https://www.reuters.com/sustainability/chile-regulator-charges-anglo-american-mine-over-environmental-violations-2024-12-09/",
+              "title": "Chile regulator charges Anglo American mine over environmental violations",
+              "publishedAt": "2024-12-09T00:00:00.000Z",
+              "quote": "The Superintendency of the Environment (SMA) labeled the charges as \"serious,\" the second of three levels of offenses"
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2022,
+          "summary": "British Columbia's Environmental Appeal Board upheld an CAD 800,000 fine against Anglo American for repeated permit violations at its Trend Roman coal mine, including excessive selenium discharges.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://mugglehead.com/anglo-american-loses-appeal-over-800000-fine-at-former-peace-river-mine/",
+              "title": "Anglo American loses appeal over $800,000 fine at former Peace River Mine - Mugglehead Investment Magazine",
+              "publishedAt": "2025-09-04T00:00:00.000Z",
+              "quote": "British Columbia’s Environmental Appeal Board has upheld an $800,000 fine against Anglo American plc LON AAL for repeated permit violations at its Trend Roman coal mine in the province’s northeast."
+            },
+            {
+              "url": "https://mugglehead.com/anglo-american-loses-appeal-over-800000-fine-at-former-peace-river-mine/",
+              "title": "Anglo American loses appeal over $800,000 fine at former Peace River Mine - Mugglehead Investment Magazine",
+              "publishedAt": "2025-09-04T00:00:00.000Z",
+              "quote": "The late August decision confirmed the penalty first issued in 2022."
+            },
+            {
+              "url": "https://mugglehead.com/anglo-american-loses-appeal-over-800000-fine-at-former-peace-river-mine/",
+              "title": "Anglo American loses appeal over $800,000 fine at former Peace River Mine - Mugglehead Investment Magazine",
+              "publishedAt": "2025-09-04T00:00:00.000Z",
+              "quote": "In addition, the mine discharged selenium into three creeks and rivers at levels that exceeded legal limits by up to 350 per cent."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2024,
+          "summary": "Chile filed environmental charges against Anglo American's Los Bronces copper mine.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/markets/commodities/chile-files-four-environmental-charges-against-anglo-american-mine-2024-12-23/",
+              "title": "Chile files environmental charges against Anglo American copper mine",
+              "publishedAt": "2024-12-23T00:00:00.000Z",
+              "quote": "Chile files environmental charges against Anglo American copper mine"
+            },
+            {
+              "url": "https://www.reuters.com/markets/commodities/chile-files-four-environmental-charges-against-anglo-american-mine-2024-12-23/",
+              "title": "Chile files environmental charges against Anglo American copper mine",
+              "publishedAt": "2024-12-23T00:00:00.000Z",
+              "quote": "A worker walks near a drill rig in a pit at Anglo American's Los Bronces copper mine in Chile"
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2018,
+          "summary": "Anglo American and five other companies jointly paid about USD 390 million to settle a class action by former gold miners suffering from silicosis.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.aljazeera.com/economy/2020/10/21/anglo-american-sued-for-lead-poisoning-in-zambia-mining-town",
+              "title": "Zambians sue Anglo American mining company over lead poisoning | Child Rights News | Al Jazeera",
+              "publishedAt": "2020-10-21T00:00:00.000Z",
+              "quote": "In 2018, it and five other companies paid about $390m to settle a class action by former gold miners suffering from the respiratory disease silicosis."
+            },
+            {
+              "url": "https://www.aljazeera.com/economy/2020/10/21/anglo-american-sued-for-lead-poisoning-in-zambia-mining-town",
+              "title": "Zambians sue Anglo American mining company over lead poisoning | Child Rights News | Al Jazeera",
+              "publishedAt": "2020-10-21T00:00:00.000Z",
+              "quote": "The group lawsuit is the latest over Anglo American’s decades of mining in southern Africa."
+            }
+          ],
+          "severity": 3
+        },
+        {
+          "year": 2023,
+          "summary": "An application to certify a class action was filed against nine Anglo American companies over alleged health damage to coal miners.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.moneyweb.co.za/mineweb/nine-anglo-american-companies-named-in-class-action-suit-over-harm-to-coal-miners/",
+              "title": "Nine Anglo American companies named in class action suit over harm to coal miners - Moneyweb",
+              "publishedAt": "2023-10-25T00:00:00.000Z",
+              "quote": "Anglo American now finds itself in the crosshairs of class action specialist Richard Spoor, who last week filed an action in the Gauteng High Court for certification of a class action suit against nine Anglo American companies for claims of health damage to coal miners."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "fair_wages": {
+      "incidents": [],
+      "positives": [
+        "De Beers signed a five-year wage agreement with the National Union of Mineworkers covering its South African diamond operations."
+      ]
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "ticker": "EZJ",
+  "generatedAt": "2026-10-23T13:18:06.675Z",
+  "coverage": "full",
+  "causes": {
+    "climate_emissions": {
+      "incidents": [
+        {
+          "year": 2022,
+          "summary": "Badvertising and Adfree Cities submitted a complaint to the CMA alleging that EasyJet's advertising misleadingly promoted its zero-emissions targets and carbon-offsetting programme.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.badverts.org/latest/easyjets-greenwash-adverts-under-scrutiny",
+              "title": "Easyjet’s greenwash adverts under scrutiny — Badvertising",
+              "publishedAt": "2022-04-14T00:00:00.000Z",
+              "quote": "On 14th May 2022, Badvertising and Adfree Cities submitted a complaint to the UK Competition and Markets Authority (CMA) to take enforcement action against Easyjet for allegedly breaching consumer protection regulations and the watchdog’s guidance on environmental claims, the “Green Code”."
+            },
+            {
+              "url": "https://www.transportenvironment.org/articles/carbon-offsets-used-by-airlines-not-credible-investigation-shows",
+              "title": "Carbon offsets used by airlines not credible, investigation… | T&E",
+              "publishedAt": "2021-05-30T00:00:00.000Z",
+              "quote": "In the case of easyJet in Peru, it used a much more heavily populated area as a reference region, meaning its deforestation potential was much higher."
+            },
+            {
+              "url": "https://www.theguardian.com/business/2022/sep/26/easyjet-will-stop-offsetting-carbon-emissions-from-planes-roadmap-net-zero",
+              "title": "EasyJet to stop offsetting CO2 emissions from December | easyJet | The Guardian",
+              "publishedAt": "2022-09-26T00:00:00.000Z",
+              "quote": "EasyJet is to stop offsetting carbon emissions by its planes as it unveiled a “roadmap to net zero” emissions by 2050 including introducing hydrogen-powered jet engines."
+            }
+          ],
+          "severity": 1
+        },
+        {
+          "year": 2008,
+          "summary": "The Advertising Standards Authority found that EasyJet broke advertising rules by making a misleading claim that its aircraft released 22% fewer emissions than rival airlines.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/EasyJet",
+              "title": "EasyJet",
+              "quote": "In July 2008, the United Kingdom Advertising Standards Authority (ASA) criticised a press campaign by the airline, over a misleading environmental claim that its aircraft released 22% fewer emissions than rival airlines."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/EasyJet",
+              "title": "EasyJet",
+              "quote": "The figures used were not based on emissions produced by an EasyJet aircraft or emissions produced by the airline overall as the advertisement implied, and ASA declared that the airline had broken advertising rules."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": [
+        "EasyJet used carbon-offsetting projects accredited to the Gold Standard or Verified Carbon Standard from November 2019."
+      ]
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "EasyJet was among four airlines fined a combined €150 million by consumer authorities over hand-luggage charges and other fees, with appeals expected.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.lexology.com/library/detail.aspx?g=3c4e6033-ac7d-49f8-a7eb-435b5738d6f6",
+              "title": "Ryanair, Volotea, EasyJet, and Vueling Hit with €150 Million Fine for Abusive Practices",
+              "publishedAt": "2024-06-20T00:00:00.000Z",
+              "quote": "The Directorate General of Consumer Affairs has imposed a significant fine of €150 million on four low-cost airlines: Ryanair, Vueling, EasyJet, and Volotea."
+            },
+            {
+              "url": "https://www.lexology.com/library/detail.aspx?g=3c4e6033-ac7d-49f8-a7eb-435b5738d6f6",
+              "title": "Ryanair, Volotea, EasyJet, and Vueling Hit with €150 Million Fine for Abusive Practices",
+              "publishedAt": "2024-06-20T00:00:00.000Z",
+              "quote": "The price of tickets increased unexpectedly during the purchase process, making it difficult for consumers to compare prices or make informed decisions."
+            },
+            {
+              "url": "https://www.lexology.com/library/detail.aspx?g=3c4e6033-ac7d-49f8-a7eb-435b5738d6f6",
+              "title": "Ryanair, Volotea, EasyJet, and Vueling Hit with €150 Million Fine for Abusive Practices",
+              "publishedAt": "2024-06-20T00:00:00.000Z",
+              "quote": "According to media reports, all the affected airlines will appeal to the Minister."
+            }
+          ],
+          "severity": 1
+        },
+        {
+          "year": 2026,
+          "summary": "Italy's antitrust authority opened an investigation into EasyJet over alleged unfair business practices concerning baggage charges.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/legal/litigation/italy-antitrust-authority-opens-probe-into-easyjet-over-baggage-fees-2026-05-26/",
+              "title": "Italy's antitrust authority opens probe into easyJet over baggage pricing | Reuters",
+              "publishedAt": "2026-05-26T00:00:00.000Z",
+              "quote": "Italy's antitrust authority has opened an ​investigation into budget airline easyJet over ‌alleged unfair business practices related to baggage charging, it said on Tuesday."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "diversity_inclusion": {
+      "incidents": [
+        {
+          "year": 2011,
+          "summary": "A French court found EasyJet Switzerland guilty of disability discrimination after a wheelchair user was denied boarding in 2011, ordering a fine, damages and legal costs in 2024.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.connexionfrance.com/news/easyjet-fined-40000-for-refusing-wheelchair-passenger-in-france/678595",
+              "title": "EasyJet fined for disability discrimination: A landmark ruling",
+              "publishedAt": "2024-09-14T00:00:00.000Z",
+              "quote": "The airline - EasyJet’s Swiss operator, EasyJet Switzerland - must pay the fine to the French state."
+            },
+            {
+              "url": "https://www.connexionfrance.com/news/easyjet-fined-40000-for-refusing-wheelchair-passenger-in-france/678595",
+              "title": "EasyJet fined for disability discrimination: A landmark ruling",
+              "publishedAt": "2024-09-14T00:00:00.000Z",
+              "quote": "“A fine of €40,000 to be paid to the Treasury, €2,500 in damages and €2,000 in legal costs to be paid to their former customer,” said the Nantes Criminal Court, after the trial found the airline guilty on Thursday, September 12."
+            },
+            {
+              "url": "https://www.connexionfrance.com/news/easyjet-fined-40000-for-refusing-wheelchair-passenger-in-france/678595",
+              "title": "EasyJet fined for disability discrimination: A landmark ruling",
+              "publishedAt": "2024-09-14T00:00:00.000Z",
+              "quote": "The case dates back to April that year, when Marie-Bernadette - who is paraplegic (unable to move her legs), and uses a wheelchair - was boarding an EasyJet flight from Nantes to Geneva, in Switzerland."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "data_privacy": {
+      "incidents": [
+        {
+          "year": 2020,
+          "summary": "EasyJet's 2020 data breach exposed information belonging to around nine million customers, although the ICO abandoned its investigation in 2023 because of limited resources.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.itpro.com/security/data-breaches/limited-resources-scuppers-ico-probe-into-easyjet-breach",
+              "title": "“Limited resources” scupper ICO probe into EasyJet breach | IT Pro",
+              "publishedAt": "2023-11-06T00:00:00.000Z",
+              "quote": "The Information Commissioner’s Office (ICO) in the UK has abandoned its probe into the 2020 data breach at budget airline EasyJet due to “limited resources”."
+            },
+            {
+              "url": "https://www.itpro.com/security/data-breaches/limited-resources-scuppers-ico-probe-into-easyjet-breach",
+              "title": "“Limited resources” scupper ICO probe into EasyJet breach | IT Pro",
+              "publishedAt": "2023-11-06T00:00:00.000Z",
+              "quote": "The EasyJet hack remains one of the largest data breaches in UK history, with data belonging to around nine million customers exposed."
+            },
+            {
+              "url": "https://www.itpro.com/security/data-breaches/limited-resources-scuppers-ico-probe-into-easyjet-breach",
+              "title": "“Limited resources” scupper ICO probe into EasyJet breach | IT Pro",
+              "publishedAt": "2023-11-06T00:00:00.000Z",
+              "quote": "Customers were warned at the time they could face heightened security threats, such as phishing, as a result of the breach."
+            }
+          ],
+          "severity": 4
+        }
+      ],
+      "positives": []
+    },
+    "fair_wages": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "The UK government named EasyJet among businesses that failed to pay some staff the minimum wage.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.independent.co.uk/news/uk/home-news/minimum-wage-breaches-greggs-easyjet-b2499339.html",
+              "title": "Greggs and easyJet among companies named and shamed for ...",
+              "quote": "Pub group Mitchells & Butlers, bakery Greggs and airline easyJet have been named as some of the major British companies that did not pay some staff the minimum wage."
+            },
+            {
+              "url": "https://www.independent.co.uk/news/uk/home-news/minimum-wage-breaches-greggs-easyjet-b2499339.html",
+              "title": "Greggs and easyJet among companies named and shamed for ...",
+              "quote": "The Government released a list of 524 businesses that failed to pay employees the national minimum wage, or the national living wage, which is what the Government calls the minimum wage for people aged over 21."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

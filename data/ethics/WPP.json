@@ -1,0 +1,111 @@
+{
+  "ticker": "WPP",
+  "generatedAt": "2026-10-23T13:30:22.303Z",
+  "coverage": "full",
+  "causes": {
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2017,
+          "summary": "WPP paid £14 million to settle a US regulatory case concerning alleged bribery in India and other illicit schemes in Peru, China and Brazil, and announced compliance reforms.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.thisismoney.co.uk/money/markets/article-10025769/WPP-agrees-pay-14m-resolve-bribery-case-regulators-US.html",
+              "title": "WPP agrees to pay £14m to resolve bribery case with regulators in US | This is Money",
+              "publishedAt": "2021-09-24T00:00:00.000Z",
+              "quote": "WPP has agreed to pay £14m to resolve a bribery case with regulators in the US."
+            },
+            {
+              "url": "https://www.thisismoney.co.uk/money/markets/article-10025769/WPP-agrees-pay-14m-resolve-bribery-case-regulators-US.html",
+              "title": "WPP agrees to pay £14m to resolve bribery case with regulators in US | This is Money",
+              "publishedAt": "2021-09-24T00:00:00.000Z",
+              "quote": "The world's largest advertising agency was accused of paying bribes to officials in India and taking part in other 'illicit schemes' in Peru, China and Brazil."
+            },
+            {
+              "url": "https://www.thisismoney.co.uk/money/markets/article-10025769/WPP-agrees-pay-14m-resolve-bribery-case-regulators-US.html",
+              "title": "WPP agrees to pay £14m to resolve bribery case with regulators in US | This is Money",
+              "publishedAt": "2021-09-24T00:00:00.000Z",
+              "quote": "A WPP spokesman said: 'WPP's new leadership has put in place robust new compliance measures and controls, fundamentally changed its approach to acquisitions, cooperated fully with the commission and terminated those involved in misconduct.'"
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2023,
+          "summary": "Three GroupM China executives were detained in 2023 and subsequently convicted over an illegal kickback scheme valued at approximately $176 million.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.adweek.com/agencies/exclusive-new-claims-in-wpp-whistleblower-suit-allege-sony-probe-found-rebate-fraud/",
+              "title": "New Claims In WPP Whistleblower Suit Allege Sony Probe Found Rebate Fraud",
+              "publishedAt": "2026-08-14T00:00:00.000Z",
+              "quote": "In 2023, Chinese authorities detained (and later convicted) three GroupM China execs over an illegal kickback scheme valued at ¥1.2 billion (roughly $176 million)."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2026,
+          "summary": "Former GroupM executive Richard Foster's wrongful-termination lawsuit alleges retaliation for exposing improperly withheld client rebates, citing a purported Sony investigation and alleged agreement from senior executives.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.mediapost.com/publications/article/417405/wpp-demands-court-seal-fosters-sony-probe-details.html",
+              "title": "WPP Demands Court Seal Foster's Sony Probe Details 08/24/2026",
+              "publishedAt": "2026-08-24T00:00:00.000Z",
+              "quote": "Last week former GroupM executive Richard Foster filed an amended complaint in his wrongful termination lawsuit against WPP that alleges he was dismissed illegally for exposing the company’s improper withholding and use of rebates that belonged to clients."
+            },
+            {
+              "url": "https://www.mediapost.com/publications/article/417405/wpp-demands-court-seal-fosters-sony-probe-details.html",
+              "title": "WPP Demands Court Seal Foster's Sony Probe Details 08/24/2026",
+              "publishedAt": "2026-08-24T00:00:00.000Z",
+              "quote": "According to Foster, that probe found that in 2023 in China WPP returned approximately $110 million in rebates to clients while it wrongfully retained $350 million in discounts from sellers."
+            },
+            {
+              "url": "https://www.mediapost.com/publications/article/417405/wpp-demands-court-seal-fosters-sony-probe-details.html",
+              "title": "WPP Demands Court Seal Foster's Sony Probe Details 08/24/2026",
+              "publishedAt": "2026-08-24T00:00:00.000Z",
+              "quote": "Foster’s amended complaint also alleged that executives within the company agreed with him that GroupM/WPP Media's rebate policies were in some cases illegal and unsustainable."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "climate_emissions": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "Environmental campaigners filed an OECD complaint alleging that WPP's advertising for polluting clients breaches corporate-responsibility guidelines and undermines emissions-reduction efforts.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.independent.co.uk/climate-change/news/wpp-lawyers-ford-hsbc-british-airways-b2695783.html",
+              "title": "Ad giant WPP reported to global watchdog for promotion of polluting clients | The Independent",
+              "publishedAt": "2025-02-11T00:00:00.000Z",
+              "quote": "The complaint to the Organisation for Economic Cooperation and Development (OECD) by the New Weather Institute and Adfree Cities says the firm is in breach of its international guidelines on corporate responsibility."
+            },
+            {
+              "url": "https://www.independent.co.uk/climate-change/news/wpp-lawyers-ford-hsbc-british-airways-b2695783.html",
+              "title": "Ad giant WPP reported to global watchdog for promotion of polluting clients | The Independent",
+              "publishedAt": "2025-02-11T00:00:00.000Z",
+              "quote": "It alleges WPP’s work for clients including Shell, BP, British Airways, HSBC, Ford and Coca Cola “directly increases demand for carbon-intensive products and undermines global efforts to reduce greenhouse gas emissions”."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    }
+  }
+}

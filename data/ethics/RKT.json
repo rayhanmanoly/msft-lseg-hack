@@ -1,0 +1,158 @@
+{
+  "ticker": "RKT",
+  "generatedAt": "2026-10-23T13:26:26.965Z",
+  "coverage": "full",
+  "causes": {
+    "product_safety": {
+      "incidents": [
+        {
+          "year": 2011,
+          "summary": "Reckitt's Oxy humidifier disinfectant was linked to 221 confirmed deaths and 300 confirmed health injuries, and the company subsequently admitted its products caused fatalities.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Reckitt",
+              "title": "Reckitt",
+              "quote": "In 2011, the use of PHMG was dropped when the Korea Centers for Disease Control and Prevention (KCDC) published a report showing a link between the compound and lung damage and deaths."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Reckitt",
+              "title": "Reckitt",
+              "quote": "it was the first time the company had admitted that its products containing PHMG were potentially harmful and caused fatalities."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Reckitt",
+              "title": "Reckitt",
+              "quote": "with Reckitt Benckiser's humidifier disinfectant product, Oxy Ssak Ssak (옥시싹싹) being the humidifier disinfectant product with the largest amount of victims with 221 confirmed deaths and 300 confirmed health damages."
+            }
+          ],
+          "severity": 5
+        },
+        {
+          "year": 2024,
+          "summary": "An Illinois jury ordered Mead Johnson to pay $60 million over a premature baby's death after finding negligence and failure to warn about NEC risk, and Reckitt announced it would challenge the verdict.",
+          "relativeScale": 3,
+          "confirmed": true,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.reuters.com/legal/reckitt-unit-hit-with-60-million-verdict-enfamil-baby-formula-case-illinois-2024-03-14/",
+              "title": "Reckitt unit hit with $60 million verdict in Enfamil baby formula case in Illinois | Reuters",
+              "publishedAt": "2024-03-14T00:00:00.000Z",
+              "quote": "The jury in an Illinois state court in St. Clair County on Wednesday found that Mead Johnson was negligent and that it failed to warn of the risk of necrotizing enterocolitis (NEC)."
+            },
+            {
+              "url": "https://www.reuters.com/legal/reckitt-shares-sink-investors-see-more-trouble-baby-formula-lawsuits-2024-03-15/",
+              "title": "Reckitt to challenge $60 mln baby formula verdict, shares sink",
+              "publishedAt": "2024-03-15T00:00:00.000Z",
+              "quote": "An Illinois jury ordered Reckitt unit Mead Johnson on Wednesday to pay $60 million to the mother of a premature baby who died of an intestinal disease after being fed Enfamil."
+            },
+            {
+              "url": "https://www.reuters.com/legal/reckitt-shares-sink-investors-see-more-trouble-baby-formula-lawsuits-2024-03-15/",
+              "title": "Reckitt to challenge $60 mln baby formula verdict, shares sink",
+              "publishedAt": "2024-03-15T00:00:00.000Z",
+              "quote": "said on Friday it would pursue all options to have a $60 million verdict overturned in a lawsuit related to its Enfamil baby formula in the United States as it stood by the safety of all its products."
+            }
+          ],
+          "severity": 4
+        }
+      ],
+      "positives": []
+    },
+    "anti_corruption": {
+      "incidents": [
+        {
+          "year": 2019,
+          "summary": "Reckitt agreed to $700 million in payouts resolving Suboxone Medicaid-fraud lawsuits in 2019 and subsequently faced an investor lawsuit over allegedly false Suboxone marketing in 2023.",
+          "relativeScale": 4,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.atg.wa.gov/news/news-releases/ag-ferguson-drug-maker-pays-millions-over-allegations-it-propped-price-opioid",
+              "title": "AG Ferguson: Drug maker pays millions over allegations it propped up price of opioid addiction treatment | Washington State",
+              "publishedAt": "2019-10-25T00:00:00.000Z",
+              "quote": "Today’s agreement resolves six whistleblower lawsuits in federal courts in Virginia and New Jersey, and involves $700 million in payouts to the federal government and state Medicaid programs."
+            },
+            {
+              "url": "https://www.atg.wa.gov/news/news-releases/ag-ferguson-drug-maker-pays-millions-over-allegations-it-propped-price-opioid",
+              "title": "AG Ferguson: Drug maker pays millions over allegations it propped up price of opioid addiction treatment | Washington State",
+              "publishedAt": "2019-10-25T00:00:00.000Z",
+              "quote": "improperly kept the price of opioid addiction treatment drug Suboxone high by delaying generic versions, resulting in false or fraudulent claims to Washington’s Medicaid program."
+            },
+            {
+              "url": "https://www.reuters.com/world/uk/reckitt-benckiser-indivior-ask-london-court-throw-out-suboxone-lawsuit-2023-11-20/",
+              "title": "Reckitt Benckiser, Indivior, ask London court to throw out Suboxone lawsuit",
+              "publishedAt": "2023-11-20T00:00:00.000Z",
+              "quote": "London-listed drugmaker Indivior and Reckitt Benckiser, its parent until Indivior was spun off in 2014, are facing a claim brought on behalf of hundreds of investors potentially worth hundreds of millions of pounds."
+            }
+          ],
+          "severity": 4
+        }
+      ],
+      "positives": []
+    },
+    "biodiversity": {
+      "incidents": [
+        {
+          "year": 2021,
+          "summary": "A pollution discharge from Reckitt's Derby site killed 381 fish, after which the company paid for habitat restoration, drainage improvements and regulatory costs.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.6,
+          "sources": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cx2nk80pkkko",
+              "title": "Derby firm's fish deaths donation to fund river restoration - BBC News",
+              "publishedAt": "2024-08-13T00:00:00.000Z",
+              "quote": "The leak led to the death of 371 bullhead and 10 stickleback fish, caused the “prolific” growth of sewage fungus in the river and left a perfumed odour, said the Environment Agency."
+            },
+            {
+              "url": "https://www.gov.uk/government/news/reckitt-benckiser-make-charity-payment-for-breach-of-regulations",
+              "title": "Reckitt Benckiser make charity payment for breach of Regulations - GOV.UK",
+              "publishedAt": "2024-08-12T00:00:00.000Z",
+              "quote": "East Mercia Rivers Trust has received a financial boost of £150,000 after the Environment Agency accepted an Enforcement Undertaking (EU) offer from Reckitt Benckiser (UK) Ltd."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cx2nk80pkkko",
+              "title": "Derby firm's fish deaths donation to fund river restoration - BBC News",
+              "publishedAt": "2024-08-13T00:00:00.000Z",
+              "quote": "The company has since spent £300,000 upgrading drainage to prevent the incident happening again, and paid the Environment Agency’s costs of more than £10,000."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": [
+        "Reckitt partnered with Earthworm Foundation and Airbus to use satellite technology to monitor its entire palm oil supply chain for deforestation."
+      ]
+    },
+    "customer_practices": {
+      "incidents": [
+        {
+          "year": 2008,
+          "summary": "BBC Newsnight accused Reckitt of attempting to delay generic competition for Gaviscon, while Reckitt disputed the allegations.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Reckitt",
+              "title": "Reckitt",
+              "quote": "In 2008, the BBC's Newsnight accused Reckitt Benckiser of attempting to delay the introduction of a competitive, generic version of one of its most popular products, Gaviscon, a treatment for heartburn and gastroesophageal reflux disease."
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Reckitt",
+              "title": "Reckitt",
+              "quote": "The newspaper quoted Reckitt as stating that the leaked memos were \"inappropriate and did not reflect Reckitt's eventual actions\"."
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    }
+  }
+}

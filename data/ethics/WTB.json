@@ -1,0 +1,122 @@
+{
+  "ticker": "WTB",
+  "generatedAt": "2026-10-23T13:30:03.057Z",
+  "coverage": "full",
+  "causes": {
+    "fair_wages": {
+      "incidents": [
+        {
+          "year": 2026,
+          "summary": "Government enforcement found that Whitbread underpaid 342 employees by £4,193, which the company attributed to an administrative error it said had been rectified.",
+          "relativeScale": 1,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.thecaterer.com/news/five-guys-and-whitbread-named-for-paying-below-minimum-wage",
+              "title": "Five Guys and Whitbread named for paying below minimum wage - News",
+              "publishedAt": "2026-09-03T00:00:00.000Z",
+              "quote": "Premier Inn owner Whitbread failed to pay 342 employees a total of £4,193."
+            },
+            {
+              "url": "https://www.thecaterer.com/news/five-guys-and-whitbread-named-for-paying-below-minimum-wage",
+              "title": "Five Guys and Whitbread named for paying below minimum wage - News",
+              "publishedAt": "2026-09-03T00:00:00.000Z",
+              "quote": "The company blamed the shortfall on an administrative error, which it said has now been rectified."
+            },
+            {
+              "url": "https://www.thecaterer.com/news/five-guys-and-whitbread-named-for-paying-below-minimum-wage",
+              "title": "Five Guys and Whitbread named for paying below minimum wage - News",
+              "publishedAt": "2026-09-03T00:00:00.000Z",
+              "quote": "The list businesses, which was topped by DIY retailer B&Q, have since paid a cumulative £4m to more than 27,000 workers following “robust” enforcement action."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    },
+    "diversity_inclusion": {
+      "incidents": [
+        {
+          "year": 2025,
+          "summary": "Whitbread apologised after two disabled children were prevented from eating their specially prepared food at a Premier Inn restaurant and announced that it would refresh its procedures for disability-related exceptions.",
+          "relativeScale": 2,
+          "confirmed": true,
+          "remediation": 0.3,
+          "sources": [
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cwyd1n3vg4do",
+              "title": "Restaurant 'refused to let disabled children eat prepared food' - BBC News",
+              "publishedAt": "2025-10-02T00:00:00.000Z",
+              "quote": "The couple took pre-prepared meals for their children, due to their disabilities, but Ms Sicolo said she was told by staff they could not eat them because of the company's no \"outside food policy\"."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cwyd1n3vg4do",
+              "title": "Restaurant 'refused to let disabled children eat prepared food' - BBC News",
+              "publishedAt": "2025-10-02T00:00:00.000Z",
+              "quote": "Whitbread has since apologised and said \"an exception should have been made to meet the needs of the disabled children\"."
+            },
+            {
+              "url": "https://www.bbc.co.uk/news/articles/cwyd1n3vg4do",
+              "title": "Restaurant 'refused to let disabled children eat prepared food' - BBC News",
+              "publishedAt": "2025-10-02T00:00:00.000Z",
+              "quote": "\"We will be refreshing our processes to ensure it is fully understood that exceptions should be made in specific circumstances to meet the needs of guests with disabilities.\""
+            }
+          ],
+          "severity": 1
+        }
+      ],
+      "positives": []
+    },
+    "labour_rights": {
+      "incidents": [
+        {
+          "year": 2024,
+          "summary": "Unite threatened employment tribunal claims over allegedly inadequate consultation on Whitbread's restaurant closures and 1,500 planned job cuts, allegations the company denied.",
+          "relativeScale": 3,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://www.hospitalityandcateringnews.com/2024/06/closures-and-job-losses-at-whitbread-provokes-threat-of-legal-action-from-unite/",
+              "title": "Closures and job losses at Whitbread provokes threat of legal action from Unite - Hospitality & Catering News",
+              "publishedAt": "2024-06-13T00:00:00.000Z",
+              "quote": "Hundreds of people currently working at restaurants including Brewers Fayre, Table Table and Beefeater are considering taking legal action against Whitbread, over an alleged lack of consultation on restaurant closures and 1,500 planned job cuts."
+            },
+            {
+              "url": "https://www.whatjobs.com/news/premier-inn-owner-could-face-legal-action-over-1500-proposed-job-cuts/",
+              "title": "Premier Inn Owner Could Face Legal Action Over 1,500 Proposed Job Cuts | WhatJobs News",
+              "publishedAt": "2024-06-11T00:00:00.000Z",
+              "quote": "It argues the statutory 45-day consultation period that began in late April has not been conducted in a “genuine or meaningful way.”"
+            },
+            {
+              "url": "https://www.whatjobs.com/news/premier-inn-owner-could-face-legal-action-over-1500-proposed-job-cuts/",
+              "title": "Premier Inn Owner Could Face Legal Action Over 1,500 Proposed Job Cuts | WhatJobs News",
+              "publishedAt": "2024-06-11T00:00:00.000Z",
+              "quote": "A Whitbread spokesperson said: “We do not accept these allegations."
+            }
+          ],
+          "severity": 2
+        },
+        {
+          "year": 2017,
+          "summary": "United Left alleged that Whitbread left the Ethical Trading Initiative in 2017 after refusing to meaningfully honour its commitments to freedom of association and collective bargaining.",
+          "relativeScale": 2,
+          "confirmed": false,
+          "remediation": 0,
+          "sources": [
+            {
+              "url": "https://unitedleft.org.uk/unites-campaign-for-justice-in-whitbread-hotels/",
+              "title": "Unite's campaign for justice in Whitbread hotels - United Left",
+              "publishedAt": "2022-02-15T00:00:00.000Z",
+              "quote": "Whitbread left the Ethical Trading Initiative after only one year in 2017 for refusing to meaningfully honour its commitment to freedom of association and collective bargaining."
+            }
+          ],
+          "severity": 2
+        }
+      ],
+      "positives": []
+    }
+  }
+}

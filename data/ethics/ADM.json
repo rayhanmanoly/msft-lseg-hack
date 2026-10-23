@@ -1,0 +1,20 @@
+{
+  "ticker": "ADM",
+  "generatedAt": "2026-10-23T13:07:22.389Z",
+  "coverage": "full",
+  "causes": {
+    "biodiversity": {
+      "incidents": [],
+      "positives": [
+        "Admiral sponsors the planting and maintenance of two new Tiny Forests in Wales through its Earthwatch partnership.",
+        "Admiral committed £600,000 to National Trust landscape restoration and natural flood-management projects in Wales, Somerset and the Lake District."
+      ]
+    },
+    "community_impact": {
+      "incidents": [],
+      "positives": [
+        "Admiral announced a three-year, £1 million partnership with Save the Children to support work addressing poverty and climate impacts on children."
+      ]
+    }
+  }
+}
